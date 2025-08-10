@@ -680,10 +680,11 @@ const mods = [
   }
   ,
   {
-    title: "shitass",
+    title: "",
     author: "",
     releaseDate: "",
     type: "Custom Story",
     downloadLink: ""
   }
 ];
+
