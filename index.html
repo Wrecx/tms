@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Mod Sanitarium</title>
+  <link rel="icon" href="icon.png" type="image/png">
+  <style>
+    /* Make full height layout with flexbox */
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 0; /* reset padding here because header has padding */
+      box-sizing: border-box;
+    }
+
+    header {
+    top: 0;
+    background-color: #f9f9f9;
+    color: #4CAF50;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    main {
+      flex: 1 0 auto; /* fill vertical space */
+      max-width: 800px;
+      margin: 1.5rem auto 2rem; /* add some margin top to separate from header */
+      width: 100%;
+      padding: 0 2rem;
+      box-sizing: border-box;
+    }
+    /* rest of your styles unchanged... */
+
+    .filters {
+      margin-bottom: 1.5rem;
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    select {
+      padding: 0.4rem 0.6rem;
+      font-size: 1rem;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+    }
+    .filters label input[type="search"] {
+      padding: 0.4rem 0.6rem;
+      font-size: 1rem;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+      width: 200px;
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      vertical-align: top; /* align top for wrapped cells */
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+      text-align: left;
+      white-space: nowrap; /* keep header single line */
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    td.title, td.author {
+      max-width: 300px;
+      white-space: normal;
+      word-wrap: break-word;
+    }
+    @media (max-width: 600px) {
+      .filters {
+        flex-direction: column;
+        align-items: center;
+      }
+      select {
+        width: 100%;
+        max-width: 300px;
+      }
+      .filters label input[type="search"] {
+        width: 100%;
+        max-width: 300px;
+      }
+      td.title, td.author {
+        max-width: 100%;
+      }
+    }
+    footer {
+      flex-shrink: 0;
+      text-align: center;
+      margin: 2rem 0 0 0;
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 30px;
+    }
+    footer a {
+      color: #4CAF50;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    th:first-child, td:first-child {
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    }
+    a {
+    color: #4CAF50;
+    }
+    .header-content {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    }
+    #headerTitle {
+    user-select: none;
+    margin-top: 10px;
+    }
+#timeline {
+  display: flex;
+  overflow-x: auto;
+  gap: 12px;
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid #4CAF50;
+  font-size: 0.9rem;
+  color: #4CAF50;
+  cursor: pointer;
+}
+#timeline .year {
+  margin: 0 4px; /* reduce horizontal margin from default to 4px */
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#timeline .dot {
+  width: 14px;
+  height: 14px;
+  background-color: #4CAF50;
+  border-radius: 50%;
+  margin-bottom: 4px;
+  transition: transform 0.2s ease;
+}
+#timeline .dot:hover {
+  transform: scale(1.3);
+}
+#timeline .year.active .dot {
+  background-color: #2e7d32;
+  transform: scale(1.4);
+}
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.filter-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.toggle-btn {
+  padding: 0.4rem 0.6rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.toggle-btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+#yearFilter {
+  display: none;
+}
+table {
+  width: 120%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#noUnderline {
+    text-decoration: none;
+  color: inherit; /* keeps the header text color */
+  cursor: pointer; /* shows pointer on hover */
+}
+.fixed-width {
+  width: 120px; /* or whatever fixed width you want */
+  white-space: nowrap; /* prevent line breaks */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.release-date {
+  width: 110px;
+}
+.type {
+  width: 100px;
+}
+.download {
+  width: 80px;
+}
+.description {
+  max-width: 800px;
+  margin: 0 auto 1rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-content">
+    <span id="headerTitle"><a href="#" id="noUnderline">The Mod Sanitarium</a></span>
+  </div>
+</header>
+
+  <main>
+<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game, it doesn't list demos or earlier versions of mods and for mods which had "Amnesia: " in their name, I just removed that part.</p>
+<br>
+<div class="filters" role="region" aria-label="Filter and sort options">
+  <!-- Row 1: Sort + Year -->
+  <div class="filter-row">
+    <label>
+      Sort by:
+      <select id="sortCriteria" aria-controls="modsTable" value="dateDesc">
+        <option value="dateDesc" selected>Release Date (Newest to Oldest)</option>
+        <option value="dateAsc">Release Date (Oldest to Newest)</option>
+        <option value="titleAsc">Title (A-Z)</option>
+        <option value="titleDesc">Title (Z-A)</option>
+        <option value="authorAsc">Author (A-Z)</option>
+        <option value="authorDesc">Author (Z-A)</option>
+      </select>
+    </label>
+
+    <label>
+      <select id="yearFilter" aria-controls="modsTable">
+        <option value="all">All Years</option>
+      </select>
+    </label>
+
+    <label>
+      Type:
+      <select id="typeFilter" aria-controls="modsTable" aria-label="Filter mods by type">
+        <option value="all" selected>All Types</option>
+        <option value="Custom Story">Custom Story</option>
+        <option value="Addon">Addon</option>
+      </select>
+    </label>
+
+  </div>
+
+  <!-- Row 2: Toggle buttons -->
+  <div class="filter-row">
+    <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
+    <button id="toggleGraph" class="toggle-btn">Show Graph</button>
+  </div>
+
+  <!-- Row 3: Search -->
+  <div class="filter-row">
+    <label>
+      Search:
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="Search title or author"
+        aria-label="Search mods by title or author"
+        autocomplete="off"
+      />
+    </label>
+  </div>
+</div>
+
+
+<div id="timeline" aria-label="Mod release timeline" role="region" style="margin-bottom: 1.5rem; user-select: none;">
+  <!-- Timeline dots will be rendered here by JS -->
+</div>
+
+<canvas id="modsPerYearChart" width="400" height="200"></canvas>
+<br>
+
+    <table id="modsTable" aria-label="List of Amnesia mods">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Mod Title</th>
+            <th>Author</th>
+            <th class="fixed-width release-date">Release Date</th>
+            <th class="fixed-width type">Type</th>
+            <th class="fixed-width download">Download</th>
+        </tr>
+        </thead>
+      <tbody>
+        <!-- Mod rows will be inserted here by JS -->
+      </tbody>
+    </table>
+  </main>
+
+<footer>
+  <a href="https://discord.gg/x7rghxHr2s" target="_blank" rel="noopener noreferrer">
+    <img src="Discord-Symbol-Blurple.svg" alt="Discord" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(90%) contrast(85%);">
+  </a>
+</footer>
+
+  <script src="mods.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const tableBody = document.querySelector('#modsTable tbody');
+  const sortSelect = document.getElementById('sortCriteria');
+  const searchInput = document.getElementById('searchInput');
+  const typeSelect = document.getElementById('typeFilter');
+
+  const startYear = 2010;
+  const endYear = 2025;
+  let selectedYear = 'all';
+
+  function renderMods(modsToRender) {
+    tableBody.innerHTML = '';
+    modsToRender.forEach((mod, index) => {
+      const tr = document.createElement('tr');
+
+      const idTd = document.createElement('td');
+      idTd.textContent = index + 1;
+      idTd.style.fontWeight = 'bold';
+      idTd.style.width = '2rem';
+      idTd.style.textAlign = 'right';
+      tr.appendChild(idTd);
+
+      const titleTd = document.createElement('td');
+      titleTd.classList.add('title');
+      titleTd.textContent = mod.title;
+      tr.appendChild(titleTd);
+
+      const authorTd = document.createElement('td');
+      authorTd.classList.add('author');
+      authorTd.textContent = mod.author;
+      tr.appendChild(authorTd);
+
+      const dateTd = document.createElement('td');
+      dateTd.classList.add('release-date', 'fixed-width');
+      dateTd.textContent = mod.releaseDate;
+      tr.appendChild(dateTd);
+
+      const typeTd = document.createElement('td');
+      typeTd.classList.add('type', 'fixed-width');
+      typeTd.textContent = mod.type;
+      tr.appendChild(typeTd);
+
+      const downloadTd = document.createElement('td');
+      downloadTd.classList.add('download', 'fixed-width');
+      const downloadLink = document.createElement('a');
+      downloadLink.href = mod.downloadLink;
+      downloadLink.textContent = 'Download';
+      downloadLink.target = '_blank';
+      downloadLink.rel = 'noopener noreferrer';
+      downloadTd.appendChild(downloadLink);
+      tr.appendChild(downloadTd);
+
+      tableBody.appendChild(tr);
+    });
+  }
+
+  function sortMods(criteria, modsArray) {
+    let sorted = [...modsArray];
+    switch(criteria) {
+      case 'titleAsc':
+        sorted.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      case 'titleDesc':
+        sorted.sort((a, b) => b.title.localeCompare(a.title));
+        break;
+      case 'authorAsc':
+        sorted.sort((a, b) => a.author.localeCompare(b.author));
+        break;
+      case 'authorDesc':
+        sorted.sort((a, b) => b.author.localeCompare(a.author));
+        break;
+      case 'dateAsc':
+        sorted.sort((a, b) => new Date(a.releaseDate) - new Date(b.releaseDate));
+        break;
+      case 'dateDesc':
+        sorted.sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate));
+        break;
+    }
+    return sorted;
+  }
+
+  function filterByYear(year, modsArray) {
+    if (year === 'all') return modsArray;
+    return modsArray.filter(mod => new Date(mod.releaseDate).getFullYear().toString() === year);
+  }
+
+  function filterByType(type, modsArray) {
+    if (type === 'all') return modsArray;
+    return modsArray.filter(mod => mod.type === type);
+  }
+
+  function filterBySearch(text, modsArray) {
+    if (!text) return modsArray;
+    const lowerText = text.toLowerCase();
+    return modsArray.filter(mod =>
+      mod.title.toLowerCase().includes(lowerText) ||
+      mod.author.toLowerCase().includes(lowerText)
+    );
+  }
+
+  function updateMods() {
+    const selectedSort = sortSelect.value;
+    const searchText = searchInput.value.trim();
+    const selectedType = typeSelect.value;
+
+    let filtered = filterByYear(selectedYear, mods);
+    filtered = filterBySearch(searchText, filtered);
+    filtered = filterByType(selectedType, filtered);
+
+    let sorted = sortMods(selectedSort, filtered);
+    renderMods(sorted);
+
+    renderOrUpdateModsChart(selectedYear);
+  }
+
+  // --- Timeline ---
+  const timeline = document.getElementById('timeline');
+
+  function renderTimeline(modsArray) {
+    timeline.innerHTML = '';
+
+    const modsByYear = {};
+    modsArray.forEach(mod => {
+      const year = new Date(mod.releaseDate).getFullYear();
+      if (!modsByYear[year]) modsByYear[year] = 0;
+      modsByYear[year]++;
+    });
+
+    // All Years button
+    const allYearsDiv = document.createElement('div');
+    allYearsDiv.className = 'year';
+    allYearsDiv.tabIndex = 0;
+    allYearsDiv.setAttribute('role', 'button');
+    allYearsDiv.setAttribute('aria-label', `All Years (${modsArray.length} mods)`);
+
+    const allDot = document.createElement('div');
+    allDot.className = 'dot';
+    allDot.style.opacity = '1';
+    allYearsDiv.appendChild(allDot);
+
+    const allLabel = document.createElement('div');
+    allLabel.textContent = 'All';
+    allYearsDiv.appendChild(allLabel);
+    timeline.appendChild(allYearsDiv);
+
+    allYearsDiv.addEventListener('click', () => {
+      selectedYear = 'all';
+      updateMods();
+      updateTimelineActive();
+    });
+
+    // Each year
+    for (let y = endYear; y >= startYear; y--) {
+      const count = modsByYear[y] || 0;
+      const yearDiv = document.createElement('div');
+      yearDiv.className = 'year';
+      yearDiv.tabIndex = 0;
+      yearDiv.setAttribute('role', 'button');
+      yearDiv.setAttribute('aria-label', `${y} (${count} mods)`);
+
+      const dot = document.createElement('div');
+      dot.className = 'dot';
+      dot.style.opacity = count > 0 ? '1' : '0.2';
+      yearDiv.appendChild(dot);
+
+      const yearLabel = document.createElement('div');
+      yearLabel.textContent = y;
+      yearDiv.appendChild(yearLabel);
+
+      timeline.appendChild(yearDiv);
+
+      yearDiv.addEventListener('click', () => {
+        selectedYear = (selectedYear === y.toString()) ? 'all' : y.toString();
+        updateMods();
+        updateTimelineActive();
+      });
+    }
+  }
+
+  function updateTimelineActive() {
+    document.querySelectorAll('#timeline .year').forEach(div => {
+      const label = div.querySelector('div:last-child')?.textContent;
+      div.classList.toggle('active', (selectedYear === 'all' && label === 'All') || label === selectedYear);
+    });
+  }
+
+  // --- Chart ---
+  let modsChart = null;
+
+  function renderOrUpdateModsChart(year = 'all') {
+    const ctx = document.getElementById('modsPerYearChart').getContext('2d');
+    const selectedType = typeSelect.value;
+    let filtered = filterByType(selectedType, mods);
+
+    if (year !== 'all') {
+      filtered = filterByYear(year, filtered);
+    }
+
+    if (year === 'all') {
+      const yearCounts = {};
+      for (let y = startYear; y <= endYear; y++) {
+        yearCounts[y] = 0;
+      }
+      filtered.forEach(mod => {
+        const y = new Date(mod.releaseDate).getFullYear();
+        if (yearCounts[y] !== undefined) yearCounts[y]++;
+      });
+
+      const labels = Object.keys(yearCounts);
+      const data = Object.values(yearCounts);
+
+      if (modsChart) {
+        modsChart.data.labels = labels;
+        modsChart.data.datasets[0].data = data;
+        modsChart.data.datasets[0].label = 'Mods Released per Year';
+        modsChart.update();
+      } else {
+        modsChart = new Chart(ctx, {
+          type: 'bar',
+          data: { labels, datasets: [{ label: 'Mods Released per Year', data, backgroundColor: '#4CAF50' }] },
+          options: { scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+        });
+      }
+    } else {
+      const monthCounts = new Array(12).fill(0);
+      filtered.forEach(mod => {
+        const d = new Date(mod.releaseDate);
+        if (d.getFullYear().toString() === year) monthCounts[d.getMonth()]++;
+      });
+
+      const labels = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+      if (modsChart) {
+        modsChart.data.labels = labels;
+        modsChart.data.datasets[0].data = monthCounts;
+        modsChart.data.datasets[0].label = `Mods Released in ${year} (Monthly)`;
+        modsChart.update();
+      } else {
+        modsChart = new Chart(ctx, {
+          type: 'bar',
+          data: { labels, datasets: [{ label: `Mods Released in ${year} (Monthly)`, data: monthCounts, backgroundColor: '#4CAF50' }] },
+          options: { scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+        });
+      }
+    }
+  }
+
+  // --- Init ---
+  updateMods();
+  renderTimeline(mods);
+  updateTimelineActive();
+
+  // Events
+  sortSelect.addEventListener('change', updateMods);
+  searchInput.addEventListener('input', updateMods);
+  typeSelect.addEventListener('change', updateMods);
+
+  // Toggle buttons
+  document.getElementById('toggleTimeline').addEventListener('click', () => {
+    const el = document.getElementById('timeline');
+    el.style.display = (el.style.display === 'none') ? 'flex' : 'none';
+  });
+
+  document.getElementById('toggleGraph').addEventListener('click', () => {
+    const el = document.getElementById('modsPerYearChart');
+    el.style.display = (el.style.display === 'none') ? 'block' : 'none';
+  });
+
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('timeline').style.display = 'none';
+    document.getElementById('modsPerYearChart').style.display = 'none';
+  });
+</script>
+
+
+</body>
+</html>
