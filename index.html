@@ -6,6 +6,7 @@
   <title>The Mod Sanitarium</title>
   <link rel="icon" href="icon.png" type="image/png">
   <style>
+    /* Make full height layout with flexbox */
     html, body {
       height: 100%;
       margin: 0;
@@ -17,7 +18,7 @@
       font-family: Arial, sans-serif;
       background: #f9f9f9;
       color: #333;
-      padding: 0;
+      padding: 0; /* reset padding here because header has padding */
       box-sizing: border-box;
     }
 
@@ -35,13 +36,14 @@
     }
 
     main {
-      flex: 1 0 auto;
+      flex: 1 0 auto; /* fill vertical space */
       max-width: 800px;
-      margin: 1.5rem auto 2rem;
+      margin: 1.5rem auto 2rem; /* add some margin top to separate from header */
       width: 100%;
       padding: 0 2rem;
       box-sizing: border-box;
     }
+    /* rest of your styles unchanged... */
 
     .filters {
       margin-bottom: 1.5rem;
@@ -76,13 +78,13 @@
     th, td {
       border: 1px solid #ddd;
       padding: 8px;
-      vertical-align: top;
+      vertical-align: top; /* align top for wrapped cells */
     }
     th {
       background-color: #4CAF50;
       color: white;
       text-align: left;
-      white-space: nowrap;
+      white-space: nowrap; /* keep header single line */
     }
     tr:nth-child(even) {
       background-color: #f2f2f2;
@@ -115,7 +117,7 @@
       margin: 2rem 0 0 0;
       font-size: 0.9rem;
       color: #666;
-      margin-bottom: 30px;
+      padding-bottom: 25px;
     }
     footer a {
       color: #4CAF50;
@@ -152,7 +154,7 @@
   cursor: pointer;
 }
 #timeline .year {
-  margin: 0 4px;
+  margin: 0 4px; /* reduce horizontal margin from default to 4px */
   cursor: pointer;
   user-select: none;
   display: flex;
@@ -214,12 +216,12 @@ table {
 }
 #noUnderline {
     text-decoration: none;
-  color: inherit;
-  cursor: pointer;
+  color: inherit; /* keeps the header text color */
+  cursor: pointer; /* shows pointer on hover */
 }
 .fixed-width {
-  width: 120px;
-  white-space: nowrap;
+  width: 120px; /* or whatever fixed width you want */
+  white-space: nowrap; /* prevent line breaks */
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -238,7 +240,9 @@ table {
   font-size: 1rem;
   text-align: center;
 }
-
+.discordlogo {
+  margin-right: 20px;
+}
 
   </style>
 </head>
@@ -254,6 +258,7 @@ table {
 <p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game, it doesn't list demos or earlier versions of mods and for mods which had "Amnesia: " in their name, I just removed that part.</p>
 <br>
 <div class="filters" role="region" aria-label="Filter and sort options">
+  <!-- Row 1: Sort + Year -->
   <div class="filter-row">
     <label>
       Sort by:
@@ -284,11 +289,13 @@ table {
 
   </div>
 
+  <!-- Row 2: Toggle buttons -->
   <div class="filter-row">
     <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
     <button id="toggleGraph" class="toggle-btn">Show Graph</button>
   </div>
 
+  <!-- Row 3: Search -->
   <div class="filter-row">
     <label>
       Search:
@@ -330,7 +337,10 @@ table {
 
 <footer>
   <a href="https://discord.gg/x7rghxHr2s" target="_blank" rel="noopener noreferrer">
-    <img src="Discord-Symbol-Blurple.svg" alt="Discord" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(90%) contrast(85%);">
+    <img src="Discord-Symbol-Blurple.svg" class="discordlogo" alt="Discord" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(90%) contrast(85%);">
+  </a>
+  <a href="https://github.com/Wrecx/tms" target="_blank" rel="noopener noreferrer">
+    <img src="github-mark.svg" alt="Github" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(100%) contrast(85%);">
   </a>
 </footer>
 
@@ -614,4 +624,3 @@ table {
 
 </body>
 </html>
-
