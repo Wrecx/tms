@@ -243,6 +243,27 @@ table {
 .discordlogo {
   margin-right: 20px;
 }
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+#modsTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+#modsTable th, #modsTable td {
+  padding: 8px;
+  text-align: left;
+  white-space: nowrap;
+}
+html {
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: light;
+  }
+}
 
   </style>
 </head>
@@ -318,7 +339,7 @@ table {
 <canvas id="modsPerYearChart" width="400" height="200"></canvas>
 <br>
 
-    <table id="modsTable" aria-label="List of Amnesia mods">
+    <table id="modsTable" aria-label="List of Amnesia mods" class="table-container">
         <thead>
         <tr>
             <th>#</th>
@@ -340,7 +361,7 @@ table {
     <img src="Discord-Symbol-Blurple.svg" class="discordlogo" alt="Discord" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(90%) contrast(85%);">
   </a>
   <a href="https://github.com/Wrecx/tms" target="_blank" rel="noopener noreferrer">
-    <img src="github-mark.svg" alt="Github" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(100%) contrast(85%);">
+    <img src="github-mark.svg" alt="Github" width="48" height="48" style="vertical-align: middle; filter: invert(37%) sepia(73%) saturate(428%) hue-rotate(85deg) brightness(90%) contrast(85%);">
   </a>
 </footer>
 
