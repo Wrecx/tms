@@ -296,6 +296,10 @@ table th, table td {
   text-align: center;
 }
 
+.boldnumber {
+  font-weight: bold;
+}
+
   </style>
 </head>
 <body>
@@ -738,7 +742,7 @@ function renderMods2(modsArray) {
     const row = document.createElement('tr');
 
     row.innerHTML = `
-      <td>${index + 1}</td>
+      <td class="boldnumber">${index + 1}</td>
       <td>${mod.title}</td>
       <td>${mod.author}</td>
       <td class="fixed-width release-date">${mod.releaseDate}</td>
