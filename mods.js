@@ -81,7 +81,7 @@ const mods = [
   ,
   {
     title: "The Haunted House",
-    author: "Gamewatcher, Civilwo1f254",
+    author: "Civilwo1f254",
     releaseDate: "2010-10-18",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/the-haunted-house-beta"
@@ -97,7 +97,7 @@ const mods = [
   ,
   {
     title: "Scroob's Castle Demo",
-    author: "GameWatcher",
+    author: "Gamemakingdude",
     releaseDate: "2010-11-15",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/scroob-s-castle-demo"
@@ -1985,7 +1985,7 @@ const mods = [
   ,
   {
     title: "Unexpected Invitation",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2024-01-24",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/unexpected-invitation"
@@ -3529,7 +3529,7 @@ const mods = [
   ,
   {
     title: "Room Showcase 3",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-10-27",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/room-showcase-3-3-rooms/downloads/room-showcase-3"
@@ -3665,7 +3665,7 @@ const mods = [
   ,
   {
     title: "Room Showcase 2",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-08-05",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/room-showcase-2/downloads/room-showcase-2"
@@ -3705,7 +3705,7 @@ const mods = [
   ,
   {
     title: "Lost in Your Mind",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-05-19",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lost-in-your-mind/downloads/unknown-2020-05-19t132714-832"
@@ -3713,7 +3713,7 @@ const mods = [
   ,
   {
     title: "Room Showcase",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-05-17",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/room-showcase-not-a-story/downloads/amnesia-room-showcase-updated"
@@ -3777,7 +3777,7 @@ const mods = [
   ,
   {
     title: "Horror Night Episode 2",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-03-09",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/horror-night-episode-2/downloads/horror-night-episode-2"
@@ -3785,7 +3785,7 @@ const mods = [
   ,
   {
     title: "Horror Night",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2020-03-08",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/custom-stories/downloads/horror-night"
@@ -3897,7 +3897,7 @@ const mods = [
   ,
   {
     title: "Unexpected Invitation 2",
-    author: "Karel_Kupec_476",
+    author: "KarelKupec475",
     releaseDate: "2024-05-05",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3240000490&searchtext="
@@ -3957,14 +3957,6 @@ const mods = [
     releaseDate: "2023-06-07",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986195722&searchtext="
-  }
-  ,
-  {
-    title: "Staying Alive",
-    author: "cc",
-    releaseDate: "2011",
-    type: "Custom Story",
-    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984553024&searchtext="
   }
   ,
   {
@@ -4709,6 +4701,262 @@ const mods = [
     releaseDate: "2019-02-21",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/christmas-special"
+  }
+  ,
+  {
+    title: "Alemimi's Survival",
+    author: "alemimi3",
+    releaseDate: "2010-11-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Z3ybLUpBFGRjhhcKED8WAHMb1xyLxp0u/view?usp=sharing"
+  }
+  ,
+  {
+    title: "Staying Alive",
+    author: "magictoast",
+    releaseDate: "2010-10-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1AEC0zfNvdZIsW6GnpY8LsNr-HfiqGlfK/view?usp=sharing"
+  }
+  ,
+  {
+    title: "Pandemoneus' Test Map",
+    author: "Pandemoneus",
+    releaseDate: "2010-09-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1oVx1Qc9McEX3aQmHQvsrDAvzM7uJmzgN/view?usp=sharing"
+  }
+  ,
+  {
+    title: "Cannibalism",
+    author: "anzki4",
+    releaseDate: "2010-11-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/cannibalism/downloads/cannibalism-v101"
+  }
+  ,
+  {
+    title: "Challenges",
+    author: "Montano4ka",
+    releaseDate: "2025-07-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-challenges/addons/amnesia-challenges"
+  }
+  ,
+  {
+    title: "The Darkness",
+    author: "Jordo76",
+    releaseDate: "2010-09-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-darkness/addons/the-darkness"
+  }
+  ,
+  {
+    title: "Winter Assets For HPL2",
+    author: "NutBoi",
+    releaseDate: "2019-12-12",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/winter-assets-for-hpl2/downloads/hpl2-winter-assets"
+  }
+  ,
+  {
+    title: "Verberalis",
+    author: "AmnesiaFan47",
+    releaseDate: "2019-11-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/verberalis/downloads/verberalis-version-100"
+  }
+  ,
+  {
+    title: "Grandpa's mansion redone",
+    author: "SuspecM",
+    releaseDate: "2019-11-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/grandpas-mansion-redone/downloads/grandpas-mansion-release-v111"
+  }
+  ,
+  {
+    title: "AMNESIA '98",
+    author: "Stayd",
+    releaseDate: "2019-10-30",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-98/downloads/amnesia-98-v10"
+  }
+  ,
+  {
+    title: "Amnesia: Critical Mode",
+    author: "RaXZerGamingZ",
+    releaseDate: "2019-01-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-critical-mode/downloads/critical-mode-13-full-conversion-full-mod-download"
+  }
+  ,
+  {
+    title: "Old House",
+    author: "KarelKupec475",
+    releaseDate: "2019-10-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/old-house/downloads/old-house"
+  }
+  ,
+  {
+    title: "Horror Day",
+    author: "KarelKupec475",
+    releaseDate: "2019-10-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-day/downloads/horror-day"
+  }
+  ,
+  {
+    title: "House of Horror",
+    author: "KarelKupec475",
+    releaseDate: "2019-10-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/my-second-custom-story-no-name-because-of-copyright/downloads/house-of-horror-updated-version"
+  }
+  ,
+  {
+    title: "Walking Nightmare",
+    author: "KarelKupec475",
+    releaseDate: "2019-10-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/my-amnesia-custom-story-test-demo/downloads/walking-nightmare-demo-no-end-titles"
+  }
+  ,
+  {
+    title: "The Torment",
+    author: "Slenddaz",
+    releaseDate: "2019-08-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-torment/downloads/the-torment-v11"
+  }
+  ,
+  {
+    title: "Conquest of Life",
+    author: "Shyrtexx",
+    releaseDate: "2019-08-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/conquest-of-life/downloads/conquest-of-life-demo-11"
+  }
+  ,
+  {
+    title: "A torch in the dark",
+    author: "FlawlessHappiness",
+    releaseDate: "2019-07-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-torch-in-the-dark/downloads/torch-in-the-dark"
+  }
+  ,
+  {
+    title: "Mystery",
+    author: "Hubikk2421",
+    releaseDate: "2019-07-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mystery-demo/downloads/mystery-v-11"
+  }
+  ,
+  {
+    title: "Weird Room",
+    author: "[a7HMn2su]",
+    releaseDate: "2019-06-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/weird-room/downloads/amnesia-weird-room-v105"
+  }
+  ,
+  {
+    title: "We Are The Pig",
+    author: "smash studios",
+    releaseDate: "2019-06-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/we-are-the-pig-an-amnesia-a-machine-for-pigs-remake/downloads/we-are-the-pig-techdemo"
+  }
+  ,
+  {
+    title: "Human Evolution",
+    author: "AmnesiaFan47",
+    releaseDate: "2019-04-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-human-evolution/downloads/amnesia-evolution-human-version-50v"
+  }
+  ,
+  {
+    title: "M4rty09's Nightmare full",
+    author: "lepasman279",
+    releaseDate: "2019-04-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/m4rty09s-nightmare-full"
+  }
+  ,
+  {
+    title: "Umbakarna entity pack 1",
+    author: "umbakarna",
+    releaseDate: "2014-09-05",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/mana-full-conversion-mod/addons/umbakarna-entity-pack-1"
+  }
+  ,
+  {
+    title: "Umbakarna entity pack 2",
+    author: "umbakarna",
+    releaseDate: "2015-01-25",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/mana-full-conversion-mod/addons/umbakarna-entity-pack-2"
+  }
+  ,
+  {
+    title: "Red Waters",
+    author: "umbakarna",
+    releaseDate: "2013-08-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/red-waters-amnesia-custom-story/downloads/red-waters-remake"
+  }
+  ,
+  {
+    title: "You will never return",
+    author: "umbakarna",
+    releaseDate: "2017-10-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/you-will-never-return/downloads/you-will-never-return"
+  }
+  ,
+  {
+    title: "The circles of the devil",
+    author: "umbakarna",
+    releaseDate: "2017-09-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-circles-of-the-devil/downloads/the-circles-of-the-devil"
+  }
+  ,
+  {
+    title: "Destiny Revenant",
+    author: "umbakarna",
+    releaseDate: "2016-02-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/destiny-revenant/downloads/destiny-revenant-10"
+  }
+  ,
+  {
+    title: "MANA",
+    author: "umbakarna",
+    releaseDate: "2014-10-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mana-full-conversion-mod/downloads/mana-10-download"
+  }
+  ,
+  {
+    title: "META",
+    author: "umbakarna",
+    releaseDate: "2014-10-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/meta-full-conversion-mod/downloads/meta-10-download"
+  }
+  ,
+  {
+    title: "Destiny Rebellion",
+    author: "umbakarna",
+    releaseDate: "2014-03-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/destiny-rebellion-amnesia/downloads/destiny-rebellion-10-downoad"
   }
   ,
   {
