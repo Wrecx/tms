@@ -1426,7 +1426,7 @@ const mods = [
   {
     title: "Nickel's Birthday Escape",
     author: "Wrecx",
-    releaseDate: "2022-04-19",
+    releaseDate: "2022-04-09",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/14iMGurJ066F7AGkQilMowLgv9K3WTkzO/view"
   }
@@ -3493,6 +3493,1222 @@ const mods = [
     releaseDate: "2020-10-31",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/house-of-creep-8-fan-made-bruh/downloads/house-of-creep-8-fan-made-v100"
+  }
+  ,
+  {
+    title: "Lost In The Forest",
+    author: "CLAYDOG001",
+    releaseDate: "2020-03-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-lost-in-the-forest-test/downloads/amnesia-lost-in-the-forest-alpha-v20"
+  }
+  ,
+  {
+    title: "Profaned Capital",
+    author: "Rednie",
+    releaseDate: "2020-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/profaned-capital/downloads/profaned-capital-full-release"
+  }
+  ,
+  {
+    title: "Dreadscape",
+    author: "Dark Confinement Studios",
+    releaseDate: "2020-10-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-dreadscape/downloads/dreadscape-v11-patch-chapter-1-patch-and-chapter-2-release"
+  }
+  ,
+  {
+    title: "Final Revelations Remastered",
+    author: "CheesyDeveloper",
+    releaseDate: "2020-10-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/final-revelations-special-edition/downloads/final-revelations-remastered1"
+  }
+  ,
+  {
+    title: "Room Showcase 3",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-10-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/room-showcase-3-3-rooms/downloads/room-showcase-3"
+  }
+  ,
+  {
+    title: "The Artificial Sun",
+    author: "AFSSteam",
+    releaseDate: "2020-10-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-artificial-sun/downloads/the-artificial-sun-04"
+  }
+  ,
+  {
+    title: "The Cursed Knight",
+    author: "ArbalesterCZ",
+    releaseDate: "2020-10-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-cursed-knight/downloads/thecursedknight"
+  }
+  ,
+  {
+    title: "The Modnum Opus",
+    author: "meeeeeerk",
+    releaseDate: "2020-10-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-modnum-opus/downloads/amnesia-the-modnum-opus"
+  }
+  ,
+  {
+    title: "Strange Shipment",
+    author: "Wejio",
+    releaseDate: "2020-10-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/strange-shipment/downloads/strangeshipment-v12-fixed"
+  }
+  ,
+  {
+    title: "Merk's Re-Immersion Mod",
+    author: "meeeeeerk",
+    releaseDate: "2020-04-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/merks-re-immersion-mod/downloads/amnesia-merks-re-immersion-mod"
+  }
+  ,
+  {
+    title: "Amnesia: The Dark Descent - Remastered",
+    author: "florian.",
+    releaseDate: "2020-06-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-remastered/downloads/amnesia-the-dark-descent-remastered-final"
+  }
+  ,
+  {
+    title: "Rainbow Lantern Mod",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-30",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rainbow-lantern-mod/downloads/amnesia-rainbow-lantern-mod"
+  }
+  ,
+  {
+    title: "meeerk's Dynamic Lantern Mod",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-28",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-meeerks-dynamic-lantern-mod/downloads/amnesia-meeerks-dynamic-lantern-mod"
+  }
+  ,
+  {
+    title: "Obturaculum",
+    author: "HPL Hell Gang",
+    releaseDate: "2020-04-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/obturaculum/downloads/obturaculum"
+  }
+  ,
+  {
+    title: "Inverted Darkness Mod",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-26",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-inverted-darkness-mod/downloads/amnesia-inverted-darkness"
+  }
+  ,
+  {
+    title: "Amnesia: Rebirth - Bridge Area",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rebirth-bridge-area-the-dark-descent/downloads/rebirth-bridge"
+  }
+  ,
+  {
+    title: "Library Of Alexandria",
+    author: "Acies",
+    releaseDate: "2015-09-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/teamnesia/downloads/library-of-alexandria-reupload"
+  }
+  ,
+  {
+    title: "Amnesia: Rebirth - Cave Area",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rebirth-cave-area-the-dark-descent/downloads/rebirth-cave"
+  }
+  ,
+  {
+    title: "Security In Trouble",
+    author: "Willy Fox",
+    releaseDate: "2013-11-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/security-in-trouble-fixed"
+  }
+  ,
+  {
+    title: "Amnesia Merk's Re-Immersion Mod JUSTINE",
+    author: "meeeeeerk",
+    releaseDate: "2020-08-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/merks-re-immersion-mod/downloads/amnesia-merks-re-immersion-mod-justine"
+  }
+  ,
+  {
+    title: "Enhanced Vanilla Textures",
+    author: "Trashcandatlovesu",
+    releaseDate: "2020-08-04",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-enhanced-vanilla-textures/downloads/amnesia-the-dark-descent-enhanced-vanilla-textures-patch-1"
+  }
+  ,
+  {
+    title: "Room Showcase 2",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-08-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/room-showcase-2/downloads/room-showcase-2"
+  }
+  ,
+  {
+    title: "Eldritch Cove",
+    author: "Darkfires",
+    releaseDate: "2020-08-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/eldritch-cove/downloads/eldritch-cove"
+  }
+  ,
+  {
+    title: "Horror Rebuild",
+    author: "The Kruger",
+    releaseDate: "2018-04-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-horror-rebuilded/downloads/horror-rebuild-52-stand-alone-early-access"
+  }
+  ,
+  {
+    title: "The Investigator",
+    author: "Witherd",
+    releaseDate: "2020-06-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-investigator/downloads/the-investigator-11"
+  }
+  ,
+  {
+    title: "Ninth of October: Part 2 Remake",
+    author: "Rakez68",
+    releaseDate: "2020-06-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/ninth-of-october-part-2-remake/downloads/ninth-of-october-part-2-remake-patched1"
+  }
+  ,
+  {
+    title: "Lost in Your Mind",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-05-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lost-in-your-mind/downloads/unknown-2020-05-19t132714-832"
+  }
+  ,
+  {
+    title: "Room Showcase",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-05-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/room-showcase-not-a-story/downloads/amnesia-room-showcase-updated"
+  }
+  ,
+  {
+    title: "Mansion 2020",
+    author: "Witherd",
+    releaseDate: "2020-05-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mansion-2020/downloads/mansion-2020-demo1"
+  }
+  ,
+  {
+    title: "MI Chambers",
+    author: "meeeeeerk",
+    releaseDate: "2020-04-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mi-chambers/downloads/mi-chambers"
+  }
+  ,
+  {
+    title: "Tino bar trolling",
+    author: "LeonKompowsky",
+    releaseDate: "2020-04-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tino-bar-trolling/downloads/tino-baari"
+  }
+  ,
+  {
+    title: "Yakety Sax Chase music",
+    author: "hubertcoolio",
+    releaseDate: "2020-04-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/yakety-sax-chase-music"
+  }
+  ,
+  {
+    title: "Lust Progressing",
+    author: "Witherd",
+    releaseDate: "2020-04-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lust-progressing/downloads/lust-progressing"
+  }
+  ,
+  {
+    title: "Hunting Ground - Aftergame",
+    author: "TeeZaah",
+    releaseDate: "2020-03-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/hunting-ground-aftergame/downloads/hunting-ground-aftergame-2dark-mode-v12"
+  }
+  ,
+  {
+    title: "T.D.",
+    author: "WithinOakStudios",
+    releaseDate: "2020-03-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/td/downloads/td"
+  }
+  ,
+  {
+    title: "Horror Night Episode 2",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-03-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-night-episode-2/downloads/horror-night-episode-2"
+  }
+  ,
+  {
+    title: "Horror Night",
+    author: "Karel_Kupec_476",
+    releaseDate: "2020-03-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/custom-stories/downloads/horror-night"
+  }
+  ,
+  {
+    title: "PEIRAPRIGOND",
+    author: "Landvaettr",
+    releaseDate: "2013-07-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/peiraprigond/downloads/peiraprigond-v13"
+  }
+  ,
+  {
+    title: "Another Story - The Machine",
+    author: "PAC_Studios",
+    releaseDate: "2020-01-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/another-story-the-machine/downloads/another-story-the-machine-demo"
+  }
+  ,
+  {
+    title: "The Woodpecker",
+    author: "Yanka",
+    releaseDate: "2020-01-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-woodpecker/downloads/the-woodpecker-10"
+  }
+  ,
+  {
+    title: "Forbidden Trip - Cadaver Party Project",
+    author: "Yanka",
+    releaseDate: "2022-10-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/cadaver-party/downloads/forbidden-trip-early-access-patch-11"
+  }
+  ,
+  {
+    title: "Horror Day 3)",
+    author: "KarelKupec475",
+    releaseDate: "2019-12-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-day-episode-3/downloads/horror-day-3"
+  }
+  ,
+  {
+    title: "Extraction Point",
+    author: "CheesyDeveloper",
+    releaseDate: "2016-06-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-extraction-point/downloads/extraction-point-v-10"
+  }
+  ,
+  {
+    title: "Minesweeper",
+    author: "Spelos",
+    releaseDate: "2017-01-24",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2996207036"
+  }
+  ,
+  {
+    title: "Father Ted Story",
+    author: "Bjur",
+    releaseDate: "2025-05-15",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3481986782&searchtext="
+  }
+  ,
+  {
+    title: "Rubithed 2",
+    author: "Three",
+    releaseDate: "2024-12-30",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3395609263&searchtext="
+  }
+  ,
+  {
+    title: "When I am no more",
+    author: "Spelos",
+    releaseDate: "2016",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3393622184&searchtext="
+  }
+  ,
+  {
+    title: "Trapped in Broadmoor",
+    author: "Scarily Olivia",
+    releaseDate: "2024-08-28",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3319662418&searchtext="
+  }
+  ,
+  {
+    title: "Plaga Dampyris",
+    author: "iserit",
+    releaseDate: "2024-08-28",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3319066792&searchtext="
+  }
+  ,
+  {
+    title: "The Greed",
+    author: "Sabatu",
+    releaseDate: "2024-08-18",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3311638661&searchtext="
+  }
+  ,
+  {
+    title: "Unexpected Invitation 2",
+    author: "Karel_Kupec_476",
+    releaseDate: "2024-05-05",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3240000490&searchtext="
+  }
+  ,
+  {
+    title: "Escape game",
+    author: "kilian34",
+    releaseDate: "2024-04-23",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3230497728&searchtext="
+  }
+  ,
+  {
+    title: "Insanityman",
+    author: "amenastro",
+    releaseDate: "2023-07-15",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3004919131&searchtext="
+  }
+  ,
+  {
+    title: "Survival (Storage)",
+    author: "Ju_Jin",
+    releaseDate: "2023-06-18",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2991399074&searchtext="
+  }
+  ,
+  {
+    title: "Survival (Ruins)",
+    author: "Ju_Jin",
+    releaseDate: "2023-06-18",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2991400594&searchtext="
+  }
+  ,
+  {
+    title: "A cannon story",
+    author: "FG_luis",
+    releaseDate: "2023-06-02",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2983887745&searchtext=cannon"
+  }
+  ,
+  {
+    title: "Grave",
+    author: "morangotango",
+    releaseDate: "2023-06-07",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986203285&searchtext="
+  }
+  ,
+  {
+    title: "The Seed",
+    author: "morangotango",
+    releaseDate: "2023-06-07",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986195722&searchtext="
+  }
+  ,
+  {
+    title: "Staying Alive",
+    author: "cc",
+    releaseDate: "2011",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984553024&searchtext="
+  }
+  ,
+  {
+    title: "Madness Chapter 1",
+    author: "Marzio99",
+    releaseDate: "2013",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984543681&searchtext="
+  }
+  ,
+  {
+    title: "Danels Christmas",
+    author: "alexanderPERSONA4994",
+    releaseDate: "2018",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984545540&searchtext="
+  }
+  ,
+  {
+    title: "Absurd",
+    author: "M3NTALMAN",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984526482&searchtext="
+  }
+  ,
+  {
+    title: "Absurd 2: The Drugged Up Nightmare",
+    author: "M3NTALMAN",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984527007&searchtext="
+  }
+  ,
+  {
+    title: "BlackWhite",
+    author: "Acies",
+    releaseDate: "2013-05-13",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984312055&searchtext="
+  }
+  ,
+  {
+    title: "The Cake",
+    author: "Hannibal",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984311074&searchtext="
+  }
+  ,
+  {
+    title: "Cuddle Cutie's Nightmare",
+    author: "John Budrevic a.k.a. Snuggle Bubble",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984303959&searchtext="
+  }
+  ,
+  {
+    title: "The Castle Of Enjoyment",
+    author: "MatiaSika",
+    releaseDate: "2012-10-21",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984291704&searchtext="
+  }
+  ,
+  {
+    title: "One Thousand and One Problems",
+    author: "MatiaSika",
+    releaseDate: "2013-06-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-one-thousand-and-one-problems"
+  }
+  ,
+  {
+    title: "Dwayne's Delectable Dinner",
+    author: "Cyphermur9t",
+    releaseDate: "2013-02-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/dwaynes-delectable-dinner"
+  }
+  ,
+  {
+    title: "Broken Reality",
+    author: "ThePCXBOX",
+    releaseDate: "2014",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984151143&searchtext="
+  }
+  ,
+  {
+    title: "Amnesia Trailer",
+    author: "Delirium",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984313611&searchtext=trailer"
+  }
+  ,
+  {
+    title: "Icarus",
+    author: "Rigi, Kurton",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985253922&searchtext=icarus"
+  }
+  ,
+  {
+    title: "Father",
+    author: "swedishTOASTER",
+    releaseDate: "2012-03-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/father-custom-story"
+  }
+  ,
+  {
+    title: "Pewdiepie inspired Amnesia background",
+    author: "joshesully",
+    releaseDate: "2012-03-21",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/pewdiepie-inspired-amnesia-background"
+  }
+  ,
+  {
+    title: "Amnesia Agrippa Menu Background With Sounds",
+    author: "Ruhon687",
+    releaseDate: "2012-04-06",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/httpwwwgamefrontcomfiles21515779amnesiaag"
+  }
+  ,
+  {
+    title: "Potion Of Insanity",
+    author: "Hiippari",
+    releaseDate: "2012-04-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/potion-of-insanity-custom-story"
+  }
+  ,
+  {
+    title: "CreativMindd",
+    author: "CreativMindd",
+    releaseDate: "2012-04-24",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/creativmindd"
+  }
+  ,
+  {
+    title: "Amnesia Menu Background",
+    author: "Dragon858",
+    releaseDate: "2012-02-12",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/na40358"
+  }
+  ,
+  {
+    title: "Custom Grunt Voices and Music (Hokuto no Ken)",
+    author: "RayzorBlader189",
+    releaseDate: "2011-12-31",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/custom-grunt-voices-and-music"
+  }
+  ,
+  {
+    title: "Brute Custom Voices and Music (Hokuto no Ken)",
+    author: "RayzorBlader189",
+    releaseDate: "2011-12-31",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/brute-custom-voices-and-music-hokuto-no-ken"
+  }
+  ,
+  {
+    title: "WTF CS",
+    author: "MustaCannabis",
+    releaseDate: "2012-05-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/wtf-cs"
+  }
+  ,
+  {
+    title: "Portal",
+    author: "Dylantb",
+    releaseDate: "2012-05-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-portal"
+  }
+  ,
+  {
+    title: "A Walk in the Dark",
+    author: "Micay2008, Mike Stack",
+    releaseDate: "2012-05-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/a-walk-in-the-dark"
+  }
+  ,
+  {
+    title: "Trial of Death and Life",
+    author: "davidestroy",
+    releaseDate: "2012-06-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/trial-of-death-and-life"
+  }
+  ,
+  {
+    title: "CellarLab Menu",
+    author: "MNKYband",
+    releaseDate: "2012-08-07",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/atddcellarlab"
+  }
+  ,
+  {
+    title: "Jake's Nightmare",
+    author: "SuperMacoPaco64",
+    releaseDate: "2012-08-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/jakes-nightmare"
+  }
+  ,
+  {
+    title: "Patient Zero",
+    author: "Ishimada, Tuippi, SantaTheFreak",
+    releaseDate: "2013-01-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/ishimada"
+  }
+  ,
+  {
+    title: "The House | Book One",
+    author: "tarours",
+    releaseDate: "2013-05-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-the-house-book-one"
+  }
+  ,
+  {
+    title: "Epic Amnesia Menu!",
+    author: "SlendFinn56",
+    releaseDate: "2013-07-03",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/epic-amnesia-menu-version-1"
+  }
+  ,
+  {
+    title: "Heavy-Grunt Sounds Replacement",
+    author: "Nilwickplays",
+    releaseDate: "2013-07-07",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/heavy-grunt-sounds-replacement"
+  }
+  ,
+  {
+    title: "Labyrinth Escape",
+    author: "Willy Fox",
+    releaseDate: "2013-07-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/labyrinth-escape-5mb-15min-gameplay"
+  }
+  ,
+  {
+    title: "Diddomagik",
+    author: "gafe9397",
+    releaseDate: "2013-08-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/diddomagik-mod-amnesia-the-dark-descent/addons/diddomagik-mod-amnesia-the-dark-descent"
+  }
+  ,
+  {
+    title: "Prima mia Mod per il MITICO DIDDO!!!!",
+    author: "andry94",
+    releaseDate: "2013-10-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/prima-mia-mod-per-il-mitico-diddo"
+  }
+  ,
+  {
+    title: "Team Free Will",
+    author: "impala-of-mayfair",
+    releaseDate: "2014-02-08",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-team-free-will"
+  }
+  ,
+  {
+    title: "Lonely Village Main Menu",
+    author: "smackpack",
+    releaseDate: "2014-06-08",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/lonely-village-main-menu"
+  }
+  ,
+  {
+    title: "Outlast Based Main Menu",
+    author: "smackpack",
+    releaseDate: "2014-06-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/outlast-based-main-menu"
+  }
+  ,
+  {
+    title: "Amnesia: The Dark Descent Custom Background",
+    author: "lalo5",
+    releaseDate: "2014-11-23",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-the-dark-descent-custom-background"
+  }
+  ,
+  {
+    title: "Maxleyo's Amnesia Sound Pack",
+    author: "andrecampana_",
+    releaseDate: "2015-02-18",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/amnesia-sound-pack"
+  }
+  ,
+  {
+    title: "Power-nade Flashlight",
+    author: "mannome247, Tanshaydar",
+    releaseDate: "2016-07-31",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/power-nade-flashlight"
+  }
+  ,
+  {
+    title: "Vekkros",
+    author: "Vekkros",
+    releaseDate: "2017-03-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/addons/vekkros"
+  }
+  ,
+  {
+    title: "Castle Maksym",
+    author: "Viperdream",
+    releaseDate: "2011-03-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/castle-maksym"
+  }
+  ,
+  {
+    title: "Bedroom Map Monster Servant Bash",
+    author: "Zlandael",
+    releaseDate: "2011-04-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/zlandael1"
+  }
+  ,
+  {
+    title: "Amnesia funny sounds for the servant grunt!",
+    author: "Bladecannon60",
+    releaseDate: "2011-04-25",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/amnesia-funny-sounds-for-the-servant-grunt"
+  }
+  ,
+  {
+    title: "The sins we hide",
+    author: "Kraggdog",
+    releaseDate: "2011-06-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/thesinswehide"
+  }
+  ,
+  {
+    title: "Unbirth Infected+Dog from Penumbra to Amnesia",
+    author: "plutomaniac",
+    releaseDate: "2011-07-19",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/unbirth-envy-the-dead/addons/unbirth-infecteddog-from-penumbra-to-amnesia"
+  }
+  ,
+  {
+    title: "TDD Christmas TC, ''Oh Silent Night''",
+    author: "Statyk",
+    releaseDate: "2011-12-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/an-amnesia-tdd-christmas-tc-oh-silent-night"
+  }
+  ,
+  {
+    title: "Halo Grunt Stuff",
+    author: "PythonBlue",
+    releaseDate: "2012-01-21",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/halo-grunt-stuff-for-amnesia"
+  }
+  ,
+  {
+    title: "Amnesia: The Complete Alternate Soundtrack",
+    author: "PythonBlue",
+    releaseDate: "2012-03-02",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/amnesia-mod-music"
+  }
+  ,
+  {
+    title: "door_prison_01",
+    author: "sunciox",
+    releaseDate: "2012-04-12",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/door-prison-01"
+  }
+  ,
+  {
+    title: "Door_Red_01",
+    author: "sunciox",
+    releaseDate: "2012-04-13",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/door-red-01"
+  }
+  ,
+  {
+    title: "door_prison_02",
+    author: "sunciox",
+    releaseDate: "2012-05-20",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/door-prison-02"
+  }
+  ,
+  {
+    title: "BlockUp!",
+    author: "bradenm650",
+    releaseDate: "2012-07-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/blockup1"
+  }
+  ,
+  {
+    title: "Village Menu Screen",
+    author: "andyrockin123",
+    releaseDate: "2012-08-16",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/village-menu-screen"
+  }
+  ,
+  {
+    title: "wall_01",
+    author: "sunciox",
+    releaseDate: "2012-09-03",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/wall-01"
+  }
+  ,
+  {
+    title: "Hazy Hall",
+    author: "andyrockin123",
+    releaseDate: "2012-09-06",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/hazy-hall"
+  }
+  ,
+  {
+    title: "cistern_wall_01",
+    author: "sunciox",
+    releaseDate: "2012-09-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/cistern-wall-01"
+  }
+  ,
+  {
+    title: "39Gamer's Brute Voice Pack Original",
+    author: "39Games",
+    releaseDate: "2013-02-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/39gamers-brute-voice-pack"
+  }
+  ,
+  {
+    title: "wall_under_01 - Fixed",
+    author: "sunciox",
+    releaseDate: "2013-08-08",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/wall-under-01-fix"
+  }
+  ,
+  {
+    title: "Custom Main Background Pack",
+    author: "UnsuccessfulUnicorn",
+    releaseDate: "2013-10-17",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/amnesia-custom-main-background-pack"
+  }
+  ,
+  {
+    title: "Moveable/Grabable Candlestick",
+    author: "TheScratcho",
+    releaseDate: "2014-02-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/step-by-step-into-the-darkness-chapter-1/addons/moveablegrabable-candlestick"
+  }
+  ,
+  {
+    title: "Orb Altar Portal Menu",
+    author: "Mr.Amnesia550",
+    releaseDate: "2014-04-25",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/orb-altar-portal-menu"
+  }
+  ,
+  {
+    title: "Vacant House",
+    author: "smackpack",
+    releaseDate: "2015-10-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/vacant-house"
+  }
+  ,
+  {
+    title: "leaf gobo",
+    author: "Darkfires",
+    releaseDate: "2019-02-15",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/leaf-gobo"
+  }
+  ,
+  {
+    title: "Day of Redemption",
+    author: "Unearthlybrutal",
+    releaseDate: "2011-05-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/day-of-redemption-amnesia-custom-story"
+  }
+  ,
+  {
+    title: "When The Pain Is Side Issue",
+    author: "Unearthlybrutal",
+    releaseDate: "2011-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/when-the-pain-is-side-issue"
+  }
+  ,
+  {
+    title: "Escape The Room",
+    author: "TheMightyJKK",
+    releaseDate: "2012-02-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/escape-the-room"
+  }
+  ,
+  {
+    title: "A Morbid New Year",
+    author: "R.Peters",
+    releaseDate: "2012-04-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/a-morbid-new-year"
+  }
+  ,
+  {
+    title: "Psychedelia II: Iron curtain",
+    author: "markiisit",
+    releaseDate: "2012-05-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/psychedelia-ii-iron-curtain"
+  }
+  ,
+  {
+    title: "Stephano's Retribution",
+    author: "KissimRunner",
+    releaseDate: "2012-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/stephanos-retribution"
+  }
+  ,
+  {
+    title: "Scary House MOD ITALIANO FULL !!",
+    author: "teopol",
+    releaseDate: "2012-07-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/scary-house-mod-italiano-full1"
+  }
+  ,
+  {
+    title: "Letzte Nacht Party Nacht 1",
+    author: "IPlayed2much",
+    releaseDate: "2012-11-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-bros/downloads/amnesia-custom-story-letzte-nacht-party-nacht-1"
+  }
+  ,
+  {
+    title: "Afraid Of Grunts Ch01",
+    author: "TheMightyJKK",
+    releaseDate: "2012-01-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/amnesia-afraid-of-grunts-full"
+  }
+  ,
+  {
+    title: "Psychedelia",
+    author: "markiisit",
+    releaseDate: "2012-03-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/psychedelia"
+  }
+  ,
+  {
+    title: "Necrotic",
+    author: "Southlaguna",
+    releaseDate: "2012-03-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/amnesia-custom-story-necrotic"
+  }
+  ,
+  {
+    title: "Furru Amnesia",
+    author: "meh96",
+    releaseDate: "2012-04-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/furru-amnesia"
+  }
+  ,
+  {
+    title: "Luigi's mansion",
+    author: "ZzQuickSc0pesZz",
+    releaseDate: "2012-05-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/luigis-mansion-v11"
+  }
+  ,
+  {
+    title: "Nightmare Begins",
+    author: "Miki998",
+    releaseDate: "2013-01-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/nightmare-begins"
+  }
+  ,
+  {
+    title: "The Unforgiven Game - Complete Edition",
+    author: "MrNord94",
+    releaseDate: "2013-08-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-mod-sonicexe/downloads/the-unforgiven-game-complete-edition"
+  }
+  ,
+  {
+    title: "The Friendliest Foe",
+    author: "cyphermur9t",
+    releaseDate: "2013-10-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-controller-setup/downloads/the-friendliest-foe"
+  }
+  ,
+  {
+    title: "Doors-",
+    author: "danekslama",
+    releaseDate: "2015-12-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/amnesia-custom-storydoors-demo"
+  }
+  ,
+  {
+    title: "Cellar Nightmare",
+    author: "xarox02",
+    releaseDate: "2020-08-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/cellar-nightmare1"
+  }
+  ,
+  {
+    title: "simple closet movable",
+    author: "xarox02",
+    releaseDate: "2020-12-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/simple-closet-movable"
+  }
+  ,
+  {
+    title: "The Small Horse Part 1 & Part 2",
+    author: "Litronom",
+    releaseDate: "2012",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/the-small-horse-part-1-part-2"
+  }
+  ,
+  {
+    title: "House in A Forest - Custom Main Menu",
+    author: "NateToaster",
+    releaseDate: "2013-01-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/houseinaforest"
+  }
+  ,
+  {
+    title: "Astraphobia",
+    author: "cyphermur9t",
+    releaseDate: "2013-04-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/astraphobia"
+  }
+  ,
+  {
+    title: "A Lot of Stories",
+    author: "andrecampana_",
+    releaseDate: "2013-07-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/a-lot-of-stories-part-1"
+  }
+  ,
+  {
+    title: "Prison - 076",
+    author: "andrecampana_",
+    releaseDate: "2013-10-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/prison-076-alpha-10"
+  }
+  ,
+  {
+    title: "ustom Test Map",
+    author: "sevenbeats",
+    releaseDate: "2014-01-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/amnesia-custom-test-map"
+  }
+  ,
+  {
+    title: "A.I.D.S Campaign",
+    author: "AngryNudel",
+    releaseDate: "2014-02-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/amnesia-aids-campaign"
+  }
+  ,
+  {
+    title: "Paranoia",
+    author: "XxSkyFox17xX",
+    releaseDate: "2014-04-08",
+    type: "Custom Story",
+    downloadLink: ""
+  }
+  ,
+  {
+    title: "prisoned",
+    author: "kavares",
+    releaseDate: "2016-07-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-custom-story-dark-souls-part-1/downloads/amnesia-cs-prisoned1"
+  }
+  ,
+  {
+    title: "Christmas Special",
+    author: "Gareth17andMinnie14",
+    releaseDate: "2019-02-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/christmas-special"
   }
   ,
   {
