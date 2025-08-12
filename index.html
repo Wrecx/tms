@@ -6,7 +6,6 @@
   <title>The Mod Sanitarium</title>
   <link rel="icon" href="icon.png" type="image/png">
   <style>
-    /* Make full height layout with flexbox */
     html, body {
       height: 100%;
       margin: 0;
@@ -18,7 +17,7 @@
       font-family: Arial, sans-serif;
       background: #f9f9f9;
       color: #333;
-      padding: 0; /* reset padding here because header has padding */
+      padding: 0;
       box-sizing: border-box;
     }
 
@@ -36,14 +35,13 @@
     }
 
     main {
-      flex: 1 0 auto; /* fill vertical space */
+      flex: 1 0 auto;
       max-width: 800px;
-      margin: 1.5rem auto 2rem; /* add some margin top to separate from header */
+      margin: 1.5rem auto 2rem;
       width: 100%;
       padding: 0 2rem;
       box-sizing: border-box;
     }
-    /* rest of your styles unchanged... */
 
     .filters {
       margin-bottom: 1.5rem;
@@ -78,13 +76,13 @@
     th, td {
       border: 1px solid #ddd;
       padding: 8px;
-      vertical-align: top; /* align top for wrapped cells */
+      vertical-align: top;
     }
     th {
       background-color: #4CAF50;
       color: white;
       text-align: left;
-      white-space: nowrap; /* keep header single line */
+      white-space: nowrap;
     }
     tr:nth-child(even) {
       background-color: #f2f2f2;
@@ -154,7 +152,7 @@
   cursor: pointer;
 }
 #timeline .year {
-  margin: 0 4px; /* reduce horizontal margin from default to 4px */
+  margin: 0 4px;
   cursor: pointer;
   user-select: none;
   display: flex;
@@ -216,12 +214,12 @@ table {
 }
 #noUnderline {
     text-decoration: none;
-  color: inherit; /* keeps the header text color */
-  cursor: pointer; /* shows pointer on hover */
+  color: inherit;
+  cursor: pointer;
 }
 .fixed-width {
-  width: 120px; /* or whatever fixed width you want */
-  white-space: nowrap; /* prevent line breaks */
+  width: 120px; 
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -618,63 +616,88 @@ table th, table td {
   // --- Chart ---
   let modsChart = null;
 
-  function renderOrUpdateModsChart(year = 'all') {
-    const ctx = document.getElementById('modsPerYearChart').getContext('2d');
-    const selectedType = typeSelect.value;
-    let filtered = filterByType(selectedType, mods);
+function renderOrUpdateModsChart(year = 'all') {
+  const ctx = document.getElementById('modsPerYearChart').getContext('2d');
+  const selectedType = typeSelect.value;
+  let filtered = filterByType(selectedType, mods);
 
-    if (year !== 'all') {
-      filtered = filterByYear(year, filtered);
+  if (year !== 'all') {
+    filtered = filterByYear(year, filtered);
+  }
+
+  const totalMods = filtered.length; // total mods for this view
+
+  if (year === 'all') {
+    const yearCounts = {};
+    for (let y = startYear; y <= endYear; y++) {
+      yearCounts[y] = 0;
     }
+    filtered.forEach(mod => {
+      const y = new Date(mod.releaseDate).getFullYear();
+      if (yearCounts[y] !== undefined) yearCounts[y]++;
+    });
 
-    if (year === 'all') {
-      const yearCounts = {};
-      for (let y = startYear; y <= endYear; y++) {
-        yearCounts[y] = 0;
-      }
-      filtered.forEach(mod => {
-        const y = new Date(mod.releaseDate).getFullYear();
-        if (yearCounts[y] !== undefined) yearCounts[y]++;
-      });
+    const labels = Object.keys(yearCounts);
+    const data = Object.values(yearCounts);
 
-      const labels = Object.keys(yearCounts);
-      const data = Object.values(yearCounts);
-
-      if (modsChart) {
-        modsChart.data.labels = labels;
-        modsChart.data.datasets[0].data = data;
-        modsChart.data.datasets[0].label = 'Mods Released per Year';
-        modsChart.update();
-      } else {
-        modsChart = new Chart(ctx, {
-          type: 'bar',
-          data: { labels, datasets: [{ label: 'Mods Released per Year', data, backgroundColor: '#4CAF50' }] },
-          options: { scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
-        });
-      }
+    if (modsChart) {
+      modsChart.data.labels = labels;
+      modsChart.data.datasets[0].data = data;
+      modsChart.data.datasets[0].label = `Mods Released per Year (Total: ${totalMods})`;
+      modsChart.update();
     } else {
-      const monthCounts = new Array(12).fill(0);
-      filtered.forEach(mod => {
-        const d = new Date(mod.releaseDate);
-        if (d.getFullYear().toString() === year) monthCounts[d.getMonth()]++;
+      modsChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: `Mods Released per Year (Total: ${totalMods})`,
+            data,
+            backgroundColor: '#4CAF50'
+          }]
+        },
+        options: {
+          scales: {
+            y: { beginAtZero: true, ticks: { precision: 0 } }
+          }
+        }
       });
+    }
+  } else {
+    const monthCounts = new Array(12).fill(0);
+    filtered.forEach(mod => {
+      const d = new Date(mod.releaseDate);
+      if (d.getFullYear().toString() === year) monthCounts[d.getMonth()]++;
+    });
 
-      const labels = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    const labels = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
-      if (modsChart) {
-        modsChart.data.labels = labels;
-        modsChart.data.datasets[0].data = monthCounts;
-        modsChart.data.datasets[0].label = `Mods Released in ${year} (Monthly)`;
-        modsChart.update();
-      } else {
-        modsChart = new Chart(ctx, {
-          type: 'bar',
-          data: { labels, datasets: [{ label: `Mods Released in ${year} (Monthly)`, data: monthCounts, backgroundColor: '#4CAF50' }] },
-          options: { scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
-        });
-      }
+    if (modsChart) {
+      modsChart.data.labels = labels;
+      modsChart.data.datasets[0].data = monthCounts;
+      modsChart.data.datasets[0].label = `Mods Released in ${year} (Monthly) - Total: ${totalMods}`;
+      modsChart.update();
+    } else {
+      modsChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: `Mods Released in ${year} (Monthly) - Total: ${totalMods}`,
+            data: monthCounts,
+            backgroundColor: '#4CAF50'
+          }]
+        },
+        options: {
+          scales: {
+            y: { beginAtZero: true, ticks: { precision: 0 } }
+          }
+        }
+      });
     }
   }
+}
+
 
   // --- Init ---
   updateMods();
