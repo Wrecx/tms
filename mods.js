@@ -3344,6 +3344,158 @@ const mods = [
   }
   ,
   {
+    title: "Nintendo Castle Horror",
+    author: "Ultimegastriker",
+    releaseDate: "2012-03-10",
+    type: "Custom Story",
+    downloadLink: "https://www.mediafire.com/?sk6t3acjifkdmbx"
+  }
+  ,
+  {
+    title: "In Betwixt - Cathedral of Light's Library",
+    author: "Yuri Guzon Mainka",
+    releaseDate: "2017-06-09",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-in-betwixt-cathedral-of-lights-library/zd12dea"
+  }
+  ,
+  {
+    title: "The Curse Of Lost Memories",
+    author: "XDJ",
+    releaseDate: "2020-12-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-curse-of-lost-memories/downloads/the-curse-of-lost-memories-full-version"
+  }
+  ,
+  {
+    title: "Lower volume terror meter sound",
+    author: "XDJ",
+    releaseDate: "2017-10-07",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/addons/lower-volume-terror-meter-sound"
+  }
+  ,
+  {
+    title: "The Darkest Descent",
+    author: "XDJ",
+    releaseDate: "2020-06-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-darkest-descent/downloads/tdd-greedy-version"
+  }
+  ,
+  {
+    title: "The Woods Of Lost Memories",
+    author: "XDJ",
+    releaseDate: "2018-08-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/woods-of-lost-memories/downloads/woods-of-lost-memories-v270"
+  }
+  ,
+  {
+    title: "The Maze Of Lost Memories",
+    author: "XDJ",
+    releaseDate: "2016-09-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/downloads/the-maze-of-lost-memories-v75"
+  }
+  ,
+  {
+    title: "Night of the Terror",
+    author: "Blahys",
+    releaseDate: "2012-03-20",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-night-of-the-terror-v7022021-mod/z112e36"
+  }
+  ,
+  {
+    title: "House of the Shadows",
+    author: "D4veCZ",
+    releaseDate: "2013-06-30",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-house-of-the-shadows-v7012021-mod/zf12da7"
+  }
+  ,
+  {
+    title: "Game of Death",
+    author: "George505CZ",
+    releaseDate: "2012-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-game-of-death-v7012021-mod/z312d9c"
+  }
+  ,
+  {
+    title: "Home From Work",
+    author: "CLAYDOG001",
+    releaseDate: "2020-11-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-home-from-work/downloads/amnesia-home-from-work-v21"
+  }
+  ,
+  {
+    title: "The Great Work",
+    author: "Damascus7",
+    releaseDate: "2013-01-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-great-work/downloads/the-great-work-v15-revisions-and-more-translations"
+  }
+  ,
+  {
+    title: "Aunt Benz mansion",
+    author: "X3W0",
+    releaseDate: "2020-11-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/aunt-benz-mansion/downloads/aunt-benz-mansion"
+  }
+  ,
+  {
+    title: "Harms' Discovery 2: Terrible Secret",
+    author: "D4veCZ",
+    releaseDate: "2016-05-15",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-harms-discovery-2-terrible-secret-v7012/zc12dc2"
+  }
+  ,
+  {
+    title: "The Atonement",
+    author: "Exesus",
+    releaseDate: "2020-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-atonement-full-release/downloads/the-atonement-version-11"
+  }
+  ,
+  {
+    title: "Harms' Discovery",
+    author: "D4veCZ",
+    releaseDate: "2013-07-27",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-harms-discovery-v7012021-mod/za12da2"
+  }
+  ,
+  {
+    title: "The Secret of the Village",
+    author: "ThibixCZ",
+    releaseDate: "2011-05-11",
+    type: "Custom Story",
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-the-secret-of-the-village-v7012021-mod/zf12dfb"
+  }
+  ,
+  {
+    title: "House of Creep 9 (fan made)",
+    author: "512[DXII]",
+    releaseDate: "2020-10-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/house-of-creep-9-fan-made/downloads/house-of-creep-9-fan-made"
+  }
+  ,
+  {
+    title: "House of Creep 8 (fan made)",
+    author: "512[DXII]",
+    releaseDate: "2020-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/house-of-creep-8-fan-made-bruh/downloads/house-of-creep-8-fan-made-v100"
+  }
+  ,
+  {
     title: "",
     author: "",
     releaseDate: "",
