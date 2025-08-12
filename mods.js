@@ -1209,7 +1209,7 @@ const mods = [
   ,
   {
     title: "Insomnia",
-    author: "Faunter",
+    author: "DamnNoHtml",
     releaseDate: "2011-09-14",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/insomnia-the-wake-trilogy/downloads/insomnia-v11"
@@ -1432,7 +1432,7 @@ const mods = [
   }
   ,
   {
-    title: "Pewdie Cake Remake",
+    title: "Pewdie Cake - Remake",
     author: "Wrecx",
     releaseDate: "2021-03-20",
     type: "Custom Story",
@@ -1794,8 +1794,8 @@ const mods = [
   {
     title: "Amnesia: Remodded",
     author: "NutBoi",
-    releaseDate: "2025-07-28",
-    type: "Custom Story",
+    releaseDate: "2021-04-05",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/mods/amnesia-remodded/downloads/amnesia-remodded-20"
   }
   ,
@@ -1925,6 +1925,558 @@ const mods = [
     releaseDate: "2024-08-28",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-memory-room/downloads/the-memory-room"
+  }
+  ,
+  {
+    title: "Find Escape",
+    author: "Kara_Crow",
+    releaseDate: "2014-03-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/find-escape/downloads/find-escape-remaster"
+  }
+  ,
+  {
+    title: "An Unexpected Arrival ",
+    author: "LloydIsGolden",
+    releaseDate: "2024-06-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/an-unexpected-arrival-full-version/downloads/the-unexpected-arrival-full"
+  }
+  ,
+  {
+    title: "Illusions of the Dead",
+    author: "TimProzz",
+    releaseDate: "2017-08-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead/downloads/illusions-of-the-dead-full-release-v4"
+  }
+  ,
+  {
+    title: "The Curse of Ripley Manor",
+    author: "serbusfish",
+    releaseDate: "2016-08-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-curse-of-ripley-manor/downloads/the-curse-of-ripley-manor-v105"
+  }
+  ,
+  {
+    title: "The Trapdoor",
+    author: "Aetheric Games",
+    releaseDate: "2014-04-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-trapdoor/downloads/thetrapdoor-32"
+  }
+  ,
+  {
+    title: "Helena",
+    author: "Shriek-a-Boo Entertainment",
+    releaseDate: "2024-02-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-helena/downloads/helena-v-10"
+  }
+  ,
+  {
+    title: "HPL2 Helper Scripts",
+    author: "Aetheric Games",
+    releaseDate: "2023-12-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/hpl2-helper-scripts/downloads/hpl2-helper-scripts-v11"
+  }
+  ,
+  {
+    title: "Unexpected Invitation",
+    author: "Karel_Kupec_476",
+    releaseDate: "2024-01-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/unexpected-invitation"
+  }
+  ,
+  {
+    title: "Doge's Quest",
+    author: "Quazzar",
+    releaseDate: "2024-01-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/doges-quest/downloads/doges-quest"
+  }
+  ,
+  {
+    title: "Metallum Crepuit",
+    author: "CheBureK_96",
+    releaseDate: "2024-01-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/metallum-crepuit/downloads/metallum-crepuit-v11"
+  }
+  ,
+  {
+    title: "The Pit",
+    author: "Limnal",
+    releaseDate: "2024-01-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-pit/downloads/the-pit1"
+  }
+  ,
+  {
+    title: "Traces of the Forgotten",
+    author: "Quazzar",
+    releaseDate: "2024-01-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/traces-of-the-forgotten/downloads/traces-of-the-forgotten"
+  }
+  ,
+  {
+    title: "Tesseract Creator",
+    author: "Saito720",
+    releaseDate: "2024-01-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/tesseract-creator"
+  }
+  ,
+  {
+    title: "The Idaho Ripper",
+    author: " ",
+    releaseDate: "2023-12-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-idaho-ripper/downloads/the-idaho-ripper"
+  }
+  ,
+  {
+    title: "The Great Christmas Special",
+    author: "MysteryGooberman",
+    releaseDate: "2023-12-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-great-christmas-special/downloads/the-great-christmas-special"
+  }
+  ,
+  {
+    title: "Sclerosis: an Amnesia VR remake",
+    author: "CreaTeam",
+    releaseDate: "2023-11-06",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/sclerosis-an-amnesia-vr-remake/downloads/sclerosis-an-amnesia-vr-remake"
+  }
+  ,
+  {
+    title: "Amnesia: The Dark Descent Redux",
+    author: "mpollind",
+    releaseDate: "2023-10-13",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-redux/downloads/amnesia-redux-windows-v1026"
+  }
+  ,
+  {
+    title: "Tangerine Touch",
+    author: "AnchorCross",
+    releaseDate: "2020-12-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tangerine-touch/downloads/tangerine-touch-custom-story-edition"
+  }
+  ,
+  {
+    title: "The Lost One",
+    author: "MrSheriff",
+    releaseDate: "2023-10-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/the-lost-one"
+  }
+  ,
+  {
+    title: "A Custom Story",
+    author: "DarkMattNoir",
+    releaseDate: "2023-08-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-custom-story/downloads/a-custom-story-en-fr-1st-version-full-and-patched"
+  }
+  ,
+  {
+    title: "The Grimoire",
+    author: "J_Stanor",
+    releaseDate: "2023-09-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-grimoire/downloads/the-grimoire-v1-0-2"
+  }
+  ,
+  {
+    title: "Troll Story Unofficial Continuation",
+    author: "Ggohoio",
+    releaseDate: "2024-06-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-unofficial-continuation-suite"
+  }
+  ,
+  {
+    title: "Lost In The Unknown",
+    author: "Applekingen",
+    releaseDate: "2023-06-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lost-in-the-unknown/downloads/lost-in-the-unknown"
+  }
+  ,
+  {
+    title: "The Intersection",
+    author: "Spuzzgek",
+    releaseDate: "2022-07-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-intersection/downloads/the-intersection-story-overhaul"
+  }
+  ,
+  {
+    title: "PUDGE",
+    author: "popisya",
+    releaseDate: "2023-03-29",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/pudge-in-amnesia-the-dark-descent/downloads/pudge-in-amnesia-the-dark-descent"
+  }
+  ,
+  {
+    title: "Nullus Deus",
+    author: "The Amnesia Constitution",
+    releaseDate: "2023-03-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/nullus-deus-wbtt-remaster/downloads/nulls-deus-full-release"
+  }
+  ,
+  {
+    title: "Jordy's Dream",
+    author: "Faunter",
+    releaseDate: "2022-11-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/jordys-dream/downloads/jordys-dream"
+  }
+  ,
+  {
+    title: "Abnormal Story",
+    author: "rocketman5",
+    releaseDate: "2022-11-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/abnormal-story/downloads/abnormal-story"
+  }
+  ,
+  {
+    title: "Secrets",
+    author: "Lion_723",
+    releaseDate: "2022-10-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-secrets/downloads/amnesia-secrets"
+  }
+  ,
+  {
+    title: "Amnesia - Orion",
+    author: "Shyrtexx",
+    releaseDate: "2022-10-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-orion-remastered-version/downloads/amnesia-orion-remastered-v-10"
+  }
+  ,
+  {
+    title: "The Apocalypse - escape",
+    author: "Ruhtinas471",
+    releaseDate: "2022-10-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-apocalypse-escape/downloads/the-apocalypse-v2"
+  }
+  ,
+  {
+    title: "The Dreamstride",
+    author: "i3670",
+    releaseDate: "2022-10-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-dreamstride-re-release/downloads/the-dreamstride-by-i3670"
+  }
+  ,
+  {
+    title: "Tenebris Lake inspired Lantern",
+    author: "RizzyD3D9, Darkfires, ambientCG, Boris Game Studios",
+    releaseDate: "2022-10-12",
+    type: "Adoon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/tenebris-lake-inspired-lantern"
+  }
+  ,
+  {
+    title: "Amnesia New Brennenburg castle",
+    author: "Reiki9872",
+    releaseDate: "2022-09-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-set-up-a-new-room/downloads/amnesia-brennenburg-castle"
+  }
+  ,
+  {
+    title: "Locked",
+    author: "ColinWolfy",
+    releaseDate: "2022-09-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-locked/downloads/locked1"
+  }
+  ,
+  {
+    title: "NextBot Monster",
+    author: "RizzyD3D9",
+    releaseDate: "2022-09-05",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/nextbot-monster"
+  }
+  ,
+  {
+    title: "sawrunner REDUX",
+    author: "xarox02",
+    releaseDate: "2022-08-08",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/sawrunner-redux"
+  }
+  ,
+  {
+    title: "Chuan Monster",
+    author: "RizzyD3D9",
+    releaseDate: "2022-07-05",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/chuan-monster"
+  }
+  ,
+  {
+    title: "Melancholy",
+    author: "SebValentine",
+    releaseDate: "2022-05-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/melancholy1/downloads/melancholy-zipped"
+  }
+  ,
+  {
+    title: "The Scape",
+    author: "cristofergamer36",
+    releaseDate: "2022-07-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-scape-customs/downloads/the-scape-english-edition-by-cristofergamer36"
+  }
+  ,
+  {
+    title: "Troll the Amnesia Monster (by CrazyShootin)",
+    author: "teehe",
+    releaseDate: "2013-11-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-the-amnesia-monster-by-crazyshootin/downloads/crazyshootins-trolling-map-full-version"
+  }
+  ,
+  {
+    title: "Friendship of Evilness",
+    author: "Applekingen",
+    releaseDate: "2022-06-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/friendship-of-evilness/downloads/friendship-of-evilness-v2"
+  }
+  ,
+  {
+    title: "SCP : Dark Confinement Origins",
+    author: "Dark Confinement Studios",
+    releaseDate: "2022-04-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/scp-dark-confinement-origins1/downloads/scp-dark-confinement-origins-chapter-1"
+  }
+  ,
+  {
+    title: "Castle Wackersberg",
+    author: "headlesscyborg",
+    releaseDate: "2021-06-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/castle-wackersberg/downloads/castle-wackersberg"
+  }
+  ,
+  {
+    title: "The Night Guest",
+    author: "Hds46",
+    releaseDate: "2022-02-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-night-guest/downloads/the-night-guest"
+  }
+  ,
+  {
+    title: "DJPredator's Enhanced Lamps",
+    author: "DJPredator",
+    releaseDate: "2022-02-15",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/djpredators-enhanced-lights/downloads/djpredators-enhanced-lights-release-10"
+  }
+  ,
+  {
+    title: "HE",
+    author: "Nunrtevy",
+    releaseDate: "2022-02-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-custom-story-he-demo"
+  }
+  ,
+  {
+    title: "Fleeing Brennenburg",
+    author: "florian.",
+    releaseDate: "2022-02-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/fleeing-brennenburg/downloads/fleeing-brennenburg"
+  }
+  ,
+  {
+    title: "Loner Mansion",
+    author: "Lou4o4",
+    releaseDate: "2022-01-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-loner-mansion/downloads/amnesia-loner-mansion-extended-demo-v10"
+  }
+  ,
+  {
+    title: "Madness ch03",
+    author: "Marzio99",
+    releaseDate: "2013-02-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/madness-ch03-demo-ita-eng"
+  }
+  ,
+  {
+    title: "The Fugitive - Episode One",
+    author: "SwedishGames",
+    releaseDate: "2013-08-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-fugitive-episode-1/downloads/the-fugitive-episode-1-version-12"
+  }
+  ,
+  {
+    title: "The Fugitive - Episode Two",
+    author: "SwedishGames",
+    releaseDate: "2013-12-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-fugitive-episode-two/downloads/the-fugitive-2-better-conversion-bathroom-fix"
+  }
+  ,
+  {
+    title: "The Fugitive - Episode Three",
+    author: "SwedishGames",
+    releaseDate: "2015-09-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-fugitive-episode-three/downloads/the-fugitive-3-version-12"
+  }
+  ,
+  {
+    title: "Bavarian Tales: Return to Home",
+    author: "SwankestCZ, Cibule, Nachitus",
+    releaseDate: "2021-07-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/bavarian-tales-return-to-home-en-ge-fr/downloads/bavarian-tales-return-to-home-en-ge-fr"
+  }
+  ,
+  {
+    title: "Servants Rebalanced",
+    author: "MrJayden585",
+    releaseDate: "2021-09-16",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/servants-rebalanced/downloads/servants-rebalanced-121"
+  }
+  ,
+  {
+    title: "Grimorium Verum",
+    author: "bagobonez",
+    releaseDate: "2012-07-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/grimorium-verum"
+  }
+  ,
+  {
+    title: "Death Can Wait",
+    author: "Datguy5",
+    releaseDate: "2012-02-03",
+    type: "Custom Story",
+    downloadLink: "http://www.mediafire.com/?q561fp2f2n6x2gw"
+  }
+  ,
+  {
+    title: "Dark Enemy",
+    author: "BogDone",
+    releaseDate: "2018-11-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/darkenemy"
+  }
+  ,
+  {
+    title: "Lovelorn",
+    author: "Spelos",
+    releaseDate: "2020-05-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/lovelorn"
+  }
+  ,
+  {
+    title: "The Elevator",
+    author: "WithoutPixel",
+    releaseDate: "2019-05-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-elevator1"
+  }
+  ,
+  {
+    title: "The Village (Das Dorf)",
+    author: "Stonecutter",
+    releaseDate: "2011-05-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/das-dorf-the-village"
+  }
+  ,
+  {
+    title: "Santa's House",
+    author: "The3Flames",
+    releaseDate: "2011-12-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/santas-house"
+  }
+  ,
+  {
+    title: "BeerCakes LSD 2",
+    author: "Skashi",
+    releaseDate: "2013-06-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/beercakes-lsd-2"
+  }
+  ,
+  {
+    title: "BeerCakes LSD 1",
+    author: "Skashi",
+    releaseDate: "2012-06-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/beercakes-lsd-1"
+  }
+  ,
+  {
+    title: "Skashi's Castle",
+    author: "Skashi",
+    releaseDate: "2012-03-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/skashis-castle"
+  }
+  ,
+  {
+    title: "MYSTERY: Chapter 2",
+    author: "flamez3",
+    releaseDate: "2011-11-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/mystery-chapter-2"
+  }
+  ,
+  {
+    title: "MYSTERY: Chapter 3",
+    author: "flamez3",
+    releaseDate: "2011-11-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/mystery-chapter-3"
+  }
+  ,
+  {
+    title: "Bavarian saga",
+    author: "Dmitrijivanow",
+    releaseDate: "2021-11-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/bavarian-saga/downloads/bavarian-saga-amnes"
+  }
+  ,
+  {
+    title: "Multiplayer mod for Amnesia TDD",
+    author: "villyfox1101",
+    releaseDate: "2011-11-09",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/multiplayer-mod-for-amnesia-tdd"
   }
   ,
   {
