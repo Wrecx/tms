@@ -2480,6 +2480,206 @@ const mods = [
   }
   ,
   {
+    title: "knight",
+    author: "villyfox1101",
+    releaseDate: "2021-11-04",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/knight"
+  }
+  ,
+  {
+    title: "Bus",
+    author: "Daniel5784",
+    releaseDate: "2021-11-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/na1635700599/downloads/bus1"
+  }
+  ,
+  {
+    title: "Auto",
+    author: "Daniel5784",
+    releaseDate: "2021-11-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/na1635778411/downloads/auto"
+  }
+  ,
+  {
+    title: "Spelos' Escapefest",
+    author: "Spelos",
+    releaseDate: "2021-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/spelos-escapefest"
+  }
+  ,
+  {
+    title: "Spelos' Spookfest",
+    author: "Spelos",
+    releaseDate: "2018-10-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/spelos-spookfest"
+  }
+  ,
+  {
+    title: "Let It Snow",
+    author: "Spelos",
+    releaseDate: "2017-12-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/let-it-snow"
+  }
+  ,
+  {
+    title: "A foggy night in Altstadt - Visual Test Map",
+    author: "Lou4o4",
+    releaseDate: "2021-10-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-foggy-night-in-altstadt-visual-test-map/downloads/custom-map-house-in-altstadt"
+  }
+  ,
+  {
+    title: "Escape from the Wolfenstein Laboratory",
+    author: "Daniel5784",
+    releaseDate: "2021-10-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-from-the-wolfenstein-laboratory/downloads/escape-from-the-wolfenstein-laboratory"
+  }
+  ,
+  {
+    title: "Wraith HPL2 (from Rebirth)",
+    author: "OddStuff",
+    releaseDate: "2021-10-20",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rebirth-enemy-wraith/downloads/wraith-hpl2-10"
+  }
+  ,
+  {
+    title: "Amnesia: The Night i Went Insane Rus",
+    author: "Mr.Foul",
+    releaseDate: "2021-10-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-the-night-i-went-insane-rus"
+  }
+  ,
+  {
+    title: "Simulacrum",
+    author: "ʟogan",
+    releaseDate: "2018-07-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/simulacrum/downloads/full-simulacrum-v11"
+  }
+  ,
+  {
+    title: "Script-Controlled Lantern Color",
+    author: "OddStuff",
+    releaseDate: "2021-05-23",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/script-controlled-lantern-color/downloads/script-controlled-lantern-color-10"
+  }
+  ,
+  {
+    title: "Santa's Castle Escape",
+    author: "OddStuff",
+    releaseDate: "2020-12-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/santas-castle-escape/downloads/santas-castle-escape-11"
+  }
+  ,
+  {
+    title: "Rebirth Enemy Ghoul",
+    author: "OddStuff",
+    releaseDate: "2020-10-22",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rebirth-enemy-ghl-ghoul/downloads/rebirth-enemy-ghul-ver-10"
+  }
+  ,
+  {
+    title: "Bloody Brute Sewer",
+    author: "OddStuff",
+    releaseDate: "2020-09-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/bloody-brute-sewer/downloads/bloody-brute-sewer"
+  }
+  ,
+  {
+    title: "Permafrost Mountain",
+    author: "OddStuff",
+    releaseDate: "2020-01-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/permafrost-mountain/downloads/permafrost-mountain-v11"
+  }
+  ,
+  {
+    title: "Brute Force",
+    author: "OddStuff",
+    releaseDate: "2019-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/brute-force1/downloads/brute-force-v12"
+  }
+  ,
+  {
+    title: "A Gruntly Halloween",
+    author: "OddStuff",
+    releaseDate: "2019-10-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-gruntly-halloween/downloads/a-gruntly-halloween-v16"
+  }
+  ,
+  {
+    title: "The Clockman",
+    author: "OddStuff",
+    releaseDate: "2019-04-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-clockman/downloads/the-clockman"
+  }
+  ,
+  {
+    title: "A Gruntly New Year",
+    author: "OddStuff",
+    releaseDate: "2018-12-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-gruntly-new-year/downloads/a-gruntly-new-year-v2"
+  }
+  ,
+  {
+    title: "A Gruntly Christmas",
+    author: "OddStuff",
+    releaseDate: "2018-12-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-gruntly-christmas/downloads/a-gruntly-christmas-ver-10"
+  }
+  ,
+  {
+    title: "Verlorener: Chapter 2",
+    author: "OddStuff",
+    releaseDate: "2018-09-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/verlorener-chapter-2/downloads/verlorener-chapter-ii-version-10"
+  }
+  ,
+  {
+    title: "Verlorener: Chapter 1",
+    author: "OddStuff",
+    releaseDate: "2018-08-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/verlorener-chapter-1/downloads/verlorener"
+  }
+  ,
+  {
+    title: "History (Chapter 1)",
+    author: "OddStuff",
+    releaseDate: "2017-12-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-history-chapter-1/downloads/amnesia-history-chapter-1-update-21"
+  }
+  ,
+  {
+    title: "Ambition",
+    author: "OddStuff",
+    releaseDate: "2018-01-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/ambition/downloads/ambition-update-1"
+  }
+  ,
+  {
     title: "",
     author: "",
     releaseDate: "",
