@@ -725,23 +725,33 @@ function renderOrUpdateModsChart(year = 'all') {
     document.getElementById('modsPerYearChart').style.display = 'none';
   });
 
-  function renderModsTable2(data) {
+function renderMods2(modsArray) {
+  // Always sort A–Z by title
+  const sortedMods = [...modsArray].sort((a, b) =>
+    a.title.localeCompare(b.title, undefined, { sensitivity: 'base' })
+  );
+
   const tbody = document.querySelector('#modsTable2 tbody');
   tbody.innerHTML = '';
-  data.forEach((mod, index) => {
+
+  sortedMods.forEach((mod, index) => {
     const row = document.createElement('tr');
+
     row.innerHTML = `
       <td>${index + 1}</td>
-      <td class="title">${mod.title}</td>
-      <td class="author">${mod.author}</td>
-      <td>${mod.releaseDate}</td>
-      <td>${mod.type}</td>
-      <td><a href="${mod.download}" target="_blank">Download</a></td>
+      <td>${mod.title}</td>
+      <td>${mod.author}</td>
+      <td class="fixed-width release-date">${mod.releaseDate}</td>
+      <td class="fixed-width type">${mod.type}</td>
+      <td class="fixed-width download"><a href="${mod.download}" target="_blank" style="color: #4CAF50;">Download</a></td>
     `;
+
     tbody.appendChild(row);
   });
 }
-renderModsTable2(mods2);
+
+renderMods2(mods2);
+
 
 </script>
 
