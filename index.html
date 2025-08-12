@@ -263,7 +263,6 @@ table th, table td {
   word-break: break-word;
 }
 
-/* Mobile layout adjustments */
 @media (max-width: 768px) {
   #filters {
     flex-direction: column;
@@ -272,7 +271,7 @@ table th, table td {
 
   table th:nth-child(3), 
   table td:nth-child(3) {
-    display: none; /* example: hide author column on mobile */
+    display: none;
   }
 
   h1 {
@@ -283,6 +282,20 @@ table th, table td {
   #modsPerYearChart {
     max-width: 100%;
   }
+}
+
+.section-title {
+  text-align: center;
+  font-size: 1.6rem;
+  color: #4CAF50;
+  margin-top: 2rem;
+}
+
+.section-description {
+  max-width: 800px;
+  margin: 0 auto 1rem;
+  font-size: 1rem;
+  text-align: center;
 }
 
   </style>
@@ -296,7 +309,7 @@ table th, table td {
 </header>
 
   <main>
-<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It doesn't list demos or earlier versions of mods<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>The release dates usually show when the mod's page was created, not the newest version's date.</p>
+<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It doesn't list demos or earlier versions of mods<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>The release dates usually show when the mod's page was created, not the newest version's date.<br>If you know any mods that aren't listed here, please contact me on Discord (at the bottom of the page).</p>
 <br>
 <div class="filters" role="region" aria-label="Filter and sort options">
   <!-- Row 1: Sort + Year -->
@@ -374,6 +387,31 @@ table th, table td {
         <!-- Mod rows will be inserted here by JS -->
       </tbody>
     </table>
+
+<h1 class="section-title">Lost Mods</h1>
+<br>
+<p class="section-description">
+  This section is for mods which have been lost to time, and I couldn't find available download links for them.<br>If you have any of these mods, please contact me on Discord (at the bottom of the page).
+</p>
+    <br>
+
+<!-- Second Spreadsheet -->
+<table id="modsTable2" aria-label="Second list of Amnesia mods">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Mod Title</th>
+      <th>Author</th>
+      <th class="fixed-width release-date">Release Date</th>
+      <th class="fixed-width type">Type</th>
+      <th class="fixed-width download">Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Mod rows will be inserted here by JS -->
+  </tbody>
+</table>
+
   </main>
 
 <footer>
@@ -386,6 +424,8 @@ table th, table td {
 </footer>
 
   <script src="mods.js"></script>
+  <script src="mods2.js"></script>
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <script>
@@ -484,7 +524,8 @@ table th, table td {
     const lowerText = text.toLowerCase();
     return modsArray.filter(mod =>
       mod.title.toLowerCase().includes(lowerText) ||
-      mod.author.toLowerCase().includes(lowerText)
+      mod.author.toLowerCase().includes(lowerText) ||
+      mod.releaseDate.toLowerCase().includes(lowerText)
     );
   }
 
@@ -660,6 +701,25 @@ table th, table td {
     document.getElementById('timeline').style.display = 'none';
     document.getElementById('modsPerYearChart').style.display = 'none';
   });
+
+  function renderModsTable2(data) {
+  const tbody = document.querySelector('#modsTable2 tbody');
+  tbody.innerHTML = '';
+  data.forEach((mod, index) => {
+    const row = document.createElement('tr');
+    row.innerHTML = `
+      <td>${index + 1}</td>
+      <td class="title">${mod.title}</td>
+      <td class="author">${mod.author}</td>
+      <td>${mod.releaseDate}</td>
+      <td>${mod.type}</td>
+      <td><a href="${mod.download}" target="_blank">Download</a></td>
+    `;
+    tbody.appendChild(row);
+  });
+}
+renderModsTable2(mods2);
+
 </script>
 
 
