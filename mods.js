@@ -2380,7 +2380,7 @@ const mods = [
     author: "Datguy5",
     releaseDate: "2012-02-03",
     type: "Custom Story",
-    downloadLink: "http://www.mediafire.com/?q561fp2f2n6x2gw"
+    downloadLink: "https://drive.google.com/file/d/145UiU0PjYF6LIvpGYmG2jrEupeK-7a-Q/view?usp=drive_link"
   }
   ,
   {
@@ -2692,7 +2692,7 @@ const mods = [
     author: "ModManDann",
     releaseDate: "2011-01-08",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?c3hix6mx9bqar24"
+    downloadLink: "https://drive.google.com/file/d/1L5Ac8vLLapeA3JUnsRGBfAJuqLMEJAu4/view?usp=drive_link"
   }
   ,
   {
@@ -2700,7 +2700,7 @@ const mods = [
     author: "HollowRiku13",
     releaseDate: "2012-01-09",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/file/pr7o05r2ii3f0v7/Absolute+Darkness.rar/file"
+    downloadLink: "https://drive.google.com/file/d/1PFUaRkBFkyQhopMZNXtN4aM1GF13-g1U/view?usp=drive_link"
   }
   ,
   {
@@ -2724,7 +2724,7 @@ const mods = [
     author: "Amnesiape",
     releaseDate: "2012-03-12",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?1jyg1i55vcqp44l"
+    downloadLink: "https://drive.google.com/file/d/1OW_EY1jbK3_cDS5DdBdxfm-2pfTAiCdG/view?usp=drive_link"
   }
   ,
   {
@@ -2764,7 +2764,7 @@ const mods = [
     author: "MeatyPuddin",
     releaseDate: "2011-07-20",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?5dx2ptyzsu6hksr"
+    downloadLink: "https://drive.google.com/file/d/1FQBPKVR6ch0jETW_PVgR4V_B0G-S6MA5/view?usp=drive_link"
   }
   ,
   {
@@ -2988,7 +2988,7 @@ const mods = [
     author: "Skashi",
     releaseDate: "2012-12-25",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?ovh9r00sdrvdlsv"
+    downloadLink: "https://drive.google.com/file/d/1rw7ZP1K1t0jyLJWaNqiSiZ0U4y2_ZAon/view?usp=drive_link"
   }
   ,
   {
@@ -3212,7 +3212,7 @@ const mods = [
     author: "Sabokizi",
     releaseDate: "2011-08-14",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?x9408r9sua1hq0h"
+    downloadLink: "https://drive.google.com/file/d/1aCefOpBIJ5-GKdWNsP3yV2C1hf981uMX/view?usp=drive_link"
   }
   ,
   {
@@ -3228,7 +3228,7 @@ const mods = [
     author: "Flashlt",
     releaseDate: "2013-12-15",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/download/1lmd7krf584d6cm/Glitch+%27em+all!.rar"
+    downloadLink: "https://drive.google.com/file/d/19c7WH2l7MBWuFqL0eo0BpdQ5ho8t7RfX/view?usp=drive_link"
   }
   ,
   {
@@ -3236,7 +3236,7 @@ const mods = [
     author: "CyberNinjaJesus",
     releaseDate: "2012-07-19",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/10XdB1UZ9azjHvTXp2Ur20PVOG-4NXhZc/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/10XdB1UZ9azjHvTXp2Ur20PVOG-4NXhZc/view?usp=drive_link"
   }
   ,
   {
@@ -3244,7 +3244,7 @@ const mods = [
     author: "Jonez, Flashlt",
     releaseDate: "2013-02-10",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?mbanv8qaqdeagze"
+    downloadLink: "https://drive.google.com/file/d/1vXBKnGAtmDcWmZYNeDuTy2CFBNVbr-rn/view?usp=drive_link"
   }
   ,
   {
@@ -3252,7 +3252,7 @@ const mods = [
     author: "Jonez",
     releaseDate: "2010-09-16",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1N1uplAB-2TI87Zjv4pQVXzq8ExpQMlfP/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1N1uplAB-2TI87Zjv4pQVXzq8ExpQMlfP/view?usp=drive_link"
   }
   ,
   {
@@ -3260,7 +3260,7 @@ const mods = [
     author: "Hanzy302",
     releaseDate: "2011-08-15",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1naZcE0IqJQb4wdwkYyZkwJhG4QkO6drl/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1naZcE0IqJQb4wdwkYyZkwJhG4QkO6drl/view?usp=drive_link"
   }
   ,
   {
@@ -3268,7 +3268,7 @@ const mods = [
     author: "choilgi",
     releaseDate: "2013-08-14",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1Z0V42v6XIeTCMVgobcUTz_Cgx4uQHDAd/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1Z0V42v6XIeTCMVgobcUTz_Cgx4uQHDAd/view?usp=drive_link"
   }
   ,
   {
@@ -3300,7 +3300,7 @@ const mods = [
     author: "Where have we gone? trolol",
     releaseDate: "2011-07-07",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?jjrqn2p0k87xr6l"
+    downloadLink: "https://drive.google.com/file/d/1UfHwHDHpqcPfQB5_kNzRUYHNjOUldS3a/view?usp=drive_link"
   }
   ,
   {
@@ -3348,7 +3348,7 @@ const mods = [
     author: "Ultimegastriker",
     releaseDate: "2012-03-10",
     type: "Custom Story",
-    downloadLink: "https://www.mediafire.com/?sk6t3acjifkdmbx"
+    downloadLink: "https://drive.google.com/file/d/1UC1vm7PV2lMmdcPrC-NhsixSbEkfFtGk/view?usp=drive_link"
   }
   ,
   {
@@ -3978,7 +3978,7 @@ const mods = [
   {
     title: "Absurd",
     author: "M3NTALMAN",
-    releaseDate: "0000",
+    releaseDate: "2014-07-29",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984526482&searchtext="
   }
@@ -4716,7 +4716,7 @@ const mods = [
     author: "magictoast",
     releaseDate: "2010-10-30",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1AEC0zfNvdZIsW6GnpY8LsNr-HfiqGlfK/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1AEC0zfNvdZIsW6GnpY8LsNr-HfiqGlfK/view?usp=drive_link"
   }
   ,
   {
@@ -4724,7 +4724,7 @@ const mods = [
     author: "Pandemoneus",
     releaseDate: "2010-09-24",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1oVx1Qc9McEX3aQmHQvsrDAvzM7uJmzgN/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1oVx1Qc9McEX3aQmHQvsrDAvzM7uJmzgN/view?usp=drive_link"
   }
   ,
   {
@@ -5924,7 +5924,7 @@ const mods = [
     author: "MidnightResearcher",
     releaseDate: "2016-10-18",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-black-eagle-castle1"
+    downloadLink: "https://drive.google.com/file/d/14ePA7spCtLpZs3nvGP-RBxVwFMRKdiKd/view?usp=drive_link"
   }
   ,
   {
@@ -6013,6 +6013,126 @@ const mods = [
     releaseDate: "2015-02-17",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/monsters-an-amnesia-concept/downloads/monsters-release-v121"
+  }
+  ,
+  {
+    title: "Backrooms",
+    author: "xarox02",
+    releaseDate: "2021-06-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/15dU4C5G7qLuHQJhvtukOikPYJrUm7cn5/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dragon's Revenge",
+    author: "DragonicSiege",
+    releaseDate: "2015-04-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dragonstar/downloads/dragons-revenge-demo-version"
+  }
+  ,
+  {
+    title: "Aeterni Tenebrae - The Darkness",
+    author: "StorFigge",
+    releaseDate: "2015-03-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-dark-escape-aeterni-tenebrae/downloads/amnesia-aeterni-tenebrae"
+  }
+  ,
+  {
+    title: "Key to Freedom",
+    author: "MXDash",
+    releaseDate: "2013-08-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/key-to-freedom/downloads/key-to-freedom-version-13-latest-version"
+  }
+  ,
+  {
+    title: "GabryGames - MOD Fan",
+    author: "Argus6031",
+    releaseDate: "2015-02-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/gabrygames-mod-fan/downloads/gabrygames-mod-fan"
+  }
+  ,
+  {
+    title: "Concussion",
+    author: "ADrySoldier",
+    releaseDate: "2015-02-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/concussion/downloads/full-conversion-demo"
+  }
+  ,
+  {
+    title: "Brutal Changes",
+    author: "ethics",
+    releaseDate: "2015-01-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/brutal-changes/downloads/brutal-changes-englishgerman-v-13"
+  }
+  ,
+  {
+    title: "Depth",
+    author: "Hadareon",
+    releaseDate: "2015-01-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-depth/downloads/amnesia-depth-full-eng"
+  }
+  ,
+  {
+    title: "The Barn's Secrets",
+    author: "Badcat5550",
+    releaseDate: "2015-01-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-barns-secrets/downloads/the-barns-secrets-released"
+  }
+  ,
+  {
+    title: "In A Heartbeat",
+    author: "MsHannerBananer",
+    releaseDate: "2015-01-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-in-a-heartbeat/downloads/amnesia-in-a-heartbeat-ver-11"
+  }
+  ,
+  {
+    title: "The Subconscious Trials",
+    author: "Kman418",
+    releaseDate: "2014-12-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-subconscious-trials/downloads/the-subconscious-trials-v11"
+  }
+  ,
+  {
+    title: "Penumbra: Necrologue",
+    author: "CounterCurrent_Games",
+    releaseDate: "2014-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/penumbra-necrologue/downloads/necrologue-12-eng"
+  }
+  ,
+  {
+    title: "The Rat's Dawn (Patkányok Hajnala)",
+    author: "BAKERHUN",
+    releaseDate: "2014-12-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-rats-dawn-patknyok-hajnala/downloads/rats-dawn-avagy-a-patknyok-hajnala"
+  }
+  ,
+  {
+    title: "Pactum Tenebris",
+    author: "iropicci",
+    releaseDate: "2014-12-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/pactum-tenebris/downloads/pactum-tenebris-volume-1-praeludium"
+  }
+  ,
+  {
+    title: "The Eight Pages",
+    author: "NightMareMeScream",
+    releaseDate: "2014-12-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-eight-pages/downloads/amnesia-the-eight-pages-v10"
   }
   ,
   {
