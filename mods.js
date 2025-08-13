@@ -5448,6 +5448,286 @@ const mods = [
   }
   ,
   {
+    title: "Testing Grounds",
+    author: "lovethegames97",
+    releaseDate: "2017-03-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-lost-way/downloads/testing-grounds"
+  }
+  ,
+  {
+    title: "The Lost Way",
+    author: "lovethegames97",
+    releaseDate: "2017-03-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-lost-way/downloads/lost-way-demo-v-15"
+  }
+  ,
+  {
+    title: "Only Fear",
+    author: "StasFedoroV",
+    releaseDate: "2014-01-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/only-fear1/downloads/only-fear-v-20-alternative-story"
+  }
+  ,
+  {
+    title: "The Greater Good",
+    author: "1402News",
+    releaseDate: "2017-02-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tgg/downloads/tgg-early-level-1-design"
+  }
+  ,
+  {
+    title: "The Rift",
+    author: "Clay_Mix",
+    releaseDate: "2017-02-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-rift/downloads/rift-12"
+  }
+  ,
+  {
+    title: "Many Hands 3 - THE RETURN",
+    author: "CarnivorousJellybean",
+    releaseDate: "2017-02-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/many-hands-3-the-return/downloads/many-hands-301"
+  }
+  ,
+  {
+    title: "Hunting Ground",
+    author: "TeeZaah",
+    releaseDate: "2017-01-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/hunting-ground/downloads/hunting-ground"
+  }
+  ,
+  {
+    title: "phenomenon",
+    author: "StasFedoroV",
+    releaseDate: "2016-12-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/phenomenon/downloads/phenomenon-v-102"
+  }
+  ,
+  {
+    title: "Therapy Dream",
+    author: "Robert_Nemet",
+    releaseDate: "2016-12-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/therapy-dream/downloads/therapy-dream-v10"
+  }
+  ,
+  {
+    title: "Mansion Of Mystery",
+    author: "jaythegameguy",
+    releaseDate: "2016-12-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mansion-of-mystery/downloads/mansion-of-mystery-demo-update-1"
+  }
+  ,
+  {
+    title: "The Streets of London",
+    author: "NewsmanWaterpaper",
+    releaseDate: "2016-11-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-streets-of-london/downloads/amnesia-the-streets-of-london"
+  }
+  ,
+  {
+    title: "Upheaval The Darkness Ascension of Whisperstream",
+    author: "ShiaadowinskyXlash",
+    releaseDate: "2016-11-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/upheaval-the-darkness-ascension-of-whisperstream/downloads/upheaval-the-darkness-ascension-of-ws-part-1"
+  }
+  ,
+  {
+    title: "Abducted by Billy",
+    author: "perceptionist",
+    releaseDate: "2016-11-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/abducted-by-billy/downloads/abducted-by-billy-final-release"
+  }
+  ,
+  {
+    title: "Painful Memories",
+    author: "TeeZaah",
+    releaseDate: "2016-10-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/painful-memories/downloads/painful-memories"
+  }
+  ,
+  {
+    title: "A Late Night Drink: The Last Sip",
+    author: "DeAngeloBear",
+    releaseDate: "2016-10-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-late-night-drink-the-last-sip/downloads/a-late-night-drink-the-last-sip"
+  }
+  ,
+  {
+    title: "Built on a Rotten Foundation",
+    author: "Frostedge",
+    releaseDate: "2016-09-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/built-on-a-rotten-foundation/downloads/built-on-a-rotten-foundation"
+  }
+  ,
+  {
+    title: "The Cage",
+    author: "AuroraGuiniverePrice",
+    releaseDate: "2016-08-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-cage/downloads/the-cage-v3"
+  }
+  ,
+  {
+    title: "The Labyrinth",
+    author: "Vladislav",
+    releaseDate: "2016-07-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/vladislav/downloads/thelabyrinthincomplete"
+  }
+  ,
+  {
+    title: "Amnesia nightmare engine",
+    author: "NordicCoding",
+    releaseDate: "2016-06-29",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-nightmare-engine/downloads/amnesia-randomizer-final-version"
+  }
+  ,
+  {
+    title: "The striker: Ch2 - Death of the Alchemyst",
+    author: "_PeterP",
+    releaseDate: "2016-06-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-striker-chapter-2-death-of-the-alchemyst/downloads/the-striker-chapter-2-death-of-the-alchemyst"
+  }
+  ,
+  {
+    title: "Painful Reality - Interval 03 - End of the circle",
+    author: "TeeZaah",
+    releaseDate: "2016-06-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/painful-reality-interval-03-end-of-the-circle/downloads/painful-reality-interval-03-v12"
+  }
+  ,
+  {
+    title: "Turn Back Time Chapter 1-5",
+    author: "PyrrhaYgerna",
+    releaseDate: "2015-10-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/turn-back-time/downloads"
+  }
+  ,
+  {
+    title: "Nightmarish Tasks",
+    author: "PyrrhaYgerna",
+    releaseDate: "2015-11-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/turn-back-time/downloads/nightmarish-tasks-nt"
+  }
+  ,
+  {
+    title: "Grandad Descent",
+    author: "AdrianTheCreeper",
+    releaseDate: "2016-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-grandad-descent/downloads/grandad"
+  }
+  ,
+  {
+    title: "Those Who Were Forgotten",
+    author: "wilkOmilk",
+    releaseDate: "2016-06-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesiathose-who-were-forgotten/downloads/amnesiathose-who-were-forgotten"
+  }
+  ,
+  {
+    title: "Horror Booth",
+    author: "AntiVirus0101",
+    releaseDate: "2016-06-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-booth/downloads/horror-booth"
+  }
+  ,
+  {
+    title: "All That Remains",
+    author: "Boss-DOS",
+    releaseDate: "2016-04-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/all-that-remains/downloads/all-that-remains-spring-demo"
+  }
+  ,
+  {
+    title: "Sins of the father terror meter",
+    author: "Poisontax115",
+    releaseDate: "2016-04-12",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/sins-of-the-father-terror-meter-mod/downloads/sins-of-the-father-mod"
+  }
+  ,
+  {
+    title: "Killed'",
+    author: "Kizoky",
+    releaseDate: "2016-04-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/killed/downloads/amnesia-killed-v02"
+  }
+  ,
+  {
+    title: "The striker: Chapter 1 - Catacomb Rampage",
+    author: "_PeterP",
+    releaseDate: "2016-02-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-striker-chapter-1-catacomb-rampage/downloads/the-striker-chapter-1-catacomb-rampage-v11"
+  }
+  ,
+  {
+    title: "Painful Reality - Interval 02 - Unexpected visit",
+    author: "TeeZaah",
+    releaseDate: "2016-02-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/painful-reality-interval-02-unexpected-visit/downloads/painful-reality-chapter-02-unexpected-visit1"
+  }
+  ,
+  {
+    title: "Scared: Chapter I",
+    author: "AmnesiaFan123",
+    releaseDate: "2011-10-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/scared-chapter-i/downloads/scared-chapter-i"
+  }
+  ,
+  {
+    title: "Painful Reality",
+    author: "TeeZaah",
+    releaseDate: "2015-12-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/painful-reality/downloads/painful-reality"
+  }
+  ,
+  {
+    title: "The Investigation",
+    author: "TeeZaah",
+    releaseDate: "2015-11-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-investigation/downloads/the-investigation-v12"
+  }
+  ,
+  {
+    title: "Long Way Down",
+    author: "VictorDeVandenesse",
+    releaseDate: "2015-11-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lwd/downloads/long-way-down-demo"
+  }
+  ,
+  {
     title: "",
     author: "",
     releaseDate: "",
