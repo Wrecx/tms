@@ -2552,11 +2552,11 @@ const mods = [
   }
   ,
   {
-    title: "Amnesia: The Night i Went Insane Rus",
-    author: "Mr.Foul",
-    releaseDate: "2021-10-10",
+    title: "The Night I Went Insane",
+    author: "daily_creepypasta",
+    releaseDate: "2015-04-21",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-the-night-i-went-insane-rus"
+    downloadLink: "https://www.moddb.com/mods/the-night-i-went-insane/downloads/the-night-i-went-insane-custom-story-13"
   }
   ,
   {
@@ -5725,6 +5725,294 @@ const mods = [
     releaseDate: "2015-11-21",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lwd/downloads/long-way-down-demo"
+  }
+  ,
+  {
+    title: "The Riddle of Vova",
+    author: "Laura_M",
+    releaseDate: "2015-10-20",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/172752FN0MoKACzmN6WJI9TiufvTWHcfX/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Mini-Game: Hold Them Off!",
+    author: "laser50",
+    releaseDate: "2011-06-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1862_l_-L8w9qe2fL7iqw_5VpGmHNS5VQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "In Memory",
+    author: "ʟogan",
+    releaseDate: "2011-04-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Y4RvV6jcJIaBv5CcsLadssQrMwqombOl/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Grunt's Castle",
+    author: "flamez3",
+    releaseDate: "2012",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ytQKG0EjJYl7xweWIF3fuOpyq-MJ9xoj/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Icarus - Prelude",
+    author: "ʟogan",
+    releaseDate: "2011-10-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/icarus-prelude"
+  }
+  ,
+  {
+    title: "Cry Oni Part 2",
+    author: "Vitor Frias (Vyzer)",
+    releaseDate: "2012-08-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/13Ao9QZq5xdcrQTQGHgjO9vp9x8yRMVT7/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Castle In The Woods",
+    author: "M3NTALMAN",
+    releaseDate: "2013-12-29",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1YbhMxZNJY0l6O3JVeOqeheeGAaRcJUI_/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "canis abubus",
+    author: "Skashi",
+    releaseDate: "2012-04-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1hdZfMUYvUuNguHFIRH1dyQduYRnBrEDe/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Haunted Memories: Episode 3 Lonely Twins",
+    author: "PyrrhaYgerna",
+    releaseDate: "2015-11-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-memories-episode-3-lonely-twins/downloads/haunted-memories-episode-3-lonely-twins-demo"
+  }
+  ,
+  {
+    title: "Penumbra: Twilight Of The Archaic",
+    author: "CounterCurrent_Games",
+    releaseDate: "2015-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/penumbra-twilight-of-the-archaic/downloads/twilight-of-the-archaic-eng"
+  }
+  ,
+  {
+    title: "Haunted Memories: Episode 2 Remake",
+    author: "PyrrhaYgerna",
+    releaseDate: "2015-10-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-memories-episode-2-remake/downloads/haunted-memories-full-conversion"
+  }
+  ,
+  {
+    title: "ENIGMA",
+    author: "DnALANGE",
+    releaseDate: "2015-07-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/enigma2/downloads/e-n-i-g-m-a-version-13"
+  }
+  ,
+  {
+    title: "I Got Invited",
+    author: "MatiaSikaGames",
+    releaseDate: "2012-06-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/i-got-invited/downloads/i-got-invited"
+  } 
+  ,
+  {
+    title: "The Call From Another Dimension 2: Herman's Revenge",
+    author: "MatiaSikaGames",
+    releaseDate: "2014-04-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-call-from-another-dimension2-hermans-revenge/downloads/cfad2-hermans-revenge-v14"
+  }
+  ,
+  {
+    title: "Do Not Drink Too Much",
+    author: "MatiaSikaGames",
+    releaseDate: "2012-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/do-not-drink-too-much/downloads/do-not-drink-too-much"
+  }
+  ,
+  {
+    title: "Csendes Domb",
+    author: "Sebastian69",
+    releaseDate: "2015-08-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/csendes-domb/downloads"
+  }
+  ,
+  {
+    title: "Blood Enemies Chapter 2",
+    author: "Peter__P",
+    releaseDate: "2015-08-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/blood-enemies-chapter-2/downloads/blood-enemies-chapter-2"
+  }
+  ,
+  {
+    title: "Blood Enemies",
+    author: "Peter__P",
+    releaseDate: "2015-08-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/blood-enemies/downloads/blood-enemies"
+  }
+  ,
+  {
+    title: "Drinking Game",
+    author: "MatiaSikaGames",
+    releaseDate: "2013-10-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/drinking-game/downloads/drinking-game-v11"
+  }
+  ,
+  {
+    title: "Castle of Devastating Diseases",
+    author: "MatiaSikaGames",
+    releaseDate: "2012-10-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/castle-of-devastating-diseases/downloads/castle-of-devastating-diseases-v11 "
+  }
+  ,
+  {
+    title: "Dental Nightmare",
+    author: "MatiaSikaGames",
+    releaseDate: "2013-06-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dental-nightmare/downloads/dental-nightmare"
+  }
+  ,
+  {
+    title: "In Lucy's Eyes",
+    author: "Red Line Games",
+    releaseDate: "2014-12-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/in-lucys-eyes/downloads/in-lucys-eyes"
+  }
+  ,
+  {
+    title: "The Dark Escape part 1",
+    author: "StorFigge",
+    releaseDate: "2013-01-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-escape-part-1/downloads/amnesia-the-dark-escape-part-1"
+  }
+  ,
+  {
+    title: "Darkroom",
+    author: "danekslama",
+    releaseDate: "2015-06-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-escape-part-1/downloads/darkroomcustom-story"
+  }
+  ,
+  {
+    title: "The Black Eagle Castle",
+    author: "MidnightResearcher",
+    releaseDate: "2016-10-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-black-eagle-castle1"
+  }
+  ,
+  {
+    title: "Led Zuppalin",
+    author: "RoozyDB",
+    releaseDate: "2019-07-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1w9TUGDsFEqccZfFjEeLRbzYSBr3zB5dB/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Map for Bizzeplayn",
+    author: "Wrecx",
+    releaseDate: "2020-04-20",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1kxeWhvE07sUvfFnBRsZLL0Aa-G-OBDdz/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "My Little Story (My Mod)",
+    author: "Nikus24",
+    releaseDate: "2011-01-07",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VuDnrX_tKY_XsTzIeIkdS3Rl0Efgw1Vd/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Vex's Nightmare",
+    author: "Vekkros",
+    releaseDate: "2017-03-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1XxyjZ1xQhHyXp3LWKDeo_5H5MU3P46TR/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Where am I?",
+    author: "czletsplay",
+    releaseDate: "2013-06-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/11lJFSLxuqhR73cBzWTKrV9Vs2S89siAb/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Where is Isaac?",
+    author: "Lazzer",
+    releaseDate: "2014-01-29",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1iEs2O50Y6szbIKEj1MUPe29VqECSRHwT/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Second Dimension",
+    author: "Aetheric Games",
+    releaseDate: "2015-06-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-second-dimension/downloads/amnesia-the-second-dimension-v20-installer"
+  }
+  ,
+  {
+    title: "Patience",
+    author: "FlawlessHappiness",
+    releaseDate: "2015-05-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/patience/downloads/patience-v11"
+  }
+  ,
+  {
+    title: "The Terrifying Mansion",
+    author: "-Sapphirox-",
+    releaseDate: "2015-05-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-terrifying-mansion/downloads/terrifiyng-mansion"
+  }
+  ,
+  {
+    title: "Snake",
+    author: "ooadrianoo",
+    releaseDate: "2015-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/snake/downloads/snake2"
+  }
+  ,
+  {
+    title: "Monsters",
+    author: "FlawlessHappiness",
+    releaseDate: "2015-02-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/monsters-an-amnesia-concept/downloads/monsters-release-v121"
   }
   ,
   {
