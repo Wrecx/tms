@@ -1060,7 +1060,7 @@ const mods = [
     author: "Ardoetia Productions",
     releaseDate: "2012-03-02",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/abduction/downloads/the-abductions"
+    downloadLink: "https://www.moddb.com/mods/the-abduction/downloads/the-abductions-11"
   }
   ,
   {
@@ -6200,14 +6200,6 @@ const mods = [
   }
   ,
   {
-    title: "Number 7",
-    author: "CustomCriticNL",
-    releaseDate: "2014-08-03",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/number-7/downloads/number-7-version-014"
-  }
-  ,
-  {
     title: "The Crypt",
     author: "sgbm3d",
     releaseDate: "2014-02-08",
@@ -7226,7 +7218,7 @@ const mods = [
   {
     title: "Calm Terror",
     author: "Amnesia Terror Development",
-    releaseDate: "2013-04-24",
+    releaseDate: "2012-09-15",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/calm-terror/downloads/calm-terror-v150-new"
   }
@@ -7536,11 +7528,11 @@ const mods = [
   }
   ,
   {
-    title: "Digressiophobia - Chapter II",
-    author: "beekayk",
-    releaseDate: "2013-01-08",
+    title: "Digressiophobia - What about Mark? - Chapter 2",
+    author: "FlawlessHappiness",
+    releaseDate: "2012-11-30",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/digressiophobia-chapter-ii"
+    downloadLink: "https://www.moddb.com/mods/digressiophobia-what-about-mark/downloads/digressiophobia-what-about-mark-chapter-2"
   }
   ,
   {
@@ -7549,14 +7541,6 @@ const mods = [
     releaseDate: "2013-01-03",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-virtual-31-surround/downloads/true-amnesia-surroundsoundfx-soft-oaldll"
-  }
-  ,
-  {
-    title: "Calm Terror",
-    author: "Amnesia Terror Development",
-    releaseDate: "2012-12-31",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/calm-terror/downloads/calm-terror-v145-new"
   }
   ,
   {
@@ -7576,10 +7560,1322 @@ const mods = [
   }
   ,
   {
-    title: "",
-    author: "",
-    releaseDate: "",
+    title: "A Parcel for Emaline",
+    author: "Timorem",
+    releaseDate: "2012-12-23",
     type: "Custom Story",
-    downloadLink: ""
+    downloadLink: "https://www.moddb.com/mods/a-parcel-for-emaline/downloads/apfe-v1-1"
+  }
+  ,
+  {
+    title: "Penumbra Doors",
+    author: "SkyBoneplay",
+    releaseDate: "2012-12-22",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/downloads/penumbra-doors"
+  }
+  ,
+  {
+    title: "Winter's Curse",
+    author: "SuperNatural Productions",
+    releaseDate: "2012-12-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/winters-curse/downloads/winters-curse"
+  }
+  ,
+  {
+    title: "Burg Edain 2",
+    author: "Chrissy555",
+    releaseDate: "2012-12-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/burg-edain-2 "
+  }
+  ,
+  {
+    title: "Horror Cellar",
+    author: "nikon99",
+    releaseDate: "2012-09-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-cellar/downloads/horror-cellar1  "
+  }
+  ,
+  {
+    title: "Tricky Minds 'Chapter 2'",
+    author: "Tr1cK",
+    releaseDate: "2012-12-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tricky-minds-chapter-2/downloads/tricky-minds-chapter-2"
+  }
+  ,
+  {
+    title: "Pewdiepie and Stephano",
+    author: "metaknight99",
+    releaseDate: "2012-12-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/pewdiepie-and-stephano/downloads/pewdiepie-and-stephano"
+  }
+  ,
+  {
+    title: "FEAR AMNESIA",
+    author: "DnALANGE",
+    releaseDate: "2012-11-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/fear-amnesia/downloads/fear-amnesia-update-10"
+  } 
+  ,
+  {
+    title: "Castle Dorian",
+    author: "thomthom44",
+    releaseDate: "2012-11-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/castle-dorian/downloads/v12-castle-dorian-full-mod-bug-fix-2"
+  }
+  ,
+  {
+    title: "Fekete Keres - Black Search",
+    author: "TeamSD",
+    releaseDate: "2012-12-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-custom-story-fekete-keres/downloads/amnesia-custom-story-fekete-keres"
+  }
+  ,
+  {
+    title: "Horror Mansion",
+    author: "bobbybill12",
+    releaseDate: "2012-12-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horror-mansion/downloads/demo-updated"
+  }
+  ,
+  {
+    title: "The horrors of castle Greenborogh",
+    author: "projectamnesia",
+    releaseDate: "2012-11-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-horrors-of-castle-greenborogh/downloads/alpha-version-310"
+  }
+  ,
+  {
+    title: "Osvaldo l'Enigmista",
+    author: "kriystall&cicalinoPX ",
+    releaseDate: "2012-11-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/osvaldo-lenigmista/downloads/osvaldo-lenigmista"
+  }
+  ,
+  {
+    title: "The Mix",
+    author: "Ainz",
+    releaseDate: "2012-11-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/ainz/downloads/the-mix-v13"
+  }
+  ,
+  {
+    title: "Last Night",
+    author: "Zipper Game Studio",
+    releaseDate: "2012-11-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-last-night/downloads/last-night"
+  }
+  ,
+  {
+    title: "As Expected",
+    author: "BioWolf Productions",
+    releaseDate: "2012-10-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/biowolf/downloads/as-expected-fixed-version"
+  }
+  ,
+  {
+    title: "Brutal Lies",
+    author: "CheesyDeveloper",
+    releaseDate: "2012-11-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/brutal-lies/downloads/brutal-lies-complete-version"
+  }
+  ,
+  {
+    title: "Edain",
+    author: "Chrissy555",
+    releaseDate: "2012-11-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/edain-mod-v2"
+  }
+  ,
+  {
+    title: "The Castle of Eberfield",
+    author: "SuperNatural Productions",
+    releaseDate: "2012-10-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-castle-of-eberfield/downloads/the-castle-of-eberfield-full-conversion"
+  }
+  ,
+  {
+    title: "The UnKnown Part 1",
+    author: "ballisticman",
+    releaseDate: "2012-10-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/epic-turky/downloads/the-unknown-part-1"
+  }
+  ,
+  {
+    title: "Jane Live story PART I",
+    author: "Cavri",
+    releaseDate: "2012-10-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/jane-live-story-part-i/downloads/jane-live-story-part-i"
+  }
+  ,
+  {
+    title: "Dark Saloon",
+    author: "Morsonkäsi",
+    releaseDate: "2012-10-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dark-saloon/downloads/dark-saloon-11"
+  }
+  ,
+  {
+    title: "Painful Shadows",
+    author: "kartanonperuna",
+    releaseDate: "2012-04-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/painful-shadows/downloads/painful-shadows"
+  }
+  ,
+  {
+    title: "Digressiophobia - The beginning - Chapter 1",
+    author: "FlawlessHappiness",
+    releaseDate: "2012-09-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/digressiophobia/downloads/digressiophobia-the-beginning-chapter-11"
+  }
+  ,
+  {
+    title: "What Lies Beneath",
+    author: "Vic7im",
+    releaseDate: "2012-10-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/what-lies-beneath/downloads/chapter-01"
+  }
+  ,
+  {
+    title: "24-Hour Collaboration - Take two",
+    author: "Acies",
+    releaseDate: "2012-10-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/24-hour-collaboration-take-two-release"
+  }
+  ,
+  {
+    title: "The asylum wallpaper",
+    author: "The_chaser",
+    releaseDate: "2012-10-08",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/the-otherworld/downloads/the-asylum-wallpaper"
+  }
+  ,
+  {
+    title: "Insanity: Nocturnal Confusion 2",
+    author: "DnALANGE",
+    releaseDate: "2012-09-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/insanity-nocturnal-confusion-2/downloads/updated-version-21insanity-nocturnal-confusion-2"
+  }
+  ,
+  {
+    title: "HTX Secrets",
+    author: "Visionary Studios",
+    releaseDate: "2012-09-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/htx-secrets-danish-mod/downloads/htx-secrets-beta-11"
+  }
+  ,
+  {
+    title: "Silent Hallways - Chapter 3",
+    author: "FunTimeError",
+    releaseDate: "2012-09-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/silent-hallways-chapter-3/downloads/silent-hallways-chapter-3"
+  }
+  ,
+  {
+    title: "Marcell Davis Castle Horror",
+    author: "ultimegastriker",
+    releaseDate: "2012-02-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/marcell-davis-castle-horror/downloads/marcell-davis-castle-horror-english"
+  }
+  ,
+  {
+    title: "The Sanity Game",
+    author: "yourcomputer",
+    releaseDate: "2012-09-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-sanity-game/downloads/the-sanity-game-v102"
+  }
+  ,
+  {
+    title: "Hangover Of The Damned",
+    author: "TheShanus",
+    releaseDate: "2012-08-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/hangover-of-the-damned/downloads/hangover-of-the-damned"
+  }
+  ,
+  {
+    title: "Call of darkness",
+    author: "ooadrianoo",
+    releaseDate: "2012-09-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/call-of-darkness/downloads/call-of-darkness"
+  }
+  ,
+  {
+    title: "The chasing",
+    author: "The_chaser",
+    releaseDate: "2012-09-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-chasing/downloads/the-chasing-12"
+  }
+  ,
+  {
+    title: "Silent Hallways - Chapter 2",
+    author: "FunTimeError",
+    releaseDate: "2012-09-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/silent-hallways-chapter-2/downloads/silent-hallways-chapter-2-patch-10"
+  }
+  ,
+  {
+    title: "Immersion of Night",
+    author: "DarchFIN",
+    releaseDate: "2012-09-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/darch/downloads/immersion-of-night"
+  }
+  ,
+  {
+    title: "The agony of (in)sanity",
+    author: "rakakak",
+    releaseDate: "2012-09-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-agony-of-insanity/downloads/the-agony-of-insanity-vfinal"
+  }
+  ,
+  {
+    title: "Silent Hallways - Chapter 1",
+    author: "FunTimeError",
+    releaseDate: "2012-09-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/silent-hallways-chapter-1/downloads/silent-hallways-chapter-1-patch-10"
+  }
+  ,
+  {
+    title: "Great Enlightenment",
+    author: "nikon99",
+    releaseDate: "2012-09-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/great-enlightenment/downloads/great-enlightenment1"
+  }
+  ,
+  {
+    title: "The House",
+    author: "Energized Games",
+    releaseDate: "2012-05-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-house/downloads/the-house-v14"
+  }
+  ,
+  {
+    title: "What Darkness Lurkes?",
+    author: "UnkownRb",
+    releaseDate: "2012-09-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/what-darkness-lurkes"
+  }
+  ,
+  {
+    title: "The Grissini hunt!",
+    author: "NicklasAndCasper",
+    releaseDate: "2012-09-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-grissini-hunt/downloads/first-demo-of-the-grissini-hunt"
+  }
+  ,
+  {
+    title: "Grueling Adventure",
+    author: "nikon99",
+    releaseDate: "2012-08-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/grueling-adventure/downloads/gruelingadventure"
+  }
+  ,
+  {
+    title: "Franz Liszt",
+    author: "The_Chronbro",
+    releaseDate: "2012-09-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/franz-liszt/downloads/franz-liszt"
+  }
+  ,
+  {
+    title: "The Tomb",
+    author: "litbeep",
+    releaseDate: "2012-07-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/na20885/downloads/the-tomb-alpha-31"
+  }
+  ,
+  {
+    title: "Escape from the daylight",
+    author: "GrgoljBlaster",
+    releaseDate: "2012-06-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-from-the-daylight/downloads/english-version"
+  }
+  ,
+  {
+    title: "Confusion - Chapter 1",
+    author: "TheForgot3n1",
+    releaseDate: "2012-08-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/confusion-chapter-1-amnesia-the-dark-descent"
+  }
+  ,
+  {
+    title: "Escape",
+    author: "triadtimes",
+    releaseDate: "2012-08-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-a-puzzling-story/downloads/escape-full-release"
+  }
+  ,
+  {
+    title: "Kidnapped",
+    author: "KMT",
+    releaseDate: "2012-03-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/kidnapped/downloads/kidnapped-126"
+  }
+  ,
+  {
+    title: "The Brotherhood",
+    author: "Beis",
+    releaseDate: "2012-07-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-brotherhood/downloads/the-brotherhood-v10"
+  }
+  ,
+  {
+    title: "AMNESIA: (no jumpscares) but scary..",
+    author: "bassimc",
+    releaseDate: "2012-08-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/amnesia-no-jumpscares-but-scary"
+  }
+  ,
+  {
+    title: "Horrors of the Past",
+    author: "Kielnastra",
+    releaseDate: "2012-07-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/horrors-of-the-past/downloads/horrors-of-the-past-chapter-21"
+  }
+  ,
+  {
+    title: "Awoken Alive",
+    author: "FeerMee",
+    releaseDate: "2012-08-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/awoken-alive/downloads/awoken-alive"
+  }
+  ,
+  {
+    title: "Necrotic: The Nightmare Backdrop",
+    author: "Southlaguna",
+    releaseDate: "2012-08-11",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/necrotic-the-nightmare/downloads/necrotic-the-nightmare-backdrop"
+  }
+  ,
+  {
+    title: "Necrotic: The Nightmare",
+    author: "Southlaguna",
+    releaseDate: "2012-06-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/necrotic-the-nightmare/downloads/necrotic-the-nightmare"
+  }
+  ,
+  {
+    title: "The haunted house of the dead",
+    author: "Gofast93",
+    releaseDate: "2012-08-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-haunted-house-of-the-dead/downloads/haunted-house-of-the-dead"
+  }
+  ,
+  {
+    title: "Pewdie's Revenge",
+    author: "ksnider",
+    releaseDate: "2012-07-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/pewdies-revenge/downloads/pewdies-revenge-patch"
+  }
+  ,
+  {
+    title: "You're Dismissed",
+    author: "Transmorphable",
+    releaseDate: "2012-07-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/youre-dismissed-test/downloads/youre-dismissed-102"
+  }
+  ,
+  {
+    title: "a Shade of lavender: Chapter 1",
+    author: "TheDepa",
+    releaseDate: "2012-07-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/a-shade-of-lavender-chapter-1/downloads/a-shade-of-lavender-chapter-1-v101"
+  }
+  ,
+  {
+    title: "The Armory",
+    author: "marcokapo96",
+    releaseDate: "2012-07-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-armory-spanish/downloads/the-armory-fix-10"
+  }
+  ,
+  {
+    title: "Flight Sim",
+    author: "Homicide",
+    releaseDate: "2012-07-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/amnesia-flight-sim"
+  }
+  ,
+  {
+    title: "Gustav",
+    author: "Fnoigy",
+    releaseDate: "2011-06-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/gustav/downloads/gustav-zip"
+  }
+  ,
+  {
+    title: "Lost Key",
+    author: "infekce",
+    releaseDate: "2012-07-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/lost-key"
+  }
+  ,
+  {
+    title: "Pewdiepie's Brother",
+    author: "Vickster8402",
+    releaseDate: "2012-01-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/pewdiepies-brother/downloads/pewdiepies-brother1"
+  }
+  ,
+  {
+    title: "Haunted Hallways",
+    author: "Robert_Nemet",
+    releaseDate: "2012-03-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-hallways/downloads/haunted-hallways-remake-second-preview"
+  }
+  ,
+  {
+    title: "The Death House",
+    author: "fleX1337",
+    releaseDate: "2012-07-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-death-house/downloads/the-death-house1"
+  }
+  ,
+  {
+    title: "Nightmares of The Past",
+    author: "Opnamehere",
+    releaseDate: "2012-07-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/nightmares-of-the-past/downloads/nightmares-of-the-past-11"
+  }
+  ,
+  {
+    title: "House of Doubts - Chapter I",
+    author: "KillaRiku",
+    releaseDate: "2012-07-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/house-of-doubts-chapter-i/downloads/house-of-doubts-chaper-i-10"
+  }
+  ,
+  {
+    title: "Pitch Black",
+    author: "crazycracker74",
+    releaseDate: "2012-07-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/pitch-black/downloads/pitch-black"
+  }
+  ,
+  {
+    title: "The Secret Basement",
+    author: "FloooiyD",
+    releaseDate: "2012-07-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-secret-basement/downloads/the-secret-basement-v10"
+  }
+  ,
+  {
+    title: "Hell Awakening Prologue: The Dorm",
+    author: "Kreekakon",
+    releaseDate: "2012-07-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/hell-awakening-prologue-the-dorm/downloads/hell-awakening-prologue-the-dorm-v11"
+  }
+  ,
+  {
+    title: "It Begins Slowly",
+    author: "TerrorsEnd",
+    releaseDate: "2012-06-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/terrorsend/downloads/it-begins-slowly-v11-bugfix"
+  }
+  ,
+  {
+    title: "Awolnation",
+    author: "TeamEssence",
+    releaseDate: "2012-07-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/awolnation/downloads/awolnation-demo"
+  }
+  ,
+  {
+    title: "Softcore Justine",
+    author: "Gofast93",
+    releaseDate: "2012-06-30",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/softcore-justine/downloads/amnesia-justine-softcore-edition"
+  }
+  ,
+  {
+    title: "Castle Darkuan",
+    author: "Shadowfied",
+    releaseDate: "2012-06-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/castle-darkuan/downloads/castle-darkuan-v12"
+  }
+  ,
+  {
+    title: "Dr.Frank",
+    author: "JorgoS",
+    releaseDate: "2012-07-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/drfrank"
+  }
+  ,
+  {
+    title: "Dark Nightmares",
+    author: "crazykilla",
+    releaseDate: "2012-07-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-dark-nightmares-custom-story/downloads/dark-nightmares-demo"
+  }
+  ,
+  {
+    title: "Troll Story",
+    author: "vilperi27",
+    releaseDate: "2012-06-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-story/downloads/troll-story-1011"
+  }
+  ,
+  {
+    title: "Scary Barells Part 1",
+    author: "rapsongslover",
+    releaseDate: "2012-06-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/scary-barells-part-1/downloads/scary-barells-fixed-with-lantern-and-flashlight"
+  }
+  ,
+  {
+    title: "Gary - Dark Secrets",
+    author: "Team Seda",
+    releaseDate: "2012-06-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/gary-dark-secrets/downloads/gary-dark-secrets-chapter-1-version-12"
+  }
+  ,
+  {
+    title: "An Unfinished Task: The Beginning",
+    author: "Demonbabyification",
+    releaseDate: "2012-06-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/an-unfinished-task-the-beginning/downloads/an-unfinished-task-the-beginning-20"
+  }
+  ,
+  {
+    title: "JailEscape",
+    author: "vilperi27",
+    releaseDate: "2012-06-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/jailescape/downloads/jailescape-demo"
+  }
+  ,
+  {
+    title: "Order And Law!",
+    author: "VisualTeam",
+    releaseDate: "2012-06-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/order-and-law/downloads/the-demo-or-order-and-law"
+  }
+  ,
+  {
+    title: "The Library",
+    author: "T_Bone",
+    releaseDate: "2012-04-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-library/downloads/the-library-version-12"
+  }
+  ,
+  {
+    title: "Deterioration",
+    author: "ibanezGiO961",
+    releaseDate: "2012-02-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/deterioration/downloads/deterioration"
+  }
+  ,
+  {
+    title: "SCP-087-B",
+    author: "Littlebark1",
+    releaseDate: "2012-06-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/scp-087-b-amnesia-edition/downloads/scp-087-b-amnesia-edition-100"
+  }
+  ,
+  {
+    title: "La Casa Maldita Ep Final",
+    author: "LetsPlay192",
+    releaseDate: "2012-06-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/la-casa-maldita/downloads/la-casa-maldita-ep-final"
+  }
+  ,
+  {
+    title: "Light Fading in the Darkness",
+    author: "weevie",
+    releaseDate: "2012-06-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/light-fading-in-the-darkness/downloads/light-fading-in-the-darkness"
+  }
+  ,
+  {
+    title: "Mansion Escape Chapter 2",
+    author: "GreenMonster",
+    releaseDate: "2012-06-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mansion-escape-chapter-2/downloads/mansion-escape-chapter-2-release"
+  }
+  ,
+  {
+    title: "Apathy By Joakim Back",
+    author: "SovietMentality",
+    releaseDate: "2012-06-16",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/masterthemind-maria-masters/downloads/apathy-by-joakim-back"
+  }
+  ,
+  {
+    title: "La Casa Maldita Ep2",
+    author: "LetsPlay192",
+    releaseDate: "2012-06-16",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/la-casa-maldita/downloads/la-casa-maldita-ep2"
+  }
+  ,
+  {
+    title: "Parasomnia",
+    author: "jamesclarke555",
+    releaseDate: "2012-06-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/parasomnia/downloads/parasomnia"
+  }
+  ,
+  {
+    title: "Useless Creepy World",
+    author: "Mak_donalds",
+    releaseDate: "2012-06-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/useless-creppy-world/downloads/useless-creppy-world"
+  }
+  ,
+  {
+    title: "Get Out!",
+    author: "Vickersson",
+    releaseDate: "2012-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-revenge/downloads/amnesiacustomstoryget-out"
+  }
+  ,
+  {
+    title: "Stephano's Retribution",
+    author: "KissimRunner",
+    releaseDate: "2012-06-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/stephanos-retribution"
+  }
+  ,
+  {
+    title: "La Casa Maldita Ep1",
+    author: "LetsPlay192",
+    releaseDate: "2012-06-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/la-casa-maldita/downloads/la-casa-maldita-ep1"
+  }
+  ,
+  {
+    title: "In the last time",
+    author: "htre",
+    releaseDate: "2012-06-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/in-the-last-time-full"
+  }
+  ,
+  {
+    title: "Mansion Escape Chapter 1",
+    author: "GreenMonster",
+    releaseDate: "2012-06-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/mansion-escape-chapter-1/downloads/mansion-escape-chapter-1-update-2"
+  }
+  ,
+  {
+    title: "Samantha",
+    author: "miwii123",
+    releaseDate: "2012-06-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/kevin-karlsson/downloads/samantha"
+  }
+  ,
+  {
+    title: "Martin's Survival",
+    author: "Kagenstein",
+    releaseDate: "2012-06-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/martins-survival/downloads/martins-survival-is-download-able-now"
+  }
+  ,
+  {
+    title: "In da house - Chapter Two ",
+    author: "Adamek1926",
+    releaseDate: "2012-05-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/in-da-house-chapter-two/downloads/in-da-house-chapter-two-10"
+  }
+  ,
+  {
+    title: "Abomination",
+    author: "TahuPhoenix",
+    releaseDate: "2012-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-abomination/downloads/amnesia-abomination-v12"
+  }
+  ,
+  {
+    title: "Haunted Hallways 4",
+    author: "Robert_Nemet",
+    releaseDate: "2012-05-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-hallways-2/downloads/haunted-hallways-4"
+  }
+  ,
+  {
+    title: "Haunted Hallways 3",
+    author: "Robert_Nemet",
+    releaseDate: "2012-05-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-hallways-2/downloads/haunted-hallways-3"
+  }
+  ,
+  {
+    title: "Haunted Hallways 2",
+    author: "Robert_Nemet",
+    releaseDate: "2012-04-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/haunted-hallways-2/downloads/haunted-hallways-2-demo-25"
+  }
+  ,
+  {
+    title: "Rise Of Nightmares",
+    author: "Team Green Eagle",
+    releaseDate: "2012-05-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-rise-of-nightmares/downloads/rise-of-nightmares-v10"
+  }
+  ,
+  {
+    title: "Memento",
+    author: "KitiFin",
+    releaseDate: "2012-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/memento/downloads/memento"
+  }
+  ,
+  {
+    title: "Darkness Insanity",
+    author: "Gaffel21",
+    releaseDate: "2012-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/darkness-insanity/downloads/darkness-insanity-released"
+  }
+  ,
+  {
+    title: "Dark Seclusion",
+    author: "FragdaddyXXL",
+    releaseDate: "2012-05-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dark-seclusion/downloads/dark-seclusion-1-1"
+  }
+  ,
+  {
+    title: "A Coma Awakening: The Unknown Mysteries",
+    author: "SonOfLiberty796",
+    releaseDate: "2012-05-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/xvideogamer720x/downloads/a-coma-awakening-the-unknown-mysteries-1-0-emergency-patch"
+  }
+  ,
+  {
+    title: "The Things in the Night",
+    author: "doom2299",
+    releaseDate: "2012-05-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-things-in-the-night/downloads/the-things-in-the-night-12-hq-version-grammar-fix"
+  }
+  ,
+  {
+    title: "Tenebris Lake",
+    author: "Boris Game Studios",
+    releaseDate: "2012-05-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tenebris-lake/downloads/tenebris-lake-v10"
+  }
+  ,
+  {
+    title: "The Monster Affair",
+    author: "VengeanceFilms",
+    releaseDate: "2012-05-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-monster-affair/downloads/the-monster-affair-v102"
+  }
+  ,
+  {
+    title: "In da house - Chapter One",
+    author: "Adamek1926",
+    releaseDate: "2012-05-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/in-da-house-chapter-one/downloads/in-da-house-chapter-one"
+  }
+  ,
+  {
+    title: "The Bad Birthday",
+    author: "DragonRuins",
+    releaseDate: "2012-05-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-bad-birthday/downloads/the-bad-birthday-test-version"
+  }
+  ,
+  {
+    title: "The Dream: Chapter One",
+    author: "pontusry",
+    releaseDate: "2012-05-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-dream-chapter-one/downloads/the-dream-chapter-one"
+  }
+  ,
+  {
+    title: "False Hospitality Chapter One",
+    author: "ItsSkyrim",
+    releaseDate: "2012-05-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/false-hospitality-chapter-1/downloads/false-hospitality-chapter-one"
+  }
+  ,
+  {
+    title: "Essence of Time",
+    author: "weevie",
+    releaseDate: "2012-05-04",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/essence-of-time/downloads/essence-of-time"
+  }
+  ,
+  {
+    title: "Can't Remember",
+    author: "MarvStudios",
+    releaseDate: "2012-04-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/cant-remember-continuation/downloads/can-t-remember-continuation"
+  }
+  ,
+  {
+    title: "This Darn House!",
+    author: "heyitsrobert97",
+    releaseDate: "2012-04-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/this-darn-house/downloads/this-darn-house-v2"
+  }
+  ,
+  {
+    title: "Number 1",
+    author: "XBlos",
+    releaseDate: "2012-04-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/number-1/downloads/number-1-fixed-some-bugs"
+  }
+  ,
+  {
+    title: "Poisonous",
+    author: "ReindeerProductions",
+    releaseDate: "2012-04-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/poisonous/downloads/poisonous-full-release"
+  }
+  ,
+  {
+    title: "Where Are Our Protectors?",
+    author: "JacketyHax",
+    releaseDate: "2012-04-03",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-where-are-our-protectors/downloads/where-are-our-protectors"
+  }
+  ,
+  {
+    title: "Kept in Nightmare",
+    author: "aleksi_n96",
+    releaseDate: "2012-04-14",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/kept-in-nightmare/downloads/kept-in-nightmare"
+  }
+  ,
+  {
+    title: "Lost The Lights",
+    author: "UnseenLegend",
+    releaseDate: "2012-01-28",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lost-the-lights/downloads/lost-the-lights-hq"
+  }
+  ,
+  {
+    title: "Obsession",
+    author: "SirEagle",
+    releaseDate: "2012-04-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/obsession/downloads/obsession-v04"
+  }
+  ,
+  {
+    title: "Mansion.",
+    author: "PxppyOG",
+    releaseDate: "2012-04-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/mansion-a-demo"
+  }
+  ,
+  {
+    title: "The missing part",
+    author: "MrExe300",
+    releaseDate: "2012-04-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-revenge/downloads/the-missing-part-demo-v10"
+  }
+  ,
+  {
+    title: "Falling Up",
+    author: "Homicide",
+    releaseDate: "2012-04-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/falling-up/downloads/falling-up"
+  }
+  ,
+  {
+    title: "Dark Castle",
+    author: "shortyk",
+    releaseDate: "2012-04-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dark-castle/downloads/darc-castle-beta"
+  }
+  ,
+  {
+    title: "Tricky Minds 'Chapter 1'",
+    author: "Tr1cK",
+    releaseDate: "2012-04-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tricky-minds-chapter-1/downloads/tricky-minds-chapter-1"
+  }
+  ,
+  {
+    title: "David's Nightmare",
+    author: "Robert_Nemet",
+    releaseDate: "2012-04-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/davids-nightmare/downloads/davids-nightmare"
+  }
+  ,
+  {
+    title: "The Castle of Barrels",
+    author: "VengeanceFilms",
+    releaseDate: "2012-05-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-castle-of-barrels/addons/the-castle-of-barrels-beta-v09"
+  }
+  ,
+  {
+    title: "The Abductions II",
+    author: "Ardoetia Productions",
+    releaseDate: "2012-03-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-abductions-ii/downloads/the-abductions-ii"
+  }
+  ,
+  {
+    title: "Better Place",
+    author: "Hemppuli",
+    releaseDate: "2012-02-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/better-place/downloads/better-place-bug-fix-10"
+  }
+  ,
+  {
+    title: "The Anguish",
+    author: "KitiFin",
+    releaseDate: "2012-03-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-anguish/downloads/the-anguish-demo1"
+  }
+  ,
+  {
+    title: "Harmfuls Wrath II",
+    author: "syltpasta",
+    releaseDate: "2012-02-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/harmfuls-wrath-ii/downloads/harmfuls-wrath-ii-patchfix"
+  }
+  ,
+  {
+    title: "Palistov's Holiday Series - St. Patrick's Day 2012",
+    author: "Timorem",
+    releaseDate: "2012-03-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/palistovs-holiday-series/downloads/phs-full-release-st-patricks-day-2012"
+  }
+  ,
+  {
+    title: "Palistov's Holiday Series - Valentine's Day 2012",
+    author: "Timorem",
+    releaseDate: "2012-02-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/palistovs-holiday-series/downloads/phs-full-release-valentines-day-2012"
+  }
+  ,
+  {
+    title: "Me",
+    author: "Joker1ruler",
+    releaseDate: "2012-02-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/me/downloads/me-v12"
+  }
+  ,
+  {
+    title: "Killings In Altstadt -Vincent's Victims-",
+    author: "measuring",
+    releaseDate: "2012-03-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/killins-in-altstadt-vincents-victims/downloads/killins-in-altstadt-vincents-victims-v10"
+  }
+  ,
+  {
+    title: "Get out alive",
+    author: "CrabInTheCrap",
+    releaseDate: "2012-03-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-get-out-alive-custom-story/downloads/amnesia-get-out-alive-full"
+  }
+  ,
+  {
+    title: "SCP-087",
+    author: "reaaL",
+    releaseDate: "2012-03-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/scp-087-demo"
+  }
+  ,
+  {
+    title: "House of Horror",
+    author: "Zajje",
+    releaseDate: "2012-03-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/house-of-horror/downloads/house-of-horror-version-01"
+  }
+  ,
+  {
+    title: "Alex's History",
+    author: "theamnesiagamer",
+    releaseDate: "2012-03-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/alexs-history/downloads/alexs-history"
+  }
+  ,
+  {
+    title: "My Love",
+    author: "Graykin",
+    releaseDate: "2012-01-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/my-love/downloads/my-love-ver-12"
+  }
+  ,
+  {
+    title: "Lost Amulet",
+    author: "RazielIgor",
+    releaseDate: "2012-02-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lost-amulet/downloads/lost-amulet"
+  }
+  ,
+  {
+    title: "Shadows",
+    author: "dalaisas",
+    releaseDate: "2012-02-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/shadows/downloads/shadows-version-2"
+  }
+  ,
+  {
+    title: "Black Forest Castle V2",
+    author: "theDARKW0LF",
+    releaseDate: "2011-03-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/black-forest-castle-v2/downloads/black-forest-castle-2-0"
+  }
+  ,
+  {
+    title: "The Haunted Stairwell",
+    author: "Asphex",
+    releaseDate: "2012-02-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-haunted-stairwell-v10/downloads/the-haunted-stairwell-v101"
+  } 
+  ,
+  {
+    title: "The Will",
+    author: "Bobby1234",
+    releaseDate: "2012-02-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-will-demo/downloads/the-will-demo"
+  }
+  ,
+  {
+    title: "TheApartment",
+    author: "Bobby1234",
+    releaseDate: "2012-02-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/theapartment/downloads/theapartment"
+  }
+  ,
+  {
+    title: "Dead Man",
+    author: "psp33",
+    releaseDate: "2012-02-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/downloads/amnesia-dead-man-beta-02"
+  }
+  ,
+  {
+    title: "The Nightmares",
+    author: "Strembitsky",
+    releaseDate: "2012-02-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-nightmares/downloads/the-nightmares-v10"
+  }
+  ,
+  {
+    title: "Better Go Alone",
+    author: "Stepper321",
+    releaseDate: "2012-02-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/better-go-alone/downloads/better-go-alone-v10-part-1"
+  }
+  ,
+  {
+    title: "Awakening To Shattered Life",
+    author: "Fall of LesserMoon City",
+    releaseDate: "2012-02-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/awakening-to-shattered-life-v13/downloads/awakening-to-shattered-life-v13"
+  }
+  ,
+  {
+    title: "Keep Progress Chapter One",
+    author: "BesTCracK",
+    releaseDate: "2012-02-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/keep-progress-chapter-one/downloads/amnesia-custom-story-keep-progress-chapter-one  "
+  }
+  ,
+  {
+    title: "Where Is The Cuprite",
+    author: "fenjer",
+    releaseDate: "2012-01-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/where-is-the-cuprite/downloads/where-is-the-cuprite"
+  }
+  ,
+  {
+    title: "Outskirts",
+    author: "Tripication",
+    releaseDate: "2012-01-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/outskirts/downloads/outskirts1"
+  }
+  ,
+  {
+    title: "Josh's House",
+    author: "Enricksolt",
+    releaseDate: "2012-01-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/joshs-house/downloads/joshs-house-demo"
+  }
+  ,
+  {
+    title: "With deadly greetings",
+    author: "CoReStAtiC",
+    releaseDate: "2012-01-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/cartostorys/downloads/with-deadly-greetings"
+  }
+  ,
+  {
+    title: "The Interrogation",
+    author: "Elven3",
+    releaseDate: "2012-01-20",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-interrogation/downloads/the-interrogation-chapter-1-v1-2"
+  }
+  ,
+  {
+    title: "Sins Of Our Past",
+    author: "EliteKing Studios",
+    releaseDate: "2012-01-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/sins-of-our-past/downloads/sins-of-our-past-chapter-1-131"
+  }
+  ,
+  {
+    title: "Dark Room",
+    author: "Danarogon",
+    releaseDate: "2011-09-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/dark-room-series-dark-room-1-and-dark-room-2/downloads/dark-room"
   }
 ];
