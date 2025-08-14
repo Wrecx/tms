@@ -282,7 +282,7 @@ table th, table td {
 </header>
 
   <main>
-<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It doesn't list demos or earlier versions of mods<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>The release dates usually show when the mod's page was created, not the newest version's date - and if the mod doesn't have a page, the release date will be the date of the last modified file in the mod's folder.<br>If you know any mods that aren't listed here, please contact me on Discord (at the bottom of the page).</p>
+<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It doesn't list demos or earlier versions of mods<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>The release dates usually show when the mod's page was created, not the newest version's date - and if the mod doesn't have a page, the release date will be the date of the last modified file in the mod's folder.<br>If you know any mods that aren't listed here, please contact me on Discord   <a href="#bottom" id="scrollToBottom" style="cursor: pointer; text-decoration: none; color: inherit;">(at the bottom of the page)</a>.</p>
 <br>
 <div class="filters" role="region" aria-label="Filter and sort options">
   <!-- Row 1: Sort + Year -->
@@ -364,7 +364,7 @@ table th, table td {
 <h1 class="section-title">Lost Mods</h1>
 <br>
 <p class="section-description">
-  This section is for mods which have been lost to time, and I couldn't find available download links for them.<br>If you have any of these mods, please contact me on Discord (at the bottom of the page).
+  This section is for mods which have been lost to time, and I couldn't find available download links for them.<br>If you have any of these mods, please contact me on Discord <a href="#bottom" id="scrollToBottom" style="cursor: pointer; text-decoration: none; color: inherit;">(at the bottom of the page)</a>.
 </p>
     <br>
 
@@ -726,6 +726,14 @@ function renderMods2(modsArray) {
 }
 
 renderMods2(mods2);
+
+document.getElementById('scrollToBottom').addEventListener('click', function(e) {
+  e.preventDefault();
+  window.scrollTo({
+    top: document.body.scrollHeight,
+    behavior: 'smooth'
+  });
+});
 
 
 </script>
