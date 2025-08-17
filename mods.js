@@ -8878,4 +8878,21 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/dark-room-series-dark-room-1-and-dark-room-2/downloads/dark-room"
   }
+  ,
+  {
+    title: "Escape From the bunker(remake)",
+    author: "User1997346",
+    releaseDate: "2025-08-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-from-the-bunkerremake/downloads/escape-from-the-bunkerremake"
+  }
+  ,
+  {
+    title: "The Escape",
+    author: "xarox02",
+    releaseDate: "2025-08-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1CDQPYzZFgGsMii1zueNAG4sV3qa3xmjq/view?usp=sharing"
+  }
 ];
+
