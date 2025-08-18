@@ -8918,7 +8918,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1T4EdbM5FX7TQIKTbaprejMMO-pR0u0rB/view?usp=sharing"
   }
+  ,
+  {
+    title: "COCAINE CHRISTMAS CATASTROPHY",
+    author: "Quazzar",
+    releaseDate: "2023-12-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/cocaine-christmas-catastrophy/addons/cocainchristnmascatastrophy"
+  }
 ];
+
 
 
 
