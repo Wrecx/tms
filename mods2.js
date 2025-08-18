@@ -104,14 +104,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Forbidden Castle",
-    author: "HumiliatioN",
-    releaseDate: "2010-12-27",
-    type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-5923.html?tid=5923"
-  }
-  ,
-  {
     title: "Balthasar's Sorrow",
     author: "ThePaSch",
     releaseDate: "2010-10-31",
