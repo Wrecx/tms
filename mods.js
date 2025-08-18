@@ -8902,6 +8902,15 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1L5X82p9VZ7MwIlJM9XlOLROpKBH3L_Rq/view?usp=sharing"
   }
+  ,
+  {
+    title: "Forbidden Castle",
+    author: "HumiliatioN",
+    releaseDate: "2010-12-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1phg2N_vJhsL4k56OLG331bsrVNj5VQ3w/view?usp=sharing"
+  }
 ];
+
 
 
