@@ -62,4 +62,44 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-custom-story-the-old-well/downloads/the-old-well-chapter-i"
   }
+  ,
+  {
+    title: "Tunnels",
+    author: "Mateh",
+    releaseDate: "2010-11-16",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-5466.html"
+  }
+  ,
+  {
+    title: "Fear The Darkness",
+    author: "HumiliatioN",
+    releaseDate: "2010-12-17",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-5762.html"
+  }
+  ,
+  {
+    title: "Limbo",
+    author: "fantino",
+    releaseDate: "2010-11-05",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-5326.html"
+  }
+  ,
+  {
+    title: "Cursed Summoning, part one",
+    author: "Entih",
+    releaseDate: "2010-10-16",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-5076.html"
+  }
+  ,
+  {
+    title: "Awakening to the unknown",
+    author: "LoneWolf",
+    releaseDate: "2010-11-23",
+    type: "Custom Story",
+    downloadLink: "http://www.mediafire.com/file/on4uo1bcu2eh6zs/Awakening%20to%20the%20unknown.rar"
+  }
 ];
