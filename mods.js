@@ -8894,5 +8894,14 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1CDQPYzZFgGsMii1zueNAG4sV3qa3xmjq/view?usp=sharing"
   }
+  ,
+  {
+    title: "Escape",
+    author: "Miki",
+    releaseDate: "2017-02-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1L5X82p9VZ7MwIlJM9XlOLROpKBH3L_Rq/view?usp=sharing"
+  }
 ];
+
 
