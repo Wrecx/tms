@@ -8974,7 +8974,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/black-mansion-fixed/addons/black-mansion"
   }
+  ,
+  {
+    title: "The Visit",
+    author: "Stractator",
+    releaseDate: "2014-01-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-visit/downloads/the-visit"
+  }
 ];
+
 
 
 
