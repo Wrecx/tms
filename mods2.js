@@ -142,4 +142,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house-2-full-version"
   }
+  ,
+  {
+    title: "Oblivion: The Gates of Hell",
+    author: "Kirbypwnage",
+    releaseDate: "2013-03-10",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/oblivion-the-gates-of-hell"
+  }
 ];
