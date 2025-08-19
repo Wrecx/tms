@@ -8966,7 +8966,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-experience/addons/the-experience"
   }
+  ,
+  {
+    title: "Black Mansion",
+    author: "Regr3t",
+    releaseDate: "2013-06-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/black-mansion-fixed/addons/black-mansion"
+  }
 ];
+
 
 
 
