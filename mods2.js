@@ -118,4 +118,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://forum.frictionalgames.com/thread-7408.html"
   }
+  ,
+  {
+    title: "PewDiePie's Party Cake",
+    author: "jillis",
+    releaseDate: "2012-01-27",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-through-the-portal/addons/pewdiepies-party-cake"
+  }
 ];
