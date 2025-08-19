@@ -8950,7 +8950,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/no-escape-amnesia-custom-story/addons/no-escape-download"
   }
+  ,
+  {
+    title: "Modern Amnesia",
+    author: "Chriss0906",
+    releaseDate: "2012-03-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/modern-amnesia/addons/modern-amnesia"
+  }
 ];
+
 
 
 
