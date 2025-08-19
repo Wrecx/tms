@@ -3096,14 +3096,6 @@ const mods = [
   }
   ,
   {
-    title: "Hangover Of The Damned",
-    author: "TheShanus",
-    releaseDate: "2012-08-30",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/hangover-of-the-damned/downloads/hangover-of-the-damned-repaired-version"
-  }
-  ,
-  {
     title: "Heart Bondage",
     author: "Skashi",
     releaseDate: "2012-07-15",
@@ -8967,6 +8959,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/out-of-time/addons/out-of-time-english"
   }
 ];
+
 
 
 
