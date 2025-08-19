@@ -8942,7 +8942,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-echo/addons/amnesia-echo-v1"
   }
+  ,
+  {
+    title: "No Escape",
+    author: "ChubbyLumpkins",
+    releaseDate: "2012-03-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/no-escape-amnesia-custom-story/addons/no-escape-download"
+  }
 ];
+
 
 
 
