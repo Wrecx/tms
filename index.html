@@ -718,7 +718,7 @@ function renderMods2(modsArray) {
       <td>${mod.author}</td>
       <td class="fixed-width release-date">${mod.releaseDate}</td>
       <td class="fixed-width type">${mod.type}</td>
-      <td class="fixed-width download"><a href="${mod.download}" target="_blank" style="color: #4CAF50;">Download</a></td>
+      <td class="fixed-width download"><a href="${mod.downloadLink}" target="_blank" style="color: #4CAF50;">Download</a></td>
     `;
 
     tbody.appendChild(row);
@@ -741,4 +741,5 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
 
