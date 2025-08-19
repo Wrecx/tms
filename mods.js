@@ -8958,7 +8958,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/modern-amnesia/addons/modern-amnesia"
   }
+  ,
+  {
+    title: "Out Of Time",
+    author: "Custommapper",
+    releaseDate: "2012-08-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/out-of-time/addons/out-of-time-english"
+  }
 ];
+
 
 
 
