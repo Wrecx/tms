@@ -58,9 +58,9 @@ const mods2 = [
   {
     title: "The Old Well, Chapter 1",
     author: "Vyzor",
-    releaseDate: "2011",
+    releaseDate: "2011-12-27",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-custom-story-the-old-well/downloads/the-old-well-chapter-i"
+    downloadLink: "https://forum.frictionalgames.com/archive/index.php?thread-12120.html="
   }
   ,
   {
