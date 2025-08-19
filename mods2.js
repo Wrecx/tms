@@ -150,4 +150,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/oblivion-the-gates-of-hell"
   }
+  ,
+  {
+    title: "Last Battle",
+    author: "masanoffi",
+    releaseDate: "2013-06-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-last-battle/downloads/last-battle"
+  }
 ];
