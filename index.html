@@ -320,7 +320,7 @@ table th, table td {
 <div class="filter-row">
   <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
   <button id="toggleGraph" class="toggle-btn">Show Graph</button>
-  <button id="toggleLostMods" class="toggle-btn">Show Lost Mods</button>
+  <button id="toggleLostMods" class="toggle-btn">Show Only Lost Mods</button>
 </div>
 
 
@@ -755,7 +755,7 @@ toggleLostModsBtn.addEventListener('click', () => {
   } else {
     normalModsContainer.style.display = 'block';
     lostModsContainer.style.display = 'none';
-    toggleLostModsBtn.textContent = 'Show Lost Mods';
+    toggleLostModsBtn.textContent = 'Show All Mods';
   }
 });
 
