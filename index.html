@@ -317,12 +317,10 @@ table th, table td {
   </div>
 
   <!-- Row 2: Toggle buttons -->
-<div class="filter-row">
-  <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
-  <button id="toggleGraph" class="toggle-btn">Show Graph</button>
-  <button id="toggleLostMods" class="toggle-btn">Show Only Lost Mods</button>
-</div>
-
+  <div class="filter-row">
+    <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
+    <button id="toggleGraph" class="toggle-btn">Show Graph</button>
+  </div>
 
   <!-- Row 3: Search -->
   <div class="filter-row">
@@ -346,7 +344,7 @@ table th, table td {
 
 <canvas id="modsPerYearChart" width="400" height="200"></canvas>
 <br>
-<div id="normalModsContainer">
+
     <table id="modsTable" aria-label="List of Amnesia mods">
         <thead>
         <tr>
@@ -362,8 +360,7 @@ table th, table td {
         <!-- Mod rows will be inserted here by JS -->
       </tbody>
     </table>
-</div>
-    
+
 <h1 class="section-title">Lost Mods</h1>
 <br>
 <p class="section-description">
@@ -371,7 +368,7 @@ table th, table td {
 </p>
     <br>
 
-<div id="lostModsContainer" style="display:none;">
+<!-- Second Spreadsheet -->
 <table id="modsTable2" aria-label="Second list of Amnesia mods">
   <thead>
     <tr>
@@ -387,7 +384,6 @@ table th, table td {
     <!-- Mod rows will be inserted here by JS -->
   </tbody>
 </table>
-  </div>
 
   </main>
 
@@ -722,7 +718,7 @@ function renderMods2(modsArray) {
       <td>${mod.author}</td>
       <td class="fixed-width release-date">${mod.releaseDate}</td>
       <td class="fixed-width type">${mod.type}</td>
-      <td class="fixed-width download"><a href="${mod.downloadLink}" target="_blank" style="color: #4CAF50;">Download</a></td>
+      <td class="fixed-width download"><a href="${mod.download}" target="_blank" style="color: #4CAF50;">Download</a></td>
     `;
 
     tbody.appendChild(row);
@@ -739,32 +735,9 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
   });
 });
 
-const normalModsContainer = document.getElementById('normalModsContainer');
-const lostModsContainer = document.getElementById('lostModsContainer');
-const toggleLostModsBtn = document.getElementById('toggleLostMods');
-
-let showingLostMods = false;
-
-toggleLostModsBtn.addEventListener('click', () => {
-  showingLostMods = !showingLostMods;
-
-  if (showingLostMods) {
-    normalModsContainer.style.display = 'none';
-    lostModsContainer.style.display = 'block';
-    toggleLostModsBtn.textContent = 'Show All Mods';
-  } else {
-    normalModsContainer.style.display = 'block';
-    lostModsContainer.style.display = 'none';
-    toggleLostModsBtn.textContent = 'Show Only Lost Mods';
-  }
-});
 
 </script>
 
 
 </body>
 </html>
-
-
-
-
