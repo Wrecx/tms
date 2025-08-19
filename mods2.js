@@ -110,4 +110,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/balthasars-sorrow"
   }
+  ,
+  {
+    title: "Horror story",
+    author: "Josh707",
+    releaseDate: "2011-04-16",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-7408.html"
+  }
 ];
