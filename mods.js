@@ -8926,7 +8926,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/cocaine-christmas-catastrophy/addons/cocainchristnmascatastrophy"
   }
+  ,
+  {
+    title: "Asylum: The Darkness",
+    author: "DIGI Byte",
+    releaseDate: "2011-01-05",
+    type: "Custom Story",
+    downloadLink: "https://forum.frictionalgames.com/thread-6058.html"
+  }
 ];
+
 
 
 
