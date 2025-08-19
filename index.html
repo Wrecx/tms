@@ -317,10 +317,12 @@ table th, table td {
   </div>
 
   <!-- Row 2: Toggle buttons -->
-  <div class="filter-row">
-    <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
-    <button id="toggleGraph" class="toggle-btn">Show Graph</button>
-  </div>
+<div class="filter-row">
+  <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
+  <button id="toggleGraph" class="toggle-btn">Show Graph</button>
+  <button id="toggleLostMods" class="toggle-btn">Show Lost Mods</button>
+</div>
+
 
   <!-- Row 3: Search -->
   <div class="filter-row">
@@ -344,7 +346,7 @@ table th, table td {
 
 <canvas id="modsPerYearChart" width="400" height="200"></canvas>
 <br>
-
+<div id="normalModsContainer">
     <table id="modsTable" aria-label="List of Amnesia mods">
         <thead>
         <tr>
@@ -360,7 +362,8 @@ table th, table td {
         <!-- Mod rows will be inserted here by JS -->
       </tbody>
     </table>
-
+</div>
+    
 <h1 class="section-title">Lost Mods</h1>
 <br>
 <p class="section-description">
@@ -368,7 +371,7 @@ table th, table td {
 </p>
     <br>
 
-<!-- Second Spreadsheet -->
+<div id="lostModsContainer" style="display:none;">
 <table id="modsTable2" aria-label="Second list of Amnesia mods">
   <thead>
     <tr>
@@ -384,6 +387,7 @@ table th, table td {
     <!-- Mod rows will be inserted here by JS -->
   </tbody>
 </table>
+  </div>
 
   </main>
 
@@ -735,11 +739,31 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
   });
 });
 
+const normalModsContainer = document.getElementById('normalModsContainer');
+const lostModsContainer = document.getElementById('lostModsContainer');
+const toggleLostModsBtn = document.getElementById('toggleLostMods');
+
+let showingLostMods = false;
+
+toggleLostModsBtn.addEventListener('click', () => {
+  showingLostMods = !showingLostMods;
+
+  if (showingLostMods) {
+    normalModsContainer.style.display = 'none';
+    lostModsContainer.style.display = 'block';
+    toggleLostModsBtn.textContent = 'Show Normal Mods';
+  } else {
+    normalModsContainer.style.display = 'block';
+    lostModsContainer.style.display = 'none';
+    toggleLostModsBtn.textContent = 'Show Lost Mods';
+  }
+});
 
 </script>
 
 
 </body>
 </html>
+
 
 
