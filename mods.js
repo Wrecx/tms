@@ -8934,7 +8934,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://forum.frictionalgames.com/thread-6552.html"
   }
+  ,
+  {
+    title: "ECHO",
+    author: "Saq",
+    releaseDate: "2011-06-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/amnesia-echo/addons/amnesia-echo-v1"
+  }
 ];
+
 
 
 
