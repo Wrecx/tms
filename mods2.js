@@ -158,4 +158,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-last-battle/downloads/last-battle"
   }
+  ,
+  {
+    title: "Grunt Go-Go Pals",
+    author: "YodragonStudios",
+    releaseDate: "2014-02-24",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/grunt-go-go-pals-mod/addons/grunt-go-go-pals-mod"
+  }
 ];
