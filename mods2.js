@@ -126,4 +126,20 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-through-the-portal/addons/pewdiepies-party-cake"
   }
+  ,
+  {
+    title: "A House",
+    author: "Marcus555",
+    releaseDate: "2012-02-21",
+    type: "Custom Story",
+    downloadLink: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house"
+  }
+  ,
+  {
+    title: "A House 2",
+    author: "Marcus555",
+    releaseDate: "2012-02-24",
+    type: "Custom Story",
+    downloadLink: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house-2-full-version"
+  }
 ];
