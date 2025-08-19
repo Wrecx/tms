@@ -1088,14 +1088,6 @@ const mods = [
   }
   ,
   {
-    title: "The Darkness",
-    author: "Jordo76",
-    releaseDate: "2011-07-19",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/the-darkness/downloads/the-darkness-demo"
-  }
-  ,
-  {
     title: "The Well: Descent",
     author: "MrCookieh",
     releaseDate: "2011-07-29",
@@ -8943,6 +8935,7 @@ const mods = [
     downloadLink: "https://forum.frictionalgames.com/thread-6552.html"
   }
 ];
+
 
 
 
