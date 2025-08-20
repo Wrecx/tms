@@ -8982,7 +8982,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-visit/downloads/the-visit"
   }
+  ,
+  {
+    title: "Penumbra Organized Asset Pack",
+    author: "Lester79",
+    releaseDate: "2025-08-20",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/penumbra-organized-asset-pack/downloads/organized-penumbra-assets"
+  }
 ];
+
 
 
 
