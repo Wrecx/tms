@@ -8876,7 +8876,7 @@ const mods = [
     author: "xarox02",
     releaseDate: "2025-08-16",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1CDQPYzZFgGsMii1zueNAG4sV3qa3xmjq/view?usp=sharing"
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/the-escape6"
   }
   ,
   {
@@ -8991,6 +8991,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/penumbra-organized-asset-pack/downloads/organized-penumbra-assets"
   }
 ];
+
 
 
 
