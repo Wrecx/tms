@@ -270,7 +270,12 @@ table th, table td {
 .boldnumber {
   font-weight: bold;
 }
-
+th:nth-child(1), td:nth-child(1) { width: 48px; }   /* # */
+th:nth-child(2), td.title       { width: 48%; }    /* title gets most space */
+th:nth-child(3)                 { width: 20%; }    /* author */
+.fixed-width.release-date       { width: 110px; }  /* release date */
+.fixed-width.type               { width: 100px; }  /* rating */
+.fixed-width.download           { width: 80px; }   /* review */
   </style>
 </head>
 <body>
@@ -741,3 +746,4 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
