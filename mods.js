@@ -8998,7 +8998,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/inka-gravi/downloads/inka-gravi-full-translated-from-german"
   }
+  ,
+  {
+    title: "Funnysia: The Moment of Collapse",
+    author: "SpheNay4's Club",
+    releaseDate: "2025-08-23",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/funnysia-the-moment-of-collapse/downloads/funnysia1"
+  }
 ];
+
 
 
 
