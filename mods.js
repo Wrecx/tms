@@ -9006,7 +9006,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/funnysia-the-moment-of-collapse/downloads/funnysia1"
   }
+  ,
+  {
+    title: "Losing my Head",
+    author: "aritheman",
+    releaseDate: "2012-06-30",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/losing-my-head/addons/loosing-my-head"
+  }
 ];
+
 
 
 
