@@ -9014,7 +9014,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/losing-my-head/addons/loosing-my-head"
   }
+  ,
+  {
+    title: "Choice",
+    author: "shulle",
+    releaseDate: "2012-06-02",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/shulle/addons/choice"
+  }
 ];
+
 
 
 
