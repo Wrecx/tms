@@ -2171,7 +2171,7 @@ const mods = [
     title: "Tenebris Lake inspired Lantern",
     author: "RizzyD3D9, Darkfires, ambientCG, Boris Game Studios",
     releaseDate: "2022-10-12",
-    type: "Adoon",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/tenebris-lake-inspired-lantern"
   }
   ,
@@ -9023,6 +9023,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/shulle/addons/choice"
   }
 ];
+
 
 
 
