@@ -4488,14 +4488,6 @@ const mods = [
   }
   ,
   {
-    title: "Stephano's Retribution",
-    author: "KissimRunner",
-    releaseDate: "2012-06-08",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/stephanos-retribution"
-  }
-  ,
-  {
     title: "Scary House MOD ITALIANO FULL !!",
     author: "teopol",
     releaseDate: "2012-07-06",
@@ -9022,7 +9014,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/shulle/addons/choice"
   }
+  ,
+  {
+    title: "Find Stephano",
+    author: "siemka3211",
+    releaseDate: "2011-12-06",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/find-stephano/downloads/find-stephano-new"
+  }
 ];
+
 
 
 
