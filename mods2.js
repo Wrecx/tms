@@ -88,14 +88,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Cursed Summoning, part one",
-    author: "Entih",
-    releaseDate: "2010-10-16",
-    type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-5076.html"
-  }
-  ,
-  {
     title: "Awakening to the unknown",
     author: "LoneWolf",
     releaseDate: "2010-11-23",
