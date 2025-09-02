@@ -9030,7 +9030,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1yTvcNuVHkLdrXNMLkl3nS8jd953Ae4ih/view?usp=sharing"
   }
+  ,
+  {
+    title: "Cursed Summoning",
+    author: "Entih",
+    releaseDate: "2010-10-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1K9CXdgAD3bO4hk9b3bpGRDpnnNWR5cB0/view?usp=sharing"
+  }
 ];
+
 
 
 
