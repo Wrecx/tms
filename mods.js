@@ -9022,7 +9022,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/find-stephano/downloads/find-stephano-new"
   }
+  ,
+  {
+    title: "Paranoid",
+    author: "SassiX",
+    releaseDate: "2011-01-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yTvcNuVHkLdrXNMLkl3nS8jd953Ae4ih/view?usp=sharing"
+  }
 ];
+
 
 
 
