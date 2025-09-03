@@ -80,14 +80,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Limbo",
-    author: "fantino",
-    releaseDate: "2010-11-05",
-    type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-5326.html"
-  }
-  ,
-  {
     title: "Awakening to the unknown",
     author: "LoneWolf",
     releaseDate: "2010-11-23",
