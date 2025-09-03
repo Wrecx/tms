@@ -9046,7 +9046,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1zo9_UXk64TtYkN1NdpAtPsLU6yT5b1D8/view?usp=sharing"
   }
+  ,
+  {
+    title: "Kaderin Koruyuculari",
+    author: "MrterKy",
+    releaseDate: "2011-09-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/14Z9gBNz_DI47b1LIgPCBHJXp_ywZzL-f/view?usp=sharing"
+  }
 ];
+
 
 
 
