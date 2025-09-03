@@ -56,14 +56,6 @@ const mods2 = [
   }
   ,
   {
-    title: "The Old Well, Chapter 1",
-    author: "Vyzor",
-    releaseDate: "2011-12-27",
-    type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/archive/index.php?thread-12120.html="
-  }
-  ,
-  {
     title: "Tunnels",
     author: "Mateh",
     releaseDate: "2010-11-16",
