@@ -1176,7 +1176,7 @@ const mods = [
   }
   ,
   {
-    title: "Guardians Of Fate",
+    title: "Guardians Of Fate (Kaderin Koruyuculari)",
     author: "mrterky",
     releaseDate: "2011-09-08",
     type: "Custom Story",
@@ -9048,14 +9048,6 @@ const mods = [
   }
   ,
   {
-    title: "Kaderin Koruyuculari",
-    author: "MrterKy",
-    releaseDate: "2011-09-08",
-    type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/14Z9gBNz_DI47b1LIgPCBHJXp_ywZzL-f/view?usp=sharing"
-  }
-  ,
-  {
     title: "The Old Well",
     author: "Vitor Frias",
     releaseDate: "2011-08-28",
@@ -9063,6 +9055,7 @@ const mods = [
     downloadLink: "https://drive.google.com/file/d/1b9ggZhExx-6UG-SW0niNlmXmrBoD1gBW/view?usp=sharing"
   }
 ];
+
 
 
 
