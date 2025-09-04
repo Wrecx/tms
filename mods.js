@@ -9054,7 +9054,24 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1b9ggZhExx-6UG-SW0niNlmXmrBoD1gBW/view?usp=sharing"
   }
+  ,
+  {
+    title: "The Cursed",
+    author: "Paulpolska",
+    releaseDate: "2011-07-19",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1hHSuf7SiyWzEQyvx1Ge9vey8FdjLP8Jg/view?usp=sharing"
+  }
+  ,
+  {
+    title: "The Unfortunate Event",
+    author: "Kieren Tod",
+    releaseDate: "2011-01-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NqXeow8Tc5IJ481VUfZlYnU1w7IJajCz/view?usp=sharing"
+  }
 ];
+
 
 
 
