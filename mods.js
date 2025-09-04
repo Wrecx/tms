@@ -4034,7 +4034,7 @@ const mods = [
   {
     title: "Icarus",
     author: "Rigi, Kurton",
-    releaseDate: "0000",
+    releaseDate: "2011-10-10",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985253922&searchtext=icarus"
   }
@@ -9055,6 +9055,7 @@ const mods = [
     downloadLink: "https://drive.google.com/file/d/1b9ggZhExx-6UG-SW0niNlmXmrBoD1gBW/view?usp=sharing"
   }
 ];
+
 
 
 
