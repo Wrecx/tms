@@ -4,7 +4,7 @@ const mods2 = [
     author: "willsage",
     releaseDate: "2012",
     type: "Custom Story",
-    downloadLink: "https://www.youtube.com/watch?v=flQes8sATYw"
+    download: "https://www.youtube.com/watch?v=flQes8sATYw"
   }
   ,
   {
@@ -12,7 +12,7 @@ const mods2 = [
     author: "czletsplay",
     releaseDate: "????",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-castle-of-evil"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-castle-of-evil"
   }
   ,
   {
@@ -20,7 +20,7 @@ const mods2 = [
     author: "Zeravia Firestarter",
     releaseDate: "2011",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/diary-of-madman-prologue"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/diary-of-madman-prologue"
   }
   ,
   {
@@ -28,7 +28,7 @@ const mods2 = [
     author: "D4veCZ",
     releaseDate: "????",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-omen-of-destiny"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-omen-of-destiny"
   }
   ,
   {
@@ -36,7 +36,7 @@ const mods2 = [
     author: "TheMightyJKK",
     releaseDate: "????",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/far-away"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/far-away"
   }
   ,
   {
@@ -44,7 +44,7 @@ const mods2 = [
     author: "Sabatu",
     releaseDate: "????",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/rotten-manor"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/rotten-manor"
   }
   ,
   {
@@ -52,7 +52,7 @@ const mods2 = [
     author: "Slanderous",
     releaseDate: "????",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/fivemagics2"
+    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/fivemagics2"
   }
   ,
   {
@@ -60,7 +60,7 @@ const mods2 = [
     author: "Mateh",
     releaseDate: "2010-11-16",
     type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-5466.html"
+    download: "https://forum.frictionalgames.com/thread-5466.html"
   }
   ,
   {
@@ -68,7 +68,7 @@ const mods2 = [
     author: "HumiliatioN",
     releaseDate: "2010-12-17",
     type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-5762.html"
+    download: "https://forum.frictionalgames.com/thread-5762.html"
   }
   ,
   {
@@ -76,7 +76,7 @@ const mods2 = [
     author: "LoneWolf",
     releaseDate: "2010-11-23",
     type: "Custom Story",
-    downloadLink: "http://www.mediafire.com/file/on4uo1bcu2eh6zs/Awakening%20to%20the%20unknown.rar"
+    download: "http://www.mediafire.com/file/on4uo1bcu2eh6zs/Awakening%20to%20the%20unknown.rar"
   }
   ,
   {
@@ -84,7 +84,7 @@ const mods2 = [
     author: "ThePaSch",
     releaseDate: "2010-10-31",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/balthasars-sorrow"
+    download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/balthasars-sorrow"
   }
   ,
   {
@@ -92,7 +92,7 @@ const mods2 = [
     author: "Josh707",
     releaseDate: "2011-04-16",
     type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-7408.html"
+    download: "https://forum.frictionalgames.com/thread-7408.html"
   }
   ,
   {
@@ -100,7 +100,7 @@ const mods2 = [
     author: "jillis",
     releaseDate: "2012-01-27",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-through-the-portal/addons/pewdiepies-party-cake"
+    download: "https://www.moddb.com/mods/amnesia-through-the-portal/addons/pewdiepies-party-cake"
   }
   ,
   {
@@ -108,7 +108,7 @@ const mods2 = [
     author: "Marcus555",
     releaseDate: "2012-02-21",
     type: "Custom Story",
-    downloadLink: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house"
+    download: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house"
   }
   ,
   {
@@ -116,7 +116,7 @@ const mods2 = [
     author: "Marcus555",
     releaseDate: "2012-02-24",
     type: "Custom Story",
-    downloadLink: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house-2-full-version"
+    download: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house-2-full-version"
   }
   ,
   {
@@ -124,7 +124,7 @@ const mods2 = [
     author: "Kirbypwnage",
     releaseDate: "2013-03-10",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/oblivion-the-gates-of-hell"
+    download: "https://www.moddb.com/mods/oblivion-the-gates-of-hell"
   }
   ,
   {
@@ -132,7 +132,7 @@ const mods2 = [
     author: "masanoffi",
     releaseDate: "2013-06-17",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-last-battle/downloads/last-battle"
+    download: "https://www.moddb.com/mods/amnesia-last-battle/downloads/last-battle"
   }
   ,
   {
@@ -140,6 +140,6 @@ const mods2 = [
     author: "YodragonStudios",
     releaseDate: "2014-02-24",
     type: "Addon",
-    downloadLink: "https://www.moddb.com/mods/grunt-go-go-pals-mod/addons/grunt-go-go-pals-mod"
+    download: "https://www.moddb.com/mods/grunt-go-go-pals-mod/addons/grunt-go-go-pals-mod"
   }
 ];
