@@ -277,10 +277,87 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 .fixed-width.type               { width: 100px; }  /* rating */
 .fixed-width.download           { width: 80px; }   /* review */
 
+    .login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+
+/* Profile card below the button */
+.profile-card {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.profile-card img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 0.5rem;
+}
   </style>
 </head>
 
 <body>
+  <div class="login-container">
+    <button id="loginBtn" class="toggle-btn">Login with GitHub</button>
+    <button id="logoutBtn" class="toggle-btn" style="display:none;">Logout</button>
+    <div id="profile" class="profile-card"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/appwrite@18.0.0/dist/index.min.js"></script>
+  <script>
+
+    const client = new Appwrite.Client()
+      .setEndpoint('https://cloud.appwrite.io')
+      .setProject('68bdcb670005950b05e9')
+
+    const account = new Appwrite.Account(client);
+
+    const loginBtn = document.getElementById('loginBtn');
+    const logoutBtn = document.getElementById('logoutBtn');
+    const profileDiv = document.getElementById('profile');
+
+    // Trigger GitHub OAuth login
+    loginBtn.addEventListener('click', () => {
+      account.createOAuth2Session(
+        'github',
+        'https://wrecx.github.io/tms/',   // Success URL (back to your site)
+        'https://wrecx.github.io/tms/?login_failed=1' // Failure URL
+      );
+    });
+
+    // Logout
+    logoutBtn.addEventListener('click', async () => {
+      try {
+        await account.deleteSession('current');
+        location.reload();
+      } catch (e) {
+        console.error(e);
+      }
+    });
+
+    // On page load, check if user is already logged in
+    async function loadAccount() {
+      try {
+        const user = await account.get();
+        loginBtn.style.display = 'none';
+        logoutBtn.style.display = 'inline-block';
+        profileDiv.innerHTML = `
+          <img src="${user.prefs?.avatar || ''}" alt="Avatar" />
+          <p>Logged in as <a href="https://github.com/${user.name || user.$id}" target="_blank">${user.name || user.$id}</a></p>
+        `;
+      } catch (err) {
+        // Not logged in, leave login button visible
+        console.log('Not logged in');
+      }
+    }
+
+    loadAccount();
+  </script>
   
 <header>
   <div class="header-content">
@@ -747,6 +824,7 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
 
 
 
