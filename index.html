@@ -299,6 +299,15 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 
   </style>
 </head>
+
+<body>
+
+<div class="login-container">
+  <button id="loginBtn" class="toggle-btn">Login with GitHub</button>
+  <button id="logoutBtn" class="toggle-btn" style="display:none;">Logout</button>
+  <div id="profile" class="profile-card"></div>
+</div>
+  
 <script type="module">
   import { createClient } from "https://esm.sh/@supabase/supabase-js"
 
@@ -340,14 +349,6 @@ th:nth-child(3)                 { width: 20%; }    /* author */
     `
   }
 </script>
-<body>
-
-<div class="login-container">
-  <button id="loginBtn" class="toggle-btn">Login with GitHub</button>
-  <button id="logoutBtn" class="toggle-btn" style="display:none;">Logout</button>
-  <div id="profile" class="profile-card"></div>
-</div>
-
 
 <header>
   <div class="header-content">
@@ -815,5 +816,6 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
 
 
