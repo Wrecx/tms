@@ -276,9 +276,58 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 .fixed-width.release-date       { width: 110px; }  /* release date */
 .fixed-width.type               { width: 100px; }  /* rating */
 .fixed-width.download           { width: 80px; }   /* review */
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.profile-card {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.profile-card img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 0.5rem;
+}
+
   </style>
 </head>
+<script type="module">
+  import { createClient } from "https://esm.sh/@supabase/supabase-js"
+
+  const supabaseUrl = "https://dwfqotikhezqvkcrtmiw.supabase.co"
+  const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3ZnFvdGlraGV6cXZrY3J0bWl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMzY5ODUsImV4cCI6MjA3MjgxMjk4NX0.yaQQinrkhG7ks9tjm3TtXTb59OKMkKUbz3C9DPFQOME"
+  const supabase = createClient(supabaseUrl, supabaseKey)
+
+  document.getElementById("loginBtn").addEventListener("click", async () => {
+    const { data, error } = await supabase.auth.signInWithOAuth({
+      provider: "github",
+    })
+    if (error) console.error("Login error:", error.message)
+  })
+
+  const { data: { session } } = await supabase.auth.getSession()
+  if (session) {
+    const user = session.user
+    document.getElementById("profile").innerHTML = `
+      <img src="${user.user_metadata.avatar_url}" width="50" />
+      <p>Logged in as <a href="https://github.com/${user.user_metadata.user_name}" target="_blank">${user.user_metadata.user_name}</a></p>
+    `
+  }
+</script>
 <body>
+
+<div class="login-container">
+  <button id="loginBtn" class="toggle-btn">Login with GitHub</button>
+  <div id="profile" class="profile-card"></div>
+</div>
 
 <header>
   <div class="header-content">
@@ -746,5 +795,4 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
-
 
