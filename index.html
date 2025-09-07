@@ -308,54 +308,6 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   <div id="profile" class="profile-card"></div>
 </div>
 
-<script type="module">
-  import { createClient } from "https://esm.sh/@supabase/supabase-js"
-
-  const supabaseUrl = "https://dwfqotikhezqvkcrtmiw.supabase.co"
-  const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3ZnFvdGlraGV6cXZrY3J0bWl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMzY5ODUsImV4cCI6MjA3MjgxMjk4NX0.yaQQinrkhG7ks9tjm3TtXTb59OKMkKUbz3C9DPFQOME"
-  const supabase = createClient(supabaseUrl, supabaseKey)
-
-  const loginBtn = document.getElementById("loginBtn")
-  const logoutBtn = document.getElementById("logoutBtn")
-  const profileDiv = document.getElementById("profile")
-
-  loginBtn.addEventListener("click", async () => {
-    const { error } = await supabase.auth.signInWithOAuth({
-      provider: 'github',
-      options: { redirectTo: 'https://wrecx.github.io/tms/' }
-    })
-    if (error) console.error("Login error:", error.message)
-  })
-
-  logoutBtn.addEventListener("click", async () => {
-    await supabase.auth.signOut()
-    location.reload()
-  })
-
-  const handleSession = (session) => {
-    if (!session) return
-    loginBtn.style.display = "none"
-    logoutBtn.style.display = "inline-block"
-
-    const user = session.user
-    const username = user.user_metadata.user_name
-    const avatar = user.user_metadata.avatar_url
-    const profileUrl = `https://github.com/${username}`
-
-    profileDiv.innerHTML = `
-      <img src="${avatar}" alt="${username}'s avatar" />
-      <p>Logged in as <a href="${profileUrl}" target="_blank">${username}</a></p>
-    `
-  }
-
-  const { data: { session } } = await supabase.auth.getSession()
-  handleSession(session)
-
-  supabase.auth.onAuthStateChange((_event, session) => {
-    handleSession(session)
-  })
-</script>
-
 <header>
   <div class="header-content">
     <span id="headerTitle"><a href="#" id="noUnderline">The Mod Sanitarium</a></span>
@@ -816,12 +768,58 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
   });
 });
 
+    import { createClient } from "https://esm.sh/@supabase/supabase-js"
+
+  const supabaseUrl = "https://dwfqotikhezqvkcrtmiw.supabase.co"
+  const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3ZnFvdGlraGV6cXZrY3J0bWl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMzY5ODUsImV4cCI6MjA3MjgxMjk4NX0.yaQQinrkhG7ks9tjm3TtXTb59OKMkKUbz3C9DPFQOME"
+  const supabase = createClient(supabaseUrl, supabaseKey)
+
+  const loginBtn = document.getElementById("loginBtn")
+  const logoutBtn = document.getElementById("logoutBtn")
+  const profileDiv = document.getElementById("profile")
+
+  loginBtn.addEventListener("click", async () => {
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: 'github',
+      options: { redirectTo: 'https://wrecx.github.io/tms/' }
+    })
+    if (error) console.error("Login error:", error.message)
+  })
+
+  logoutBtn.addEventListener("click", async () => {
+    await supabase.auth.signOut()
+    location.reload()
+  })
+
+  const handleSession = (session) => {
+    if (!session) return
+    loginBtn.style.display = "none"
+    logoutBtn.style.display = "inline-block"
+
+    const user = session.user
+    const username = user.user_metadata.user_name
+    const avatar = user.user_metadata.avatar_url
+    const profileUrl = `https://github.com/${username}`
+
+    profileDiv.innerHTML = `
+      <img src="${avatar}" alt="${username}'s avatar" />
+      <p>Logged in as <a href="${profileUrl}" target="_blank">${username}</a></p>
+    `
+  }
+
+  const { data: { session } } = await supabase.auth.getSession()
+  handleSession(session)
+
+  supabase.auth.onAuthStateChange((_event, session) => {
+    handleSession(session)
+  })
 
 </script>
 
 
 </body>
 </html>
+
 
 
 
