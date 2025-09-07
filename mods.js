@@ -6824,14 +6824,6 @@ const mods = [
   }
   ,
   {
-    title: "The Great Work",
-    author: "Damascus7",
-    releaseDate: "2013-01-11",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/the-great-work/downloads/the-great-work-v14-updates-and-translations"
-  }
-  ,
-  {
     title: "gloomy mansion",
     author: "dooky101",
     releaseDate: "2013-08-20",
@@ -9066,11 +9058,12 @@ const mods = [
   {
     title: "The Unfortunate Event",
     author: "Kieren Tod",
-    releaseDate: "2011-01-01",
+    releaseDate: "2011-01-05",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1NqXeow8Tc5IJ481VUfZlYnU1w7IJajCz/view?usp=sharing"
   }
 ];
+
 
 
 
