@@ -306,19 +306,37 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3ZnFvdGlraGV6cXZrY3J0bWl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMzY5ODUsImV4cCI6MjA3MjgxMjk4NX0.yaQQinrkhG7ks9tjm3TtXTb59OKMkKUbz3C9DPFQOME"
   const supabase = createClient(supabaseUrl, supabaseKey)
 
-  document.getElementById("loginBtn").addEventListener("click", async () => {
+
+  const loginBtn = document.getElementById("loginBtn")
+  const logoutBtn = document.getElementById("logoutBtn")
+  const profileDiv = document.getElementById("profile")
+
+  loginBtn.addEventListener("click", async () => {
     const { data, error } = await supabase.auth.signInWithOAuth({
-      provider: "github",
+      provider: 'github',
+      options: { redirectTo: 'https://wrecx.github.io/tms/' } // your site URL
     })
     if (error) console.error("Login error:", error.message)
   })
 
+  logoutBtn.addEventListener("click", async () => {
+    await supabase.auth.signOut()
+    location.reload()
+  })
+
   const { data: { session } } = await supabase.auth.getSession()
   if (session) {
+    loginBtn.style.display = "none"
+    logoutBtn.style.display = "inline-block"
+
     const user = session.user
-    document.getElementById("profile").innerHTML = `
-      <img src="${user.user_metadata.avatar_url}" width="50" />
-      <p>Logged in as <a href="https://github.com/${user.user_metadata.user_name}" target="_blank">${user.user_metadata.user_name}</a></p>
+    const username = user.user_metadata.user_name
+    const avatar = user.user_metadata.avatar_url
+    const profileUrl = `https://github.com/${username}`
+
+    profileDiv.innerHTML = `
+      <img src="${avatar}" alt="${username}'s avatar" />
+      <p>Logged in as <a href="${profileUrl}" target="_blank">${username}</a></p>
     `
   }
 </script>
@@ -326,8 +344,10 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 
 <div class="login-container">
   <button id="loginBtn" class="toggle-btn">Login with GitHub</button>
+  <button id="logoutBtn" class="toggle-btn" style="display:none;">Logout</button>
   <div id="profile" class="profile-card"></div>
 </div>
+
 
 <header>
   <div class="header-content">
@@ -795,4 +815,5 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
 
