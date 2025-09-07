@@ -307,7 +307,7 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   <button id="logoutBtn" class="toggle-btn" style="display:none;">Logout</button>
   <div id="profile" class="profile-card"></div>
 </div>
-  
+
 <script type="module">
   import { createClient } from "https://esm.sh/@supabase/supabase-js"
 
@@ -315,15 +315,14 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3ZnFvdGlraGV6cXZrY3J0bWl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMzY5ODUsImV4cCI6MjA3MjgxMjk4NX0.yaQQinrkhG7ks9tjm3TtXTb59OKMkKUbz3C9DPFQOME"
   const supabase = createClient(supabaseUrl, supabaseKey)
 
-
   const loginBtn = document.getElementById("loginBtn")
   const logoutBtn = document.getElementById("logoutBtn")
   const profileDiv = document.getElementById("profile")
 
   loginBtn.addEventListener("click", async () => {
-    const { data, error } = await supabase.auth.signInWithOAuth({
+    const { error } = await supabase.auth.signInWithOAuth({
       provider: 'github',
-      options: { redirectTo: 'https://wrecx.github.io/tms/' } // your site URL
+      options: { redirectTo: 'https://wrecx.github.io/tms/' }
     })
     if (error) console.error("Login error:", error.message)
   })
@@ -333,8 +332,8 @@ th:nth-child(3)                 { width: 20%; }    /* author */
     location.reload()
   })
 
-  const { data: { session } } = await supabase.auth.getSession()
-  if (session) {
+  const handleSession = (session) => {
+    if (!session) return
     loginBtn.style.display = "none"
     logoutBtn.style.display = "inline-block"
 
@@ -348,6 +347,13 @@ th:nth-child(3)                 { width: 20%; }    /* author */
       <p>Logged in as <a href="${profileUrl}" target="_blank">${username}</a></p>
     `
   }
+
+  const { data: { session } } = await supabase.auth.getSession()
+  handleSession(session)
+
+  supabase.auth.onAuthStateChange((_event, session) => {
+    handleSession(session)
+  })
 </script>
 
 <header>
@@ -816,6 +822,7 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
+
 
 
 
