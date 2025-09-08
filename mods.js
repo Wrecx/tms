@@ -6792,14 +6792,6 @@ const mods = [
   }
   ,
   {
-    title: "The Unforgiven Game - Complete Edition",
-    author: "MrNord94",
-    releaseDate: "2013-08-22",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-mod-sonicexe/downloads/the-unforgiven-game-complete-edition"
-  }
-  ,
-  {
     title: "Sonic.exe",
     author: "exSharkLprofile",
     releaseDate: "2013-02-28",
@@ -9063,6 +9055,7 @@ const mods = [
     downloadLink: "https://drive.google.com/file/d/1NqXeow8Tc5IJ481VUfZlYnU1w7IJajCz/view?usp=sharing"
   }
 ];
+
 
 
 
