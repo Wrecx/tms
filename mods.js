@@ -880,7 +880,7 @@ const mods = [
   }
   ,
   {
-    title: "Zeroth Entry",
+    title: "Quartz and Cordite - WE",
     author: "Kiralmmortal",
     releaseDate: "2023-05-20",
     type: "Custom Story",
@@ -9055,6 +9055,7 @@ const mods = [
     downloadLink: "https://drive.google.com/file/d/1NqXeow8Tc5IJ481VUfZlYnU1w7IJajCz/view?usp=sharing"
   }
 ];
+
 
 
 
