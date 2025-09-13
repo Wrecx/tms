@@ -9054,39 +9054,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1NqXeow8Tc5IJ481VUfZlYnU1w7IJajCz/view?usp=sharing"
   }
+  ,
+  {
+    title: "Castle Grunburgh",
+    author: "RadioJezus",
+    releaseDate: "2025-09-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/castle-grunburgh/downloads/castle-grunburgh-full-release-version"
+  }
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
