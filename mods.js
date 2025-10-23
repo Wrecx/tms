@@ -9062,5 +9062,14 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/castle-grunburgh/downloads/castle-grunburgh-full-release-version"
   }
+  ,
+  {
+    title: "The Omen of Destiny",
+    author: "D4veCZ",
+    releaseDate: "2013-06-22",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1VrlsbvXzJf9TDaZYhd7P_3Csvief9qa2/view?usp=drive_link"
+  }
 ];
+
 
