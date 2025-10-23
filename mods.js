@@ -5732,7 +5732,7 @@ const mods = [
     author: "ʟogan",
     releaseDate: "2011-10-18",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/icarus-prelude"
+    downloadLink: "https://drive.google.com/file/d/1ytQKG0EjJYl7xweWIF3fuOpyq-MJ9xoj/view?usp=sharing"
   }
   ,
   {
@@ -9063,3 +9063,4 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/castle-grunburgh/downloads/castle-grunburgh-full-release-version"
   }
 ];
+
