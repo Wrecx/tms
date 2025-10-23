@@ -80,14 +80,6 @@ const mods2 = [
   }
   ,
   {
-    title: "A House",
-    author: "Marcus555",
-    releaseDate: "2012-02-21",
-    type: "Custom Story",
-    download: "https://www.gamewatcher.com/mods/amnesia-the-dark-descent-mod/a-house"
-  }
-  ,
-  {
     title: "A House 2",
     author: "Marcus555",
     releaseDate: "2012-02-24",
