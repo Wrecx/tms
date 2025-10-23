@@ -9070,6 +9070,15 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1VrlsbvXzJf9TDaZYhd7P_3Csvief9qa2/view?usp=drive_link"
   }
+  ,
+  {
+    title: "Rotten Manor",
+    author: "Sabatu",
+    releaseDate: "2020-09-03",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1jUTYkS-QnFMEwNfzaOfBQ83ePZdS3oHF/view?usp=drive_link"
+  }
 ];
+
 
 
