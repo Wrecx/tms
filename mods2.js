@@ -24,14 +24,6 @@ const mods2 = [
   }
   ,
   {
-    title: "The Omen of Destiny",
-    author: "D4veCZ",
-    releaseDate: "????",
-    type: "Custom Story",
-    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/the-omen-of-destiny"
-  }
-  ,
-  {
     title: "Far Away",
     author: "TheMightyJKK",
     releaseDate: "????",
