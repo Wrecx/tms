@@ -9086,7 +9086,16 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1Zs7ga1ceDJbqwT4EoS4490hAbMQ0AFyw/view?usp=drive_link"
   }
+  ,
+  {
+    title: "Diary of a Madman - Prologue",
+    author: "Zeravia Firestarter",
+    releaseDate: "2011",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1d16e-DzTaaEligbX2YH7ecf91tOKvwYq/view?usp=drive_link"
+  }
 ];
+
 
 
 
