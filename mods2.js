@@ -32,14 +32,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Rotten Manor",
-    author: "Sabatu",
-    releaseDate: "????",
-    type: "Custom Story",
-    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/rotten-manor"
-  }
-  ,
-  {
     title: "Five Magics 2",
     author: "Slanderous",
     releaseDate: "????",
