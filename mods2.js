@@ -104,14 +104,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Oblivion: The Gates of Hell",
-    author: "Kirbypwnage",
-    releaseDate: "2013-03-10",
-    type: "Custom Story",
-    download: "https://www.moddb.com/mods/oblivion-the-gates-of-hell"
-  }
-  ,
-  {
     title: "Last Battle",
     author: "masanoffi",
     releaseDate: "2013-06-17",
