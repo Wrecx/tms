@@ -16,14 +16,6 @@ const mods2 = [
   }
   ,
   {
-    title: "Diary of a Madman - Prologue",
-    author: "Zeravia Firestarter",
-    releaseDate: "2011",
-    type: "Custom Story",
-    download: "https://www.moddb.com/mods/amnesia-project-old-forgotten-and-beginners-modes/downloads/diary-of-madman-prologue"
-  }
-  ,
-  {
     title: "Far Away",
     author: "TheMightyJKK",
     releaseDate: "????",
