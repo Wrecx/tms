@@ -9078,7 +9078,16 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1jUTYkS-QnFMEwNfzaOfBQ83ePZdS3oHF/view?usp=drive_link"
   }
+  ,
+  {
+    title: "Oblivion: The Gates of Hell",
+    author: "Kirbypwnage",
+    releaseDate: "2013-03-26",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1Zs7ga1ceDJbqwT4EoS4490hAbMQ0AFyw/view?usp=drive_link"
+  }
 ];
+
 
 
 
