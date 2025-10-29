@@ -9102,7 +9102,16 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1QKwIwv8kXGjW2GvR-rwtM-p5IVUc-ver/view?usp=drive_link"
   }
+  ,
+  {
+    title: "The Filth Maker",
+    author: "Benny_R",
+    releaseDate: "2025-10-28",
+    type: "Custom Story",
+    download: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
+  }
 ];
+
 
 
 
