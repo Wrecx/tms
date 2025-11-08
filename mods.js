@@ -9110,7 +9110,16 @@ const mods = [
     type: "Custom Story",
     download: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
   }
+  ,
+  {
+    title: "Year Zero",
+    author: "Shyrtexx",
+    releaseDate: "2025-11-07",
+    type: "Custom Story",
+    download: "https://www.moddb.com/mods/year-zero/downloads/year-zero-10"
+  }
 ];
+
 
 
 
