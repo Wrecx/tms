@@ -9118,7 +9118,16 @@ const mods = [
     type: "Custom Story",
     download: "https://www.moddb.com/mods/year-zero/downloads/year-zero-10"
   }
+  ,
+  {
+    title: "Co-op Hide and seek and tag minigame",
+    author: "xarox02",
+    releaseDate: "2020-11-23",
+    type: "Custom Story",
+    download: "https://www.moddb.com/company/co-op-minigames/downloads/co-op-hide-and-seek-and-tag-minigame"
+  }
 ];
+
 
 
 
