@@ -1780,7 +1780,7 @@ const mods = [
     author: "NutBoi",
     releaseDate: "2021-04-05",
     type: "Addon",
-    downloadLink: "https://www.moddb.com/mods/amnesia-remodded/downloads/amnesia-remodded-20"
+    downloadLink: "https://www.moddb.com/mods/amnesia-remodded/downloads/amnesia-remodded-211-hotfix"
   }
   ,
   {
@@ -9127,6 +9127,7 @@ const mods = [
     download: "https://www.moddb.com/company/co-op-minigames/downloads/co-op-hide-and-seek-and-tag-minigame"
   }
 ];
+
 
 
 
