@@ -9126,7 +9126,16 @@ const mods = [
     type: "Custom Story",
     download: "https://www.moddb.com/company/co-op-minigames/downloads/co-op-hide-and-seek-and-tag-minigame"
   }
+  ,
+  {
+    title: "Illusions of the Dead 2",
+    author: "TimProzz",
+    releaseDate: "2025-11-22",
+    type: "Custom Story",
+    download: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
+  }
 ];
+
 
 
 
