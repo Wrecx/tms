@@ -9068,7 +9068,7 @@ const mods = [
     author: "D4veCZ",
     releaseDate: "2013-06-22",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1VrlsbvXzJf9TDaZYhd7P_3Csvief9qa2/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/1VrlsbvXzJf9TDaZYhd7P_3Csvief9qa2/view?usp=drive_link"
   }
   ,
   {
@@ -9076,7 +9076,7 @@ const mods = [
     author: "Sabatu",
     releaseDate: "2020-09-03",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1jUTYkS-QnFMEwNfzaOfBQ83ePZdS3oHF/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/1jUTYkS-QnFMEwNfzaOfBQ83ePZdS3oHF/view?usp=drive_link"
   }
   ,
   {
@@ -9084,7 +9084,7 @@ const mods = [
     author: "Kirbypwnage",
     releaseDate: "2013-03-26",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1Zs7ga1ceDJbqwT4EoS4490hAbMQ0AFyw/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/1Zs7ga1ceDJbqwT4EoS4490hAbMQ0AFyw/view?usp=drive_link"
   }
   ,
   {
@@ -9092,7 +9092,7 @@ const mods = [
     author: "Zeravia Firestarter",
     releaseDate: "2011",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1d16e-DzTaaEligbX2YH7ecf91tOKvwYq/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/1d16e-DzTaaEligbX2YH7ecf91tOKvwYq/view?usp=drive_link"
   }
   ,
   {
@@ -9100,7 +9100,7 @@ const mods = [
     author: "Marcus555",
     releaseDate: "2012-01-31",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1QKwIwv8kXGjW2GvR-rwtM-p5IVUc-ver/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/1QKwIwv8kXGjW2GvR-rwtM-p5IVUc-ver/view?usp=drive_link"
   }
   ,
   {
@@ -9108,7 +9108,7 @@ const mods = [
     author: "Benny_R",
     releaseDate: "2025-10-28",
     type: "Custom Story",
-    download: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
+    downloadLink: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
   }
   ,
   {
@@ -9116,7 +9116,7 @@ const mods = [
     author: "Shyrtexx",
     releaseDate: "2025-11-07",
     type: "Custom Story",
-    download: "https://www.moddb.com/mods/year-zero/downloads/year-zero-10"
+    downloadLink: "https://www.moddb.com/mods/year-zero/downloads/year-zero-10"
   }
   ,
   {
@@ -9124,7 +9124,7 @@ const mods = [
     author: "xarox02",
     releaseDate: "2020-11-23",
     type: "Custom Story",
-    download: "https://www.moddb.com/company/co-op-minigames/downloads/co-op-hide-and-seek-and-tag-minigame"
+    downloadLink: "https://www.moddb.com/company/co-op-minigames/downloads/co-op-hide-and-seek-and-tag-minigame"
   }
   ,
   {
@@ -9132,9 +9132,10 @@ const mods = [
     author: "TimProzz",
     releaseDate: "2025-11-22",
     type: "Custom Story",
-    download: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
+    downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
   }
 ];
+
 
 
 
