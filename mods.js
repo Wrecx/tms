@@ -9134,7 +9134,1656 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
   }
+  ,
+  {
+    title: "A Fathers Secret",
+    author: "Lizard",
+    releaseDate: "2017-01-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1dTco2Rm0qqZ27GGdXrLmjScstA3SBt_L?usp=drive_link"
+  }
+  ,
+  {
+    title: "Entführt / Alexander's reache",
+    author: "Dexio",
+    releaseDate: "2011-07-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1C0_rIOUwwLWB0nGeJFLryDG1xrGONodS?usp=drive_link"
+  }
+  ,
+  {
+    title: "Disturbed",
+    author: "Dizturbed",
+    releaseDate: "2011-08-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1Zz6L7E3jXQzRwKrpzNIsH_zflOdD0p8X?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape battle xd",
+    author: "alexanderPERSONA4994",
+    releaseDate: "2020-03-02",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1WlrZGbka9uFcUxqggaHDTwMyzaa-Jm0E?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape manson 2",
+    author: "alexanderPERSONA4994",
+    releaseDate: "2018-12-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1EzuJHJeZsEzUEfERe1MLmCH6oG0TWtVa?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape manson 3",
+    author: "alexanderPERSONA4994",
+    releaseDate: "2020-08-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1scJTinvMf2RSo5cybK5BNNGIYfBgIAtm?usp=drive_link"
+  }
+  ,
+  {
+    title: "jorngo's lament",
+    author: "xX_gorbo_Xx",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1PEi1Eb6KHQIU6ivC9gQm3FJD05eoJTjy?usp=drive_link"
+  }
+  ,
+  {
+    title: "Mansion infection",
+    author: "Doomtodeath",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1BIPsmhix3B7BzzARIjPnAMJc03_pKbBg?usp=drive_link"
+  }
+  ,
+  {
+    title: "randomshit",
+    author: "Me",
+    releaseDate: "2012-08-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1Apa9nY4RH1SwjzWXFHyKPqlEddKREXWa?usp=drive_link"
+  }
+  ,
+  {
+    title: "programming_level",
+    author: "dev_user",
+    releaseDate: "2013-06-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1Yjj1subvBip49wPVX786SxgefUb8KN9W?usp=drive_link"
+  }
+  ,
+  {
+    title: "Test Story",
+    author: "MMan",
+    releaseDate: "2012-10-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1omk4MK7XxMZwyT4fiVdgNJy8SCDIczhc?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Prussian",
+    author: "triadtimes",
+    releaseDate: "2011-01-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/drive/folders/1n81EjF1I51xP39-U3QAeYfg5BntF0U-q?usp=drive_link"
+  }
+  ,
+  {
+    title: "UndeadNightmare",
+    author: "ZyLogic",
+    releaseDate: "2011-07-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1uTXVHlL5Iw6FSVK2ozuQTovGPCT4KKy7/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "+Nightmare+",
+    author: "Rapture",
+    releaseDate: "2011-07-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1avNQNPPI-Pl44XboIXY4Jp7ayUAt9RrL/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "4Monster",
+    author: "SurvivorsDead",
+    releaseDate: "2011-05-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1pPO3SqBew9d-qw4UyY0n0lhNlyINREDn/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "A Fools Faint",
+    author: "Salim Sanehi",
+    releaseDate: "2012-04-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1p8FPryTGLEJ0mS1KwxSKAbDldGCWIvqr/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "A Weird Dream",
+    author: "DestinysDemise",
+    releaseDate: "2012-07-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VrMrocWtH54xpBTLrGu9ogTIRSPuQ2rb/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "A Dementia",
+    author: "???",
+    releaseDate: "2013-04-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/106aY-hCXf7QtVtQFph0UP3rvgGAHXECU/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Abandon Castle",
+    author: "victorkim890(KimmyChimmy)",
+    releaseDate: "0000",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1POS5jAq0vUltm_v7SsEUCa8FVLyVZ1nj/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Acceptance",
+    author: "Precario Productions",
+    releaseDate: "2014-11-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NBT76FtlPXZGLXzvp7A5XTNE7kCNvtJ_/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Aftermath",
+    author: "DCJK61",
+    releaseDate: "2013-08-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ISlJnd2odIbLEytW-Fu2ouHX-0V3Z9Lw/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Alex's chronicles",
+    author: "Drakostyle",
+    releaseDate: "2012-12-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1g_nABRnHtAB4gFwyzNL2WeUD8jPnPma-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Alone in Hell (BETA)",
+    author: "NadTheBat",
+    releaseDate: "2011-08-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1h4479nsup1fluLfIirSoxQST3zTD0cX0/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Alone in the Castle",
+    author: "Allu442",
+    releaseDate: "2014-03-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1q0EF6_i-o_RV83SrqgefOtgG1Uc1c-Qh/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Amnesia - Halloween",
+    author: "VeNoMz",
+    releaseDate: "2013-04-02",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/13EwmH2W2BLaj74mxfPdjjPoSp72bQlkC/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Big-Dark-House",
+    author: "Bigcheker12",
+    releaseDate: "2011-11-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1gYSBGCgvgZo45vI-oG2eA5NXaHp_zT8w/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Persona",
+    author: "Mithos",
+    releaseDate: "2018-04-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1wWdlboN7yN0dypN6A8-Rf9SJS4iHy4oQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Amnesia's 6th Anniversary!",
+    author: "Amnesia Community",
+    releaseDate: "2016-09-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1_ma3XEBmg5vPAE1v4FCbYN4zSN0L-vgf/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Unexpected",
+    author: "JacobRR AkA Dizturbed",
+    releaseDate: "2011-06-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/10UeLhycearjN0shv4OqJTlq1v0F11yjN/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "SCP-087",
+    author: "Apfel",
+    releaseDate: "2014-04-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1g0PAtCcnhRGLLygDlGGtyLqGr1ZOqC3l/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Apjjm",
+    author: "James",
+    releaseDate: "2012-04-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1YfkwngwxNTjp_41uLmeZzlHSk5139j9S/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Areyouready",
+    author: "Nubgamer1",
+    releaseDate: "2011-12-07",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1KC6w9sWSacyMA5xHs5z22_62JCD1apqY/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "aaaaaaaaa",
+    author: "Macetrow",
+    releaseDate: "2012-04-15",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1znC94V6djoX8jbI53bY3ggXlp1zBnMrR/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "bbbbbbbbb",
+    author: "Macetrow",
+    releaseDate: "2012-04-15",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1kBpmGFyPwvY49ronClUEEicGkQT0zuyB/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "ccccccccc",
+    author: "Macetrow",
+    releaseDate: "2012-04-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Nh63FY5eLJpenM2COKTPcchi6KP88wgi/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "ddddddddd",
+    author: "Macetrow",
+    releaseDate: "2012-05-20",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/18rMefjm6IO79jnxtc6rDiMP0lFvhl29b/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Asylum: The Darkness, menu test",
+    author: "DIGI Byte",
+    releaseDate: "2011-01-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1-WyCgoe6k6K9DcsudHatIX_rlcaeGBuF/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "August Twilight",
+    author: "DanielGallagher",
+    releaseDate: "2011-05-09",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1LsjwtYAe0fc4NQq8HdI3svhOlXVUiPbw/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Awake",
+    author: "Eddie Shoe",
+    releaseDate: "2012-07-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1KSTJhgEmjl4Yo4cqm0TIEy4-B_4OFXVJ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Awakening 0.2",
+    author: "Manbearpig115",
+    releaseDate: "2012-04-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1nGmZau-FWg1dHK5Efj2SANVqjT0IImn0/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Back Home",
+    author: "4WalledKid",
+    releaseDate: "2012-10-13",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1iu7qqam4Rk4_EZ9bJjYD-AnfatZVY70I/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Baron's Castle [DEMO]",
+    author: "TheKataKombs",
+    releaseDate: "2011-06-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1dLoQy8ULLMITxLmupIZdGIOr7RWXKRqH/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "BeAlertBeDead",
+    author: "CrunchyNachos",
+    releaseDate: "2012-05-31",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Q8zdTQ92XQEAG3hEeNKRX0hp3tqXBRbp/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Blood",
+    author: "cooleoj",
+    releaseDate: "2011-10-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1KhvfVXbaCa3Hk16y94Erg7uelu-b4jph/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Bowling",
+    author: "Markiisit",
+    releaseDate: "2012-06-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VoKwf8HZFcA1cBu3VUcdP9TTcTVNghOZ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Burg Edain",
+    author: "Chrissy",
+    releaseDate: "2012-11-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NgBRqsBQsHtX09ThixTYl6JHp9yOc52i/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Castle of the Living Dead: A New Evil",
+    author: "Daniel47",
+    releaseDate: "2014-10-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1aulR3tVRQgHR3vG69tyzmHShFUCHsk85/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Cellar",
+    author: "Scupp",
+    releaseDate: "2012-07-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/19NxpfP3eUsU6MqkzgT8ObgATIHRfgfZh/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Christmas Calendar",
+    author: "MGermundsson",
+    releaseDate: "2011-12-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/17wbyKaDHs5otsY8AGKz0lJNIoonY6PN_/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Claustrophobia",
+    author: "PaKo",
+    releaseDate: "2013-01-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Rjw6PP1s4QR4KEKePTDDUwsBy0cPmjhk/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Coming Out of The Closet...",
+    author: "Carlyle and The Bostic",
+    releaseDate: "2011-10-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1msLy7Oxdlybja9ZC6fU2_xgg5bGKepBI/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Cofigure",
+    author: "Friznutz",
+    releaseDate: "2011-12-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1-n0wf1uJBoKF3C8ZwscVyqQJ04AaIhPw/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Consequences",
+    author: "Dobbydoo",
+    releaseDate: "2013-12-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1RyGp2UEwU8OLFP1fh-mryLFzZMrRQxxT/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Corego",
+    author: "Jacketyification",
+    releaseDate: "2013-02-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1jMO6EsWmMZm87yW4UYm5HHlsfHWXqWit/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Corrosive",
+    author: "Exawolt",
+    releaseDate: "2012-03-21",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1W0xRAA-QpPumJ1JSdPb1V0hxUj8TMkKm/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Curse of the Wilhelmshaven",
+    author: "Ruhtinas",
+    releaseDate: "2019-02-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1KNzrpcOd2frO1hlkYUInR3fKPtxaBmnr/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dark Places",
+    author: "Kerem",
+    releaseDate: "2014-08-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1iWZTiMnAEqa4J0CGaBsbleg3FmNCsQfC/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dark Shadows",
+    author: "alemimi3",
+    releaseDate: "2012-08-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1u9IEhe3TMXHOvXVZmHM2ym962_ISmuMi/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dark",
+    author: "Flou",
+    releaseDate: "2013-05-09",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/19cp15j8RWYbtZIcMQz_RUAQKx_d2Nwxp/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dark Souls Part 2 DEMO",
+    author: "Fyresword",
+    releaseDate: "2013-08-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1LGmKkj_l-eucjqXhbTrgJzUg69njFEe9/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Deadly Nostalgia",
+    author: "EPM",
+    releaseDate: "2014-03-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/101nWG54D8bOKLF1QBnhsUfKZ9j-6ArND/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape",
+    author: "2make2",
+    releaseDate: "2013-06-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/18Dd2ab21_iMwcaSGMJD8EQaZPiAb6aAg/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Doorways",
+    author: "???",
+    releaseDate: "2014-09-14",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Yyt0hM3cv9yvtZFr-7CaUkJwt5IS8fgT/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Dr.Frank",
+    author: "JorgoS",
+    releaseDate: "2012-07-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1jL--a4PFLYRFP3JEWdfusPlUst3tHsAz/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "DraKerZz's House",
+    author: "DraKerZz",
+    releaseDate: "2012-02-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VEqDhxiuCpAInwL4uw9HfWBjVCmlCLCd/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Echoes of Grief",
+    author: "Claymix",
+    releaseDate: "2023-06-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1SqglYw0vrU6O9aD09gMeuzIXM6V08e4J/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "End of Leniency",
+    author: "Glasgow_Smile",
+    releaseDate: "2014-12-29",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1kvAXTX2W9yDmfhgjHEbWzdE6x3WB-hlt/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Endless Nightmare",
+    author: "Jastrzab",
+    releaseDate: "2011-04-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1E-dtX1O8BUmdoeeA8M6MDQsbPkp21spH/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape from Madness",
+    author: "Isurvolte",
+    releaseDate: "2023-06-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1j-75q0F9iVBTz9UrOjJyxwu--fg3HKF-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape",
+    author: "2make2",
+    releaseDate: "2013-06-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1hM7C0nAdsKbuO9G4yoR5wHRdsWT2458x/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "escape the monsters",
+    author: "anan",
+    releaseDate: "2021-01-31",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1_B9amh7kkBnagoUGxmB0L1dNC70f3rpu/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Evil House",
+    author: "Yohan80",
+    releaseDate: "2012-03-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1z-l1MgkEsl5QvrbE9ui2zEblPiKHb1zH/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Exawolution",
+    author: "Exawolt",
+    releaseDate: "2012-03-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1HB95GJrS8ACteDuN73HkBwaSpPncu9f4/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Exorcist",
+    author: "Viperdream",
+    releaseDate: "2011-05-09",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1abzQbJ5Kp_hklCfOtueTpRn8gcq7THUb/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Experiment",
+    author: "Renix",
+    releaseDate: "2011-12-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1k6rIYf8wYGbteegOlstVnGezKmY8lwpA/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Experi-mental",
+    author: "Jake Early",
+    releaseDate: "2011-03-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1bPhehWWNEVfOOAuZTDx77sr5pmKHDd2Y/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Fading Memories",
+    author: "Danarogon",
+    releaseDate: "2011-03-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/11V8XBr8TnZ_X-TbRsxeRRYpXeRcJH47M/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Fear Night",
+    author: "SpliTzoR",
+    releaseDate: "2012-04-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1gWRcT4R_dgKLx37U1A82aE6tJlE08Zl3/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "FIND THE EXIT",
+    author: "Andrei",
+    releaseDate: "2014-01-02",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/18TC5FlSS2WRb38QQ1JnmN_UJG3kjmqd0/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Finding Them",
+    author: "Astro127",
+    releaseDate: "2012-04-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1zybnZifaIqL4ep0WWCbB06XA7ylN7P0d/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Forsaken",
+    author: "Castlevalley",
+    releaseDate: "2013-10-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Mw8EYTobDh9GUG2JV226StK5gkLtjJBC/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Goodbye with home",
+    author: "Poison074",
+    releaseDate: "2013-06-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/187IjD-_rhxAAE6zUjL3TXsH4X7VIhXNd/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Greg",
+    author: "FAROX",
+    releaseDate: "2019-12-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1LW_hJNTna8HUgcZnOn2AFXWCaPiikYvn/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Group Four",
+    author: "Canopus",
+    releaseDate: "2014-10-14",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Qn27wCSZo-vcYZIOpKsoChAQJ5vcIZcP/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Grunt All-star Racing",
+    author: "YourComputer",
+    releaseDate: "2013-02-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ysXcEoeFWKfmzj75znvKhXjRnMWiSj7r/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Harvest: Prologue",
+    author: "Phoroneus",
+    releaseDate: "2011-08-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1MmBWdoYlUvodmwL9ejdGbwNIWLxTr3T9/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "HauntedHouse",
+    author: "Vichinsky1",
+    releaseDate: "2013-07-13",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/16JTecALIR8qEKw4hT7B2mStWhfNnsbdB/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "hehe cannon LEL XDDDDDDDDDDD",
+    author: "Team Phantasm",
+    releaseDate: "2021-01-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1WLWuIqKv9LxQVdwfEE4ULWHHhOky9hT2/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Herrmanns House",
+    author: "Nuke928",
+    releaseDate: "2012-05-19",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1PTKsz2GeltD3BVaL3v_mDX3pUw76nASZ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Horizon Prelude",
+    author: "chukky",
+    releaseDate: "2012-05-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1hw2gI4HbkDjzmKDkFez6aWCj_T_0BMue/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Horror Mansion",
+    author: "bobbybill12",
+    releaseDate: "2012-12-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1jRxO5FhVsVCxCwrspDEdWHfHWahvaoRX/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Horror",
+    author: "ThatCoolNinja",
+    releaseDate: "2011-11-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1PknqoAtnEI3oxVQsvg7aMZY0SI__ogax/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "House of Fear",
+    author: "n0it",
+    releaseDate: "2012-05-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Xb_7N5xV3se1yTcjKzcpzd3QfZKFLjFi/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "House Of Screams",
+    author: "EyeScarred",
+    releaseDate: "2012-11-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/11k7aHjTdDmgj4Ibbf8nY3ek_zHxQAqnV/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Hunted...",
+    author: "Mr.Bombastic",
+    releaseDate: "2011-07-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1eJ38YXnuVG0pHddcZYv8IPp8T-r7YfqE/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Insanity: Nocturnal Confusion",
+    author: "dnalange",
+    releaseDate: "2012-04-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1oe7EyN4RkC-W3x1IMzCg-xh9EWBO_AAt/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Into the Darkness",
+    author: "Anthony",
+    releaseDate: "2014-10-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1_gUIuwkez8IM8NkyU8ZyBddOAYdzqVqe/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Invitation",
+    author: "DarkMattNoir",
+    releaseDate: "2020-02-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1rrVJtf3fNndden31jTa9dAJUVjrGlgSQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "ITS COMPLECATED",
+    author: "BASSIM CH",
+    releaseDate: "2012-08-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/16BtckUts7EdGzwarFHo2NhmGyH_GTaYP/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Jacks Survival",
+    author: "MyPetCreeper (Jack)",
+    releaseDate: "2011-06-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/167MjdRExyvpaeSWaMiaEwrmykxphLiVv/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Jekyll and Hyde",
+    author: "Niki .H.",
+    releaseDate: "2012-01-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1CqVq1ArNGoWtKJm9mjb8M-RPvhaPwEEP/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Jesus Phobias",
+    author: "Willy",
+    releaseDate: "2012-11-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1zfxx1H_JkaIn0G3vHTS0lf2iJcgmocOm/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Keelans first map",
+    author: "Keelans",
+    releaseDate: "2011-07-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1j7ABW0pb-End2SE_5Pz5hr_lYQyXOIkh/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Klieur cs",
+    author: "Klieur",
+    releaseDate: "2012-07-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Xq3EPWIe_cEAoVjnorcHJ9Lcn_I96P_7/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Korku Okulu",
+    author: "Berk882",
+    releaseDate: "2018-10-13",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1a3Q-Fzv2FjKSddRT8mu-MlZxBRjPJAxX/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Laberinto Infernal",
+    author: "FerTroll",
+    releaseDate: "2012-09-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1eRk6tVPVafjYK_z3-srN7fv-iHUW48OX/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Labyrinth",
+    author: "Flashlt",
+    releaseDate: "2013-02-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Ztb6gz8hXNDIRoYmmcFkVkMmNdXxV5HQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "L'antre de la peur",
+    author: "Guillaume",
+    releaseDate: "2010-09-20",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/11oXH0E3tcjFmpUWzvgPuPadzErHrgMwA/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Legacy - An Unwanted Heritage",
+    author: "Castlevalley",
+    releaseDate: "2013-09-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ak_rUb3nuA8y_1MmT9EeAifYCc2rTxP0/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "LightingEngine",
+    author: "???",
+    releaseDate: "2011-12-04",
+    type: "Addon",
+    downloadLink: "https://drive.google.com/file/d/1Ho5yfseIyBjVqZRaNXH9TgkRKvsyl0LD/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "L'Incubo",
+    author: "Andrei",
+    releaseDate: "2013-10-29",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1epEMkp-6-tsLrYV6oYEKs22-hWJRK4Gs/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Locked",
+    author: "Peter_Tosh",
+    releaseDate: "2011-10-14",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1eVIb98SDOT-psZhTnqAp8ZwizT2PnCwR/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "A long way home",
+    author: "Bartimeus",
+    releaseDate: "2012-06-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1xS6dYXxGw80HGPjDTf0QH1kA-UL28teQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Losing Your Mind Pt.2",
+    author: "Allu442",
+    releaseDate: "2014-03-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/181kmcmrCqDEhY6nsnWHF8pi3Lq0h78wX/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Losing your mind",
+    author: "Allu442",
+    releaseDate: "2013-03-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1hY6-Z0Jh_gDEVIh9N6g4Le910rH8Sr90/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Lost custom story",
+    author: "headlesscyborg",
+    releaseDate: "2021-02-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/14z_YlJoLKts3WDtPQ1wE7_pQO_bBOaRC/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Lost",
+    author: "JacobRR AkA Dizturbed",
+    releaseDate: "2011-07-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/16-v51eil6AwSIBGLMcKCo2ffsH-4MLLa/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Lot 40",
+    author: "Streetboat aka Jamie Rodel",
+    releaseDate: "2014-02-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1wvcJAbX_wuFtkTzhlWHaDnbk4366LHGi/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "LuFFarN's house",
+    author: "Rocklight",
+    releaseDate: "2011-12-15",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1-0nmZD10RDqhZgvV9xveQRoiGroabMYZ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Mansion Of Jumpscares",
+    author: "Allu442",
+    releaseDate: "2014-03-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/10wFUBH7E2Q0I330IMWsyi3wByk4G8qhh/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Markiplier's Worst Dream",
+    author: "Yamimash The Killer",
+    releaseDate: "2014-01-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/14temH3R3SqJiXRdBFj9r8ha2SiGeFq_y/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Maze",
+    author: "mrOogadeeboogadee",
+    releaseDate: "2012-04-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NkoR-QoKuybKeZ1JExQswc0oswS7dQMx/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Meine lieben Komissare!",
+    author: "Der Moerder",
+    releaseDate: "2014-05-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1vvgBh7-1c33quvw-gaZPdwbbJkg5Nhk1/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Memoirs of a Dead Man",
+    author: "Tyrant T100",
+    releaseDate: "2011-02-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1X9TjbRGvEBlYS1jK68vbAaA4o4mcC2L_/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Metus",
+    author: "Koopa Rs07",
+    releaseDate: "2016-08-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1tu21nNWi1A9FP1CgzjU1Lyww9rUADR-d/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Recipe of Horror - Mind's Maze",
+    author: "Clord",
+    releaseDate: "2012-04-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1IijTJRHpDvpQHUeetUX0ijJ1QV0ToX6-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Mjnj Amnesja",
+    author: "Roozy1999",
+    releaseDate: "2017-01-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/14i9l4R0A6hFUjpnNn2HVm5oCqjN56i5H/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Modern",
+    author: "Jamessnk1",
+    releaseDate: "2012-05-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yoWHU1BbdMbSNpUGDZa5jwTta6y9HlBG/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "My Wife",
+    author: "HollowRiku13",
+    releaseDate: "2012-01-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ubhE-BItPowX1yil6h4ALp87Fz5JCZHt/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "My First Custom Story",
+    author: "13oneheaD",
+    releaseDate: "2013-05-20",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ssilbS1H3cHvKGhvzS4bOWqiHHjo0Jy2/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Not a map",
+    author: "Marvelous Turtle",
+    releaseDate: "2013-03-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1SS4tT6ak6j81ifQx30n7kVG-PCjBHIfM/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "My Portrayal",
+    author: "Roozy1999",
+    releaseDate: "2017-07-07",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1qhb3wH8U_YkG9MW9vgKg5N8mSGjw5KOo/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Mysterious mansion",
+    author: "Cisu",
+    releaseDate: "2013-11-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1SLPHo6_5OIaGVenasaOWnUhkMHqe9qXB/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Tech Demo",
+    author: "Super Smash Brother",
+    releaseDate: "2019-06-26",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1qrXvVi_QvyBTeLwjgMMflGWs4mwxiXg8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Nightmare While Awake",
+    author: "Ironman0001",
+    releaseDate: "2012-09-29",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1i2jrV7yidYJw96Wx5N7_xIjDKZJEwEz1/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Backhall - Map feature reworked!",
+    author: "Palistov",
+    releaseDate: "2011-03-28",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1bfsaFu3mUx8FHikZBzEKRp5cDlbJLure/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Pewdie`s Story",
+    author: "TheProgamingmodz",
+    releaseDate: "2014-05-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1JRdkAgjKzLCbRt2Txb5DQJhEeZlN5Yd8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "PewDiePie's Nightmare 2",
+    author: "EmmetVG AKA Oliver Karlsson",
+    releaseDate: "2011-12-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/19g_fpIu279JsuVXMHoFdk7TjUPpPHi7V/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "PewDiePie's Nightmare",
+    author: "EmmetVG AKA Oliver Karlsson",
+    releaseDate: "2011-11-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yx4bKs2lKwG18oxVxLqRjaHHIghAk_qs/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Phengophobia FUNNY FCKING VERSION!",
+    author: "ME YOU BITCH!",
+    releaseDate: "2012-06-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/13ann9VBYlSMNYnvWbKQAieGy5TVeSAUm/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Pinnacle of Evolution",
+    author: "Connor",
+    releaseDate: "2013-02-15",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VtYV-FkxGqSjLx0ee_x7MfpyrbSwNXpc/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Playground",
+    author: "Apfel",
+    releaseDate: "2011-10-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1fn8WZHzeYM6ud-IsJaY7GOxXpekqYLu-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Polaris",
+    author: "Kalaallit-Games",
+    releaseDate: "2014-09-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1cxaYyZqa2x0FUtNYE4YexKzwkfUVb3Ao/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The.Haunted.Swimming.Pool",
+    author: "Sally",
+    releaseDate: "2012-06-19",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1W88I6R0x0zOLaFGNdJG9jmjCFQ5m-ylW/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Posiadlosc Ferenczego",
+    author: "Belaiel",
+    releaseDate: "2013-01-21",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1iKGK18u4vTLCp6FfVuob2lDw_jg-pfqx/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Psychedelia III: Dark Hole",
+    author: "Markiisit",
+    releaseDate: "2012-06-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1YsWbJ65EOG2pG7gbGXHyQUKGiU86TcxU/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Raleigh",
+    author: "Nanatsumi",
+    releaseDate: "2015-11-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VlleiQccEJozKzJkZz7loJImg09m908e/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Escape From Refuge",
+    author: "Carlos Garcia",
+    releaseDate: "2014-10-31",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1PZmI9WeQL_gsOcBIiKCvBqym4PEQF80O/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "REGRESSION",
+    author: "WithoutPixel",
+    releaseDate: "2015-12-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NGwMEofcmpqlDb0Dcm56cUNGhiIudxrt/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Resident Evil (it needs a password to extract it??)",
+    author: "???",
+    releaseDate: "2012-06-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/13qrljbNTQi818VLJuUrLSY7hPx16VsF8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Revenge",
+    author: "Demondays1",
+    releaseDate: "2012-06-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1nP-GH0CCT09UX_cMHzc3ZQk3O0gFWryE/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "roflmao",
+    author: "Devin413",
+    releaseDate: "2011-11-23",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1sfcQ3-73Qb1DVrDNkn-AleyBi5NDhQh1/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Romulator's Light Test",
+    author: "Romulator",
+    releaseDate: "2014-08-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/15hwKtD78KryJ7btrlt6RQSo8G69V65uH/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Sanity",
+    author: "Game",
+    releaseDate: "2012-04-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NB4PRwfsP9gABiDnCQyY8LcHaUId4uyd/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Scare",
+    author: "Skullcruncher",
+    releaseDate: "2013-01-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1mAYFml2Z8gmqNNIwcSUgE6IXqy_stmaU/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "SCP-beta",
+    author: "reaaL",
+    releaseDate: "2012-03-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1JS5Wa9WhJNI0s_13EGEe6qH5yArYnUWq/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Secrets of the castle",
+    author: "HenryCombine",
+    releaseDate: "2021-08-03",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1eSt8gIgddVJ76tFWDUepcxnN722x-VmQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Servant's story",
+    author: "X4anco",
+    releaseDate: "2011-06-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Kf-OhdEqa_xq1mov0CjTaBxS1KFfKLmI/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Shades Of Clarity",
+    author: "Descented Angel",
+    releaseDate: "2013-01-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/13RV-U2r0Gy81qUIC6yLEuI2mBrQlxr0X/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Simba",
+    author: "Zizilon",
+    releaseDate: "2014-10-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1A_E9HQcFDfvwwn0KBudmHe8hXs75-JyA/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Sins Of The Father",
+    author: "Mr. Wake",
+    releaseDate: "2012-12-11",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1z6M62yExaPPfRQDoq89WA-AQ9M4vGID-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Sitis (just a map file)",
+    author: "TrollingAntMan",
+    releaseDate: "2017-09-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1nD6Zui5Q3FhcWRb19DpHQYJC43zh66-z/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Slender:curse of hope",
+    author: "???",
+    releaseDate: "2013-01-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1LpjNcvD16F-DjDgMMP9kE0gGfGLG3zrq/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Someplace",
+    author: "Combustible Lemon",
+    releaseDate: "2012-04-15",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1vyUMoQz8SM7XNhsnOXZMlj0s7HP5ALQ2/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Sorrows",
+    author: "Rusty Shackleford",
+    releaseDate: "2013-03-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1WmFd7Mky0ppYozei8VoKz4fFz00Cslqx/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Special Environments HPL2 Tech Demo",
+    author: "The Dev Box",
+    releaseDate: "2012-12-31",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1XQoQq-MA_KE7_gAJE5oKeWsNIUJdL4Zq/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Stalking",
+    author: "Austums",
+    releaseDate: "2011-03-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1tTvSRBuYxN5WXOtVwogDpSpkW65smt0V/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Stew Adventures Part 2",
+    author: "The stew god",
+    releaseDate: "2012-04-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1RZKHviYPtsXgSwGXiVZYdIlRNLlZK9xQ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "LeftorRight",
+    author: "Nubgamer1",
+    releaseDate: "2011-11-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1VyAcSC2gJp0ijY9RoqaLSRpRpAi6Kp1D/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Survival of the best barricade",
+    author: "Xanco",
+    releaseDate: "2011-04-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Idz_GJX5Z5-6Y10BZjP0zvkTmJ6rUucw/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Takeshi Castle",
+    author: "Brandon",
+    releaseDate: "2012-08-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1gLmGZe3pwrM8Dp5BWfjlZ2xe6OD5kh7x/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Teamnesia - Platform Perils -",
+    author: "Apjjm",
+    releaseDate: "2025-07-21",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ghN-wKSFxAj4vm3pZTCODxjqqm16TyjR/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Test",
+    author: "???",
+    releaseDate: "2011-06-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1CDXWKvEmeiJSvaiQQdqv9tzlMrAHiGl6/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Testing Platform",
+    author: "Frunken Productions",
+    releaseDate: "2012-10-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1WR7xrwVXQgTSv_KJpr7h_pWKcczK_0rR/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Testing Map for helping pusposes",
+    author: "DarkShadowz",
+    releaseDate: "2012-05-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/10leGjRmTBTborPbD5PdxarWo--d6vaIW/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "TestRoom",
+    author: "Earthykiller aka ZGANGZABLE",
+    releaseDate: "2012-11-12",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/122lRB81b1UhflBq7Nx6zk-BHc2C03QUU/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "My Story",
+    author: "Lorian",
+    releaseDate: "2018-11-17",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1n4htiunAPGM5k0mRL9Q2iM5nhz9VM224/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Blue Key",
+    author: "Nemet Robert",
+    releaseDate: "2012-04-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1I3Q9oL8_x0TjIeNwboH7GPmAZtyWppN8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Carnage",
+    author: "Renix",
+    releaseDate: "2011-08-13",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1YqHeP97GDKBy1tUVnomgp014V74bL8RN/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Church Of Mr. Bubz",
+    author: "MaxTheOne",
+    releaseDate: "2021-07-24",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yDR4UditGJqlFubNd9wz-M6hNMZpX9EM/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Cursed House",
+    author: "NoMaD923",
+    releaseDate: "2011-12-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1EKJsJge7HYp0HWG-KMLrLHy7v3V0DEH1/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Forgotten House",
+    author: "Devin413",
+    releaseDate: "2012-01-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1tdkZ-wXDkQ00YAqbgF8D__o6PEkiMScO/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Ghost of Dr. Arachnikara",
+    author: "DragonRuins",
+    releaseDate: "2012-04-14",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1OY1U_0LbNBXJ9VQ1LpSDlZPj8L3sIXB-/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Harrowing Tale Of Redendrew Mansion Demo",
+    author: "D3AD UPR1S1NG",
+    releaseDate: "2011-05-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yv7yBzT_B5KA385aUCQ320RrBikdDNdo/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Psychedelia V: the Rainbow Alley",
+    author: "Markiisit",
+    releaseDate: "2012-06-07",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1eD7MHWARcFx3As5G927_4AfxZrnN28o8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Reapers Dungeon ch1",
+    author: "RougeTheKitty and Stokes46",
+    releaseDate: "2011-12-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ng1aE_GtQV6UNliELZ-H2aqe5bNN6BYt/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Secret Story",
+    author: "David1197 aka. Spooklly",
+    releaseDate: "2025-07-21",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1FKQdXRfeWfoC2qZU0qgLOhBP5_QEaEUT/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Ian's_Map",
+    author: "HAHAHAHAHAHAHHA",
+    releaseDate: "2012-02-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1e05hB9loojOjfXCDy85F1Dn7hyo-Pjvv/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Bro Heresy",
+    author: "Arklancer",
+    releaseDate: "2014-10-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1wrQQHfnxTVBAqmcFZPjt1jxcAPhC213s/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The_Dark_Haunting",
+    author: "Jamessnk1,DarkEchoTX",
+    releaseDate: "2012-03-30",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Yop_qcGdFy5eTky07yFMZbgXdTwd0p4a/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Dark Storage",
+    author: "XDJ5000",
+    releaseDate: "2017-02-04",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1njrg9s8wi07FafgifV83v71EC__R5OCb/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Escape",
+    author: "Pyovali",
+    releaseDate: "2012-04-09",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1px0DQLojc9hkIg5tw8AnWFwj3Gbd4wqV/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Great Out doors",
+    author: "Aidan499",
+    releaseDate: "2011-05-01",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1aqF8dcFTh4hS-_jpTVY_IHIgf4iO7mu8/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Example Story",
+    author: "Thee Puppy",
+    releaseDate: "2012-04-08",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1tiI04PIizQblOwGkR8UQrmLwl-DniuZN/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Mist",
+    author: "Strigge",
+    releaseDate: "2012-06-22",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1NpobZM5O7utjESpEv1CzjtCMEbYn1ym_/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Room",
+    author: "FAROX",
+    releaseDate: "2019-12-21",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1MOoRpt5P-L5HjL52wi4VgBoqfuTpn8_C/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Theblood",
+    author: "Amneisatank",
+    releaseDate: "2011-12-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1b7JOJGbpF405COvqc7sre91YsDHSrUSJ/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "The Cave Of Imperalism (just a map file)",
+    author: "greenbumpymug",
+    releaseDate: "2013-07-10",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1cBbJI1O-3KB5E3TVSJtIlhJYz9WGvPex/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "TheHouse",
+    author: "Asaratha",
+    releaseDate: "2012-04-16",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1ZBwfGO71nFLIdkHMGerICBsDYYPm3ERW/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "To the woods",
+    author: "Karl-Anthon Krutholm",
+    releaseDate: "2014-03-27",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1WKFpc2y4i6Z6bWc6pYGdxpaY-LolRrVM/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Trololol",
+    author: "Btang",
+    releaseDate: "2012-07-31",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1Uy8PYZjCpPsP9ELM-mbpCEAMlVyhhhjA/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Vicarious Insanity",
+    author: "Snuffalofagus",
+    releaseDate: "2011-07-25",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1EAxUIBWbvHWcm7lGWjEL1QuwwhGTEUkY/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Wake up Pewdie",
+    author: "SporreKing",
+    releaseDate: "2012-03-18",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1PZCVrpVz5o0VFfGsP2bM8gNlilPob4_Y/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Waking up part 1",
+    author: "TeeZaah and Mouse",
+    releaseDate: "2015-12-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1dhGsKtM5xjV8V1sAhocUvhOhVoedaQ_m/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "When The Pain Is Side Issue Part2",
+    author: "Jussi (Unearthlybrutal)",
+    releaseDate: "2012-05-06",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1yTicjJxVDx96ttYakO2TvWZ8NLY9gz3V/view?usp=drive_link"
+  }
+  ,
+  {
+    title: "Custom",
+    author: "Zinnkio",
+    releaseDate: "2012-07-19",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1sk7X_DgX5Y6h3zRki06iql-EwZqSJt1i/view?usp=drive_link"
+  }
 ];
+
 
 
 
