@@ -10782,7 +10782,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1sk7X_DgX5Y6h3zRki06iql-EwZqSJt1i/view?usp=drive_link"
   }
+  ,
+  {
+    title: "The Golden",
+    author: "bobobobobo & more",
+    releaseDate: "2024-01-05",
+    type: "Custom Story",
+    downloadLink: "https://drive.google.com/file/d/1QIUOy-fiN-xWSAziSju-O7HHcyM8Qbx1/view?usp=drive_link"
+  }
 ];
+
 
 
 
