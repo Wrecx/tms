@@ -9186,7 +9186,7 @@ const mods = [
   {
     title: "jorngo's lament",
     author: "xX_gorbo_Xx",
-    releaseDate: "0000",
+    releaseDate: "2025-08-31",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/drive/folders/1PEi1Eb6KHQIU6ivC9gQm3FJD05eoJTjy?usp=drive_link"
   }
@@ -10791,6 +10791,7 @@ const mods = [
     downloadLink: "https://drive.google.com/file/d/1QIUOy-fiN-xWSAziSju-O7HHcyM8Qbx1/view?usp=drive_link"
   }
 ];
+
 
 
 
