@@ -102,4 +102,20 @@ const mods2 = [
     type: "Addon",
     download: "https://www.moddb.com/mods/grunt-go-go-pals-mod/addons/grunt-go-go-pals-mod"
   }
+  ,
+  {
+    title: "Christmas Special",
+    author: "Gareth17andMinnie14",
+    releaseDate: "2019-02-21",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/christmas-special"
+  }
+  ,
+  {
+    title: "PewDiePie Background",
+    author: "Gareth17andMinnie14",
+    releaseDate: "2018-03-10",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-the-dark-descent-pewdiepie-background"
+  }
 ];
