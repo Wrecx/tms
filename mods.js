@@ -3337,7 +3337,7 @@ const mods = [
   ,
   {
     title: "The Curse Of Lost Memories",
-    author: "XDJ",
+    author: "nerfedanto",
     releaseDate: "2020-12-12",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-curse-of-lost-memories/downloads/the-curse-of-lost-memories-full-version"
@@ -3345,7 +3345,7 @@ const mods = [
   ,
   {
     title: "Lower volume terror meter sound",
-    author: "XDJ",
+    author: "nerfedanto",
     releaseDate: "2017-10-07",
     type: "Addon",
     downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/addons/lower-volume-terror-meter-sound"
@@ -3353,7 +3353,7 @@ const mods = [
   ,
   {
     title: "The Darkest Descent",
-    author: "XDJ",
+    author: "nerfedanto",
     releaseDate: "2020-06-27",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-darkest-descent/downloads/tdd-greedy-version"
@@ -3361,7 +3361,7 @@ const mods = [
   ,
   {
     title: "The Woods Of Lost Memories",
-    author: "XDJ",
+    author: "nerfedanto",
     releaseDate: "2018-08-29",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/woods-of-lost-memories/downloads/woods-of-lost-memories-v270"
@@ -3369,7 +3369,7 @@ const mods = [
   ,
   {
     title: "The Maze Of Lost Memories",
-    author: "XDJ",
+    author: "nerfedanto",
     releaseDate: "2016-09-25",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/downloads/the-maze-of-lost-memories-v75"
@@ -4664,14 +4664,6 @@ const mods = [
   }
   ,
   {
-    title: "Christmas Special",
-    author: "Gareth17andMinnie14",
-    releaseDate: "2019-02-21",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/christmas-special"
-  }
-  ,
-  {
     title: "Alemimi's Survival",
     author: "alemimi3",
     releaseDate: "2010-11-24",
@@ -5189,14 +5181,6 @@ const mods = [
     releaseDate: "2018-03-27",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lux-tenebris/downloads/lux-tenebris"
-  }
-  ,
-  {
-    title: "PewDiePie Background",
-    author: "Gareth17andMinnie14",
-    releaseDate: "2018-03-10",
-    type: "Addon",
-    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-the-dark-descent-pewdiepie-background"
   }
   ,
   {
@@ -10657,7 +10641,7 @@ const mods = [
   ,
   {
     title: "The Dark Storage",
-    author: "XDJ5000",
+    author: "nerfedanto",
     releaseDate: "2017-02-04",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1njrg9s8wi07FafgifV83v71EC__R5OCb/view?usp=drive_link"
@@ -10790,7 +10774,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1QIUOy-fiN-xWSAziSju-O7HHcyM8Qbx1/view?usp=drive_link"
   }
+  ,
+  {
+    title: "The Entity's Trials",
+    author: "nerfedanto",
+    releaseDate: "2025-12-06",
+    type: "Custom Story",
+    downloadLink: "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy8zM2NjN2I3MzgyZDM4ZjY5L0VRb2xRb0RjQ2Y5TnVjNUxtT09GVm1RQlY4aXVYT2piNzJadzYtZDZ0REh6S1E%5FZT1FUU5SaVg&cid=33CC7B7382D38F69&id=33CC7B7382D38F69%21s8042250a09dc4dffb9ce4b98e3855664&parId=33CC7B7382D38F69%21s5c6d4a35c2ed4c7dafb887781cc8a655&o=OneUp"
+  }
 ];
+
 
 
 
