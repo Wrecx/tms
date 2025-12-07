@@ -10782,7 +10782,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy8zM2NjN2I3MzgyZDM4ZjY5L0VRb2xRb0RjQ2Y5TnVjNUxtT09GVm1RQlY4aXVYT2piNzJadzYtZDZ0REh6S1E%5FZT1FUU5SaVg&cid=33CC7B7382D38F69&id=33CC7B7382D38F69%21s8042250a09dc4dffb9ce4b98e3855664&parId=33CC7B7382D38F69%21s5c6d4a35c2ed4c7dafb887781cc8a655&o=OneUp"
   }
+  ,
+  {
+    title: "Glicea: The Vessel",
+    author: "starstormm",
+    releaseDate: "2025-12-07",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v10"
+  }
 ];
+
 
 
 
