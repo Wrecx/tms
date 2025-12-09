@@ -10790,7 +10790,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v10"
   }
+  ,
+  {
+    title: "Lifeless - Descent Into Abandon",
+    author: "Anathema Syndicate",
+    releaseDate: "2025-12-09",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-10"
+  }
 ];
+
 
 
 
