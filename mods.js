@@ -4827,7 +4827,7 @@ const mods = [
     title: "We Are The Pig",
     author: "smash studios",
     releaseDate: "2019-06-26",
-    type: "Custom Story",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/mods/we-are-the-pig-an-amnesia-a-machine-for-pigs-remake/downloads/we-are-the-pig-techdemo"
   }
   ,
@@ -10799,6 +10799,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-10"
   }
 ];
+
 
 
 
