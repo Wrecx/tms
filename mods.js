@@ -11,7 +11,7 @@ const mods = [
     title: "Selphium",
     author: "LivajQ ",
     releaseDate: "2020-12-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/downloads/selphium12"
   }
   ,
@@ -19,7 +19,7 @@ const mods = [
     title: "Tales of Survivalists",
     author: "LivajQ ",
     releaseDate: "2021-10-14",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/tales-of-survivalists/downloads/tales-of-survivalists-release-10"
   }
   ,
@@ -51,7 +51,7 @@ const mods = [
     title: "Ancient Showdown",
     author: "LivajQ",
     releaseDate: "2022-01-17",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://drive.google.com/file/d/1nYCIXYyK3uBSrC0KCX9_Rk98hYkqmQs6/view"
   }
   ,
@@ -59,7 +59,7 @@ const mods = [
     title: "Coulrophobia",
     author: "Skashi",
     releaseDate: "2023-08-30",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/coulrophobia1"
   }
   ,
@@ -683,7 +683,7 @@ const mods = [
     title: "The Cellar",
     author: "Lester79",
     releaseDate: "2019-02-13",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/the-cellar/downloads/the-cellar-revision-2022"
   }
   ,
@@ -739,7 +739,7 @@ const mods = [
     title: "Le fardeau de Lefay",
     author: "Sabatu",
     releaseDate: "2019-12-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-le-fardeau-de-lefay/downloads/final-lefay"
   }
   ,
@@ -755,7 +755,7 @@ const mods = [
     title: "The Confession - FanJam Micro Mod",
     author: "Sabatu",
     releaseDate: "2021-08-28",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-confession-fanjam-micro-mod/downloads/fanjam-confession-sabatu-full-version"
   }
   ,
@@ -795,7 +795,7 @@ const mods = [
     title: "Baxter's Memoirs - Act 1 - Black Mirror",
     author: "Sabatu",
     releaseDate: "2021-11-04",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/baxter-black-mirror/downloads/baxters-memoirs-act-1-black-mirror-definitive-edition"
   }
   ,
@@ -827,7 +827,7 @@ const mods = [
     title: "Time Distortion",
     author: "Kiralmmortal",
     releaseDate: "2013-12-07",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/time-distortion/downloads/desolation-12-version"
   }
   ,
@@ -835,7 +835,7 @@ const mods = [
     title: "Wheezy Everlasting (WE)",
     author: "Kiralmmortal",
     releaseDate: "2014-10-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/wheezyeverlasting/downloads/wheezy-everlasting-1-2"
   }
   ,
@@ -843,7 +843,7 @@ const mods = [
     title: "Non Omnis Moriar",
     author: "Kiralmmortal",
     releaseDate: "2016-02-29",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/machine-for-pigs-asset-pack-for-tdd/downloads/non-omnis-moriar-v14"
   }
   ,
@@ -851,7 +851,7 @@ const mods = [
     title: "Profound Decay",
     author: "Kiralmmortal",
     releaseDate: "2016-09-10",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/black-eagle-tavern-tales/downloads/profound-decay"
   }
   ,
@@ -883,7 +883,7 @@ const mods = [
     title: "Quartz and Cordite - WE",
     author: "Kiralmmortal",
     releaseDate: "2023-05-20",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/quartz-and-cordite/downloads/quartz-and-cordite-08-beta-demo"
   }
   ,
@@ -899,7 +899,7 @@ const mods = [
     title: "Esophagus",
     author: "Kiralmmortal",
     releaseDate: "2023-12-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/pandemia-escondida/downloads/esophagus-10"
   }
   ,
@@ -963,7 +963,7 @@ const mods = [
     title: "The First Sin, Prologue",
     author: "Kiralmmortal",
     releaseDate: "2015-04-03",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/occult-clockwork-24-hours/addons/the-first-sin-prologue-full-conversion"
   }
   ,
@@ -971,7 +971,7 @@ const mods = [
     title: "The First Sin, Remembrance",
     author: "Kiralmmortal",
     releaseDate: "2015-04-07",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/occult-clockwork-24-hours/addons/the-first-sin-remembrance-second-chapter"
   }
   ,
@@ -979,7 +979,7 @@ const mods = [
     title: "The First Sin, Outlaw",
     author: "Kiralmmortal",
     releaseDate: "2016-11-22",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/occult-clockwork-24-hours/addons/the-first-sin-outlaw-ch3"
   }
   ,
@@ -1011,7 +1011,7 @@ const mods = [
     title: "La Caza",
     author: "Russ_Money",
     releaseDate: "2011-04-17",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/la-caza/downloads/la-caza-full-conversion-mod"
   }
   ,
@@ -1067,7 +1067,7 @@ const mods = [
     title: "Through the Portal",
     author: "DamnNoHtml",
     releaseDate: "2011-06-11",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-through-the-portal/downloads/through-the-portal-better-conversion"
   }
   ,
@@ -1379,7 +1379,7 @@ const mods = [
     title: "The Search of the Unique Flashlight - Reimagined",
     author: "Wrecx",
     releaseDate: "2022-08-14",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/the-search-of-the-unique-flashlight-reimagined/downloads/the-search-of-the-unique-flashlight-reimagined"
   }
   ,
@@ -1395,7 +1395,7 @@ const mods = [
     title: "Tower Descent - Chapter One",
     author: "Wrecx",
     releaseDate: "2024-09-17",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/tower-descent/downloads/tower-descent-chapter-one"
   }
   ,
@@ -1403,7 +1403,7 @@ const mods = [
     title: "House of Retards",
     author: "Wrecx",
     releaseDate: "2022-02-21",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://drive.google.com/file/d/1wErSvvbfG4nTLU6EXZ5tU2TLOiLGTEMG/view?usp=sharing"
   }
   ,
@@ -1507,7 +1507,7 @@ const mods = [
     title: "White Night",
     author: "Tanshaydar",
     releaseDate: "2011-10-12",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/white-night/downloads/white-night-full-release-v112"
   }
   ,
@@ -1683,7 +1683,7 @@ const mods = [
     title: "Confederacy's Nightmare",
     author: "ggstarfoxxie",
     releaseDate: "2011-12-30",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/confederacys-nightmare/downloads/confederacys-nightmare-fixed-version-11"
   }
   ,
@@ -1795,7 +1795,7 @@ const mods = [
     title: "My Work",
     author: "Montano4ka",
     releaseDate: "2025-07-02",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/my-work/downloads/my-work-eng"
   }
   ,
@@ -1827,7 +1827,7 @@ const mods = [
     title: "Premonition",
     author: "DnALANGE",
     releaseDate: "2013-12-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/premonition/downloads/premonition-21a"
   }
   ,
@@ -1947,7 +1947,7 @@ const mods = [
     title: "The Trapdoor",
     author: "Aetheric Games",
     releaseDate: "2014-04-29",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/the-trapdoor/downloads/thetrapdoor-32"
   }
   ,
@@ -2035,7 +2035,7 @@ const mods = [
     title: "Sclerosis: an Amnesia VR remake",
     author: "CreaTeam",
     releaseDate: "2023-11-06",
-    type: "Addon",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/sclerosis-an-amnesia-vr-remake/downloads/sclerosis-an-amnesia-vr-remake"
   }
   ,
@@ -2059,7 +2059,7 @@ const mods = [
     title: "The Lost One",
     author: "MrSheriff",
     releaseDate: "2023-10-25",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/the-lost-one"
   }
   ,
@@ -2251,7 +2251,7 @@ const mods = [
     title: "SCP : Dark Confinement Origins",
     author: "Dark Confinement Studios",
     releaseDate: "2022-04-15",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/scp-dark-confinement-origins1/downloads/scp-dark-confinement-origins-chapter-1"
   }
   ,
@@ -2299,7 +2299,7 @@ const mods = [
     title: "Loner Mansion",
     author: "Lou4o4",
     releaseDate: "2022-01-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-loner-mansion/downloads/amnesia-loner-mansion-extended-demo-v10"
   }
   ,
@@ -2323,14 +2323,14 @@ const mods = [
     title: "The Fugitive - Episode Two",
     author: "SwedishGames",
     releaseDate: "2013-12-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-fugitive-episode-two/downloads/the-fugitive-2-better-conversion-bathroom-fix"
   }
   ,
   {
     title: "The Fugitive - Episode Three",
     author: "SwedishGames",
-    releaseDate: "2015-09-02",
+    releaseDate: "Full Conversion",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-fugitive-episode-three/downloads/the-fugitive-3-version-12"
   }
@@ -2587,7 +2587,7 @@ const mods = [
     title: "Permafrost Mountain",
     author: "OddStuff",
     releaseDate: "2020-01-26",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/permafrost-mountain/downloads/permafrost-mountain-v11"
   }
   ,
@@ -2963,7 +2963,7 @@ const mods = [
     title: "Cry Oni Part 1",
     author: "Vitor Frias (Vyzer)",
     releaseDate: "2012-06-22",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/downloads/cry-oni-part-1/#8215387"
   }
   ,
@@ -3491,7 +3491,7 @@ const mods = [
     title: "Dreadscape",
     author: "Dark Confinement Studios",
     releaseDate: "2020-10-01",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-dreadscape/downloads/dreadscape-v11-patch-chapter-1-patch-and-chapter-2-release"
   }
   ,
@@ -3555,7 +3555,7 @@ const mods = [
     title: "Amnesia: The Dark Descent - Remastered",
     author: "florian.",
     releaseDate: "2020-06-27",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-remastered/downloads/amnesia-the-dark-descent-remastered-final"
   }
   ,
@@ -3651,7 +3651,7 @@ const mods = [
     title: "Eldritch Cove",
     author: "Darkfires",
     releaseDate: "2020-08-05",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/eldritch-cove/downloads/eldritch-cove"
   }
   ,
@@ -3787,7 +3787,7 @@ const mods = [
     title: "The Woodpecker",
     author: "Yanka",
     releaseDate: "2020-01-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/the-woodpecker/downloads/the-woodpecker-10"
   }
   ,
@@ -3795,7 +3795,7 @@ const mods = [
     title: "Forbidden Trip - Cadaver Party Project",
     author: "Yanka",
     releaseDate: "2022-10-14",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/cadaver-party/downloads/forbidden-trip-early-access-patch-11"
   }
   ,
@@ -3851,7 +3851,7 @@ const mods = [
     title: "Trapped in Broadmoor",
     author: "Scarily Olivia",
     releaseDate: "2024-08-28",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3319662418&searchtext="
   }
   ,
@@ -4307,7 +4307,7 @@ const mods = [
     title: "TDD Christmas TC, ''Oh Silent Night''",
     author: "Statyk",
     releaseDate: "2011-12-26",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/groups/amnesia-modders/addons/an-amnesia-tdd-christmas-tc-oh-silent-night"
   }
   ,
@@ -4739,7 +4739,7 @@ const mods = [
     title: "AMNESIA '98",
     author: "Stayd",
     releaseDate: "2019-10-30",
-    type: "Addon",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-98/downloads/amnesia-98-v10"
   }
   ,
@@ -4891,7 +4891,7 @@ const mods = [
     title: "Destiny Revenant",
     author: "umbakarna",
     releaseDate: "2016-02-02",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/destiny-revenant/downloads/destiny-revenant-10"
   }
   ,
@@ -4899,7 +4899,7 @@ const mods = [
     title: "MANA",
     author: "umbakarna",
     releaseDate: "2014-10-25",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/mana-full-conversion-mod/downloads/mana-10-download"
   }
   ,
@@ -4907,7 +4907,7 @@ const mods = [
     title: "META",
     author: "umbakarna",
     releaseDate: "2014-10-25",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/meta-full-conversion-mod/downloads/meta-10-download"
   }
   ,
@@ -5171,7 +5171,7 @@ const mods = [
     title: "Penumbra: Prisoner of Fate Demo",
     author: "CounterCurrent_Games",
     releaseDate: "2018-03-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/penumbra-prisoner-of-fate-demo/downloads/prisoner-of-fate-demo-eng"
   }
   ,
@@ -5227,7 +5227,7 @@ const mods = [
     title: "Amadeus",
     author: "Reminiscity",
     releaseDate: "2017-12-03",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amadeus/downloads/amadeus-v10"
   }
   ,
@@ -5291,7 +5291,7 @@ const mods = [
     title: "Delightful Decay",
     author: "SKuLL Mods",
     releaseDate: "2017-03-08",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/delightful-decay/downloads/delightful-decay-v152"
   }
   ,
@@ -5363,7 +5363,7 @@ const mods = [
     title: "Penumbra: II",
     author: "Bgproductions",
     releaseDate: "2017-06-10",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/penumbra-ii/downloads/penumbra-v-02"
   }
   ,
@@ -5387,7 +5387,7 @@ const mods = [
     title: "Penumbra: Europa",
     author: "Bgproductions",
     releaseDate: "2017-05-20",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/penumbra-europa/downloads/penumbra-europa-v01-english"
   }
   ,
@@ -5459,7 +5459,7 @@ const mods = [
     title: "phenomenon",
     author: "StasFedoroV",
     releaseDate: "2016-12-02",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/phenomenon/downloads/phenomenon-v-102"
   }
   ,
@@ -5483,7 +5483,7 @@ const mods = [
     title: "The Streets of London",
     author: "NewsmanWaterpaper",
     releaseDate: "2016-11-27",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-streets-of-london/downloads/amnesia-the-streets-of-london"
   }
   ,
@@ -5723,7 +5723,7 @@ const mods = [
     title: "Cry Oni Part 2",
     author: "Vitor Frias (Vyzer)",
     releaseDate: "2012-08-08",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://drive.google.com/file/d/13Ao9QZq5xdcrQTQGHgjO9vp9x8yRMVT7/view?usp=drive_link"
   }
   ,
@@ -5755,7 +5755,7 @@ const mods = [
     title: "Penumbra: Twilight Of The Archaic",
     author: "CounterCurrent_Games",
     releaseDate: "2015-10-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/penumbra-twilight-of-the-archaic/downloads/twilight-of-the-archaic-eng"
   }
   ,
@@ -5771,7 +5771,7 @@ const mods = [
     title: "ENIGMA",
     author: "DnALANGE",
     releaseDate: "2015-07-07",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/enigma2/downloads/e-n-i-g-m-a-version-13"
   }
   ,
@@ -5851,7 +5851,7 @@ const mods = [
     title: "In Lucy's Eyes",
     author: "Red Line Games",
     releaseDate: "2014-12-14",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/in-lucys-eyes/downloads/in-lucys-eyes"
   }
   ,
@@ -5931,7 +5931,7 @@ const mods = [
     title: "The Second Dimension",
     author: "Aetheric Games",
     releaseDate: "2015-06-10",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-second-dimension/downloads/amnesia-the-second-dimension-v20-installer"
   }
   ,
@@ -6027,7 +6027,7 @@ const mods = [
     title: "Depth",
     author: "Hadareon",
     releaseDate: "2015-01-21",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-depth/downloads/amnesia-depth-full-eng"
   }
   ,
@@ -6059,7 +6059,7 @@ const mods = [
     title: "Penumbra: Necrologue",
     author: "CounterCurrent_Games",
     releaseDate: "2014-10-31",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/penumbra-necrologue/downloads/necrologue-12-eng"
   }
   ,
@@ -6283,7 +6283,7 @@ const mods = [
     title: "A Coward's Debt",
     author: "Damascus7",
     releaseDate: "2014-04-15",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-a-cowards-debt/downloads/a-cowards-debt-v12-bug-fixes-and-translations"
   }
   ,
@@ -6555,7 +6555,7 @@ const mods = [
     title: "Cycles",
     author: "DamnNoHtml",
     releaseDate: "2013-11-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/cycles/downloads/cycles-v102"
   }
   ,
@@ -6747,7 +6747,7 @@ const mods = [
     title: "Riukka: The girl with a dream",
     author: "Amn",
     releaseDate: "2013-08-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/riukka/downloads/riukka"
   }
   ,
@@ -7155,7 +7155,7 @@ const mods = [
     title: "Bitterwood Peak",
     author: "ibanezGiO961",
     releaseDate: "2013-04-24",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/bitterwood-peak/downloads/bitterwood-peak-optimized"
   }
   ,
@@ -7296,10 +7296,10 @@ const mods = [
   }
   ,
   {
-    title: "Trapped 2",
+    title: "Trapped 1-2",
     author: "TheUnbeholden",
     releaseDate: "2013-03-09",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/amnesia-trapped/downloads/trapped-2"
   }
   ,
@@ -7315,7 +7315,7 @@ const mods = [
     title: "Mental Memorial",
     author: "DnALANGE",
     releaseDate: "2013-02-09",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/mental-memorial/downloads/mental-memorial-full-update-03-03-2013"
   }
   ,
@@ -7403,7 +7403,7 @@ const mods = [
     title: "When Life No Longer Exists",
     author: "Unearthlybrutal",
     releaseDate: "2013-01-29",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/when-life-no-longer-exists/downloads/when-life-no-longer-exists"
   }
   ,
@@ -7499,7 +7499,7 @@ const mods = [
     title: "Disponentia",
     author: "Mackiiboy",
     releaseDate: "2012-09-05",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/disponentia/downloads/disponentia-full-release-light-version-v11"
   }
   ,
@@ -8147,7 +8147,7 @@ const mods = [
     title: "Gary - Dark Secrets",
     author: "Team Seda",
     releaseDate: "2012-06-23",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/gary-dark-secrets/downloads/gary-dark-secrets-chapter-1-version-12"
   }
   ,
@@ -8243,7 +8243,7 @@ const mods = [
     title: "Parasomnia",
     author: "jamesclarke555",
     releaseDate: "2012-06-17",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/parasomnia/downloads/parasomnia"
   }
   ,
@@ -8403,7 +8403,7 @@ const mods = [
     title: "Tenebris Lake",
     author: "Boris Game Studios",
     releaseDate: "2012-05-18",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/tenebris-lake/downloads/tenebris-lake-v10"
   }
   ,
@@ -9091,7 +9091,7 @@ const mods = [
     title: "The Filth Maker",
     author: "Benny_R",
     releaseDate: "2025-10-28",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
   }
   ,
@@ -9099,7 +9099,7 @@ const mods = [
     title: "Year Zero",
     author: "Shyrtexx",
     releaseDate: "2025-11-07",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/year-zero/downloads/year-zero-10"
   }
   ,
@@ -9115,7 +9115,7 @@ const mods = [
     title: "Illusions of the Dead 2",
     author: "TimProzz",
     releaseDate: "2025-11-22",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
   }
   ,
@@ -10259,7 +10259,7 @@ const mods = [
     title: "Polaris",
     author: "Kalaallit-Games",
     releaseDate: "2014-09-30",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://drive.google.com/file/d/1cxaYyZqa2x0FUtNYE4YexKzwkfUVb3Ao/view?usp=drive_link"
   }
   ,
@@ -10787,7 +10787,7 @@ const mods = [
     title: "Glicea: The Vessel",
     author: "starstormm",
     releaseDate: "2025-12-07",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v10"
   }
   ,
@@ -10795,7 +10795,7 @@ const mods = [
     title: "Lifeless - Descent Into Abandon",
     author: "Anathema Syndicate",
     releaseDate: "2025-12-09",
-    type: "Custom Story",
+    type: "Full Conversion",
     downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-10"
   }
 ];
