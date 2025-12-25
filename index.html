@@ -335,11 +335,9 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 
     <label>
       Type:
-      <select id="typeFilter" aria-controls="modsTable">
+      <select id="typeFilter" aria-controls="modsTable" aria-label="Filter mods by type">
         <option value="all" selected>All Types</option>
-        <option value="story+conversion">Custom Story + Full Conversion</option>
         <option value="Custom Story">Custom Story</option>
-        <option value="Full Conversion">Full Conversion</option>
         <option value="Addon">Addon</option>
       </select>
     </label>
@@ -517,19 +515,10 @@ th:nth-child(3)                 { width: 20%; }    /* author */
     return modsArray.filter(mod => new Date(mod.releaseDate).getFullYear().toString() === year);
   }
 
-    function filterByType(type, modsArray) {
-      if (type === 'all') return modsArray;
-
-      if (type === 'story+conversion') {
-        return modsArray.filter(mod =>
-          mod.type === 'Custom Story' ||
-          mod.type === 'Full Conversion'
-        );
-      }
-
-      return modsArray.filter(mod => mod.type === type);
-    }
-
+  function filterByType(type, modsArray) {
+    if (type === 'all') return modsArray;
+    return modsArray.filter(mod => mod.type === type);
+  }
 
   function filterBySearch(text, modsArray) {
     if (!text) return modsArray;
