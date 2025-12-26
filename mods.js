@@ -10798,7 +10798,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-10"
   }
+  ,
+  {
+    title: "Escape Island",
+    author: "CheesyDeveloper",
+    releaseDate: "2025-12-25",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-island/downloads/escape-island-release"
+  }
 ];
+
 
 
 
