@@ -9116,7 +9116,7 @@ const mods = [
     author: "TimProzz",
     releaseDate: "2025-11-22",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v1"
+    downloadLink: "https://www.moddb.com/mods/illusions-of-the-dead-2/downloads/illusions-of-the-dead-2-v2"
   }
   ,
   {
@@ -10807,6 +10807,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/escape-island/downloads/escape-island-release"
   }
 ];
+
 
 
 
