@@ -10788,7 +10788,7 @@ const mods = [
     author: "starstormm",
     releaseDate: "2025-12-07",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v10"
+    downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v11"
   }
   ,
   {
@@ -10807,6 +10807,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/escape-island/downloads/escape-island-release"
   }
 ];
+
 
 
 
