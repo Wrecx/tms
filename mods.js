@@ -10806,7 +10806,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/escape-island/downloads/escape-island-release"
   }
+  ,
+  {
+    title: "Love is Love - Sunburn",
+    author: "Garcia",
+    releaseDate: "2026-01-10",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3643899743"
+  }
 ];
+
 
 
 
