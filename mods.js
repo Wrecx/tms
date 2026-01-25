@@ -10814,7 +10814,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3643899743"
   }
+  ,
+  {
+    title: "Lost World",
+    author: "Zale",
+    releaseDate: "2026-01-25",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3653495856"
+  }
 ];
+
 
 
 
