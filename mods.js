@@ -10822,7 +10822,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3653495856"
   }
+  ,
+  {
+    title: "Zoofy's Compact Inventory",
+    author: "Zoofy",
+    releaseDate: "2026-02-01",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/zoofys-compact-inventory"
+  }
 ];
+
 
 
 
