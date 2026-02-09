@@ -10820,7 +10820,7 @@ const mods = [
     author: "Zale",
     releaseDate: "2026-01-25",
     type: "Custom Story",
-    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3653495856"
+    downloadLink: "https://www.moddb.com/mods/lost-world/downloads/lost-world-version-102"
   }
   ,
   {
@@ -10831,6 +10831,7 @@ const mods = [
     downloadLink: "https://www.moddb.com/mods/zoofys-compact-inventory"
   }
 ];
+
 
 
 
