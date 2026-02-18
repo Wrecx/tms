@@ -10830,7 +10830,16 @@ const mods = [
     type: "Addon",
     downloadLink: "https://www.moddb.com/mods/zoofys-compact-inventory"
   }
+  ,
+  {
+    title: "Escape Curse",
+    author: "CheesyDeveloper",
+    releaseDate: "2026-02-17",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-curse/downloads/escape-curse-full-release"
+  }
 ];
+
 
 
 
