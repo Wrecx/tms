@@ -10838,7 +10838,16 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/escape-curse/downloads/escape-curse-full-release"
   }
+  ,
+  {
+    title: "After Party",
+    author: "Catvan",
+    releaseDate: "2026-03-05",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3679162680"
+  }
 ];
+
 
 
 
