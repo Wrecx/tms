@@ -2458,7 +2458,7 @@ const mods = [
   {
     title: "Multiplayer mod for Amnesia TDD",
     author: "villyfox1101",
-    releaseDate: "2011-11-09",
+    releaseDate: "2021-11-09",
     type: "Addon",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/multiplayer-mod-for-amnesia-tdd"
   }
