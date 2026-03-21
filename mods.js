@@ -1129,7 +1129,7 @@ const mods = [
   ,
   {
     title: "The Attic",
-    author: "Seth1466",
+    author: "Everlost",
     releaseDate: "2012-08-26",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-attic/downloads/the-attic-full"
