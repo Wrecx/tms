@@ -7483,7 +7483,7 @@ const mods = [
     title: "True Amnesia Surround (Sound effects)",
     author: "alex.schroedsen",
     releaseDate: "2013-01-03",
-    type: "Custom Story",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-virtual-31-surround/downloads/true-amnesia-surroundsoundfx-soft-oaldll"
   }
   ,
