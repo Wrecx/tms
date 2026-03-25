@@ -345,7 +345,7 @@ td input[type="checkbox"] {
 </header>
 
   <main>
-<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It also doesn't list demos or earlier versions of mods, just the newest version available.<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>The release dates usually show when the mod's page was created, not the newest version's date - and if the mod doesn't have a page, the release date will be the date of the last modified file in the mod's folder.<br>If you know any mods that aren't listed here, please contact me on Discord   <a href="#bottom" id="scrollToBottom" style="cursor: pointer; text-decoration: none; color: inherit;">(at the bottom of the page)</a>.</p>
+<p class="description">Welcome to The Mod Sanitarium — your go-to place for Amnesia mods!<br>This page does not list translations of mods or the main game.<br>It also doesn't list demos or earlier versions of mods, just the newest version available.<br>For mods which had "Amnesia: " in their name, I just removed that part.<br>Some mods are labeled as Custom Story (FC), which means it's a Full Conversion mod.<br>The release dates usually show when the mod's page was created, not the newest version's date - and if the mod doesn't have a page, the release date will be the date of the last modified file in the mod's folder.<br>If you know any mods that aren't listed here, please contact me on Discord   <a href="#bottom" id="scrollToBottom" style="cursor: pointer; text-decoration: none; color: inherit;">(at the bottom of the page)</a>.</p>
 <br>
 <div class="filters" role="region" aria-label="Filter and sort options">
   <!-- Row 1: Sort + Year -->
@@ -372,8 +372,10 @@ td input[type="checkbox"] {
       Type:
       <select id="typeFilter" aria-controls="modsTable" aria-label="Filter mods by type">
         <option value="all" selected>All Types</option>
-        <option value="Custom Story">Custom Story</option>
-        <option value="Addon">Addon</option>
+        <option value="customStoryAll">Custom Story (All)</option>
+        <option value="customStoryOnly">Custom Story Only</option>
+        <option value="fullConversionOnly">Full Conversion Only</option>
+        <option value="addon">Addon</option>
       </select>
     </label>
 
@@ -484,6 +486,7 @@ td input[type="checkbox"] {
   const searchInput = document.getElementById('searchInput');
   const typeSelect = document.getElementById('typeFilter');
 
+
   const startYear = 2010;
   const endYear = 2026;
   let selectedYear = 'all';
@@ -543,7 +546,10 @@ tr.appendChild(checkTd);
 
       const typeTd = document.createElement('td');
       typeTd.classList.add('type', 'fixed-width');
-      typeTd.textContent = mod.type;
+
+      const isFC = !!mod.isFullConversion;
+      typeTd.textContent = mod.type + (isFC ? " (FC)" : "");
+
       tr.appendChild(typeTd);
 
       const downloadTd = document.createElement('td');
@@ -590,10 +596,24 @@ tr.appendChild(checkTd);
     return modsArray.filter(mod => new Date(mod.releaseDate).getFullYear().toString() === year);
   }
 
-  function filterByType(type, modsArray) {
-    if (type === 'all') return modsArray;
-    return modsArray.filter(mod => mod.type === type);
-  }
+function filterByType(type, modsArray) {
+  if (type === 'all') return modsArray;
+
+  return modsArray.filter(mod => {
+    switch(type) {
+      case 'customStoryAll':
+        return mod.type === "Custom Story"; // includes both regular and FC
+      case 'customStoryOnly':
+        return mod.type === "Custom Story" && !mod.isFullConversion;
+      case 'fullConversionOnly':
+        return mod.type === "Custom Story" && mod.isFullConversion;
+      case 'addon':
+        return mod.type === "Addon";
+      default:
+        return true;
+    }
+  });
+}
 
   function filterBySearch(text, modsArray) {
     if (!text) return modsArray;
