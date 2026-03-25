@@ -270,12 +270,32 @@ table th, table td {
 .boldnumber {
   font-weight: bold;
 }
-th:nth-child(1), td:nth-child(1) { width: 10px; }   /* # */
-th:nth-child(2), td.title       { width: 48%; }    /* title gets most space */
-th:nth-child(3)                 { width: 20%; }    /* author */
+/* Checkbox column */
+th:nth-child(1), td:nth-child(1) {
+  width: 30px;
+  text-align: center;
+}
+
+/* # column */
+th:nth-child(2), td:nth-child(2) {
+  width: 40px;
+  text-align: right;
+}
+
+
+
+/* Author */
+th:nth-child(4), td.author {
+  width: 20%;
+}
 .fixed-width.release-date       { width: 110px; }  /* release date */
 .fixed-width.type               { width: 100px; }  /* rating */
 .fixed-width.download           { width: 80px; }   /* review */
+
+td input[type="checkbox"] {
+  transform: scale(1.2);
+  cursor: pointer;
+}
 
     .login-container {
   display: flex;
@@ -298,6 +318,21 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   height: 60px;
   margin-bottom: 0.5rem;
 }
+#progress-container {
+  width: 100%;
+  height: 20px;
+  background: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#progress-bar {
+  height: 100%;
+  width: 0%;
+  background: #4CAF50;
+  transition: width 0.3s;
+}
+
   </style>
 </head>
 
@@ -348,6 +383,7 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   <div class="filter-row">
     <button id="toggleTimeline" class="toggle-btn">Show Timeline</button>
     <button id="toggleGraph" class="toggle-btn">Show Graph</button>
+    <button id="toggleProgress" class="toggle-btn">Progress Mode</button>
   </div>
 
   <!-- Row 3: Search -->
@@ -363,6 +399,7 @@ th:nth-child(3)                 { width: 20%; }    /* author */
       />
     </label>
   </div>
+
 </div>
 
 
@@ -371,23 +408,35 @@ th:nth-child(3)                 { width: 20%; }    /* author */
 </div>
 
 <canvas id="modsPerYearChart" width="400" height="200"></canvas>
-<br>
 
-    <table id="modsTable" aria-label="List of Amnesia mods">
-        <thead>
-        <tr>
-            <th>#</th>
-            <th>Mod Title</th>
-            <th>Author</th>
-            <th class="fixed-width release-date">Release Date</th>
-            <th class="fixed-width type">Type</th>
-            <th class="fixed-width download">Download</th>
-        </tr>
-        </thead>
-      <tbody>
-        <!-- Mod rows will be inserted here by JS -->
-      </tbody>
-    </table>
+<div id="progressSection" style="display:none;">
+  <div id="progress-container">
+    <div id="progress-bar"></div>
+  </div>
+  <p id="progress-text" style="text-align:center; margin-bottom: 1rem;"></p>
+  <div style="text-align:center; margin-bottom: 1rem;">
+    <button id="exportBtn" class="toggle-btn">Export Progress</button>
+    <button id="importBtn" class="toggle-btn">Import Progress</button>
+    <input type="file" id="importFile" style="display:none;" />
+  </div>
+</div>
+    
+<table id="modsTable" aria-label="List of Amnesia mods">
+  <thead>
+    <tr>
+        <th>✔</th>
+        <th>#</th>
+        <th>Mod Title</th>
+        <th>Author</th>
+        <th class="fixed-width release-date">Release Date</th>
+        <th class="fixed-width type">Type</th>
+        <th class="fixed-width download">Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Mod rows will be inserted here by JS -->
+  </tbody>
+</table>
 
 <h1 class="section-title">Lost Mods</h1>
 <br>
@@ -442,7 +491,33 @@ th:nth-child(3)                 { width: 20%; }    /* author */
   function renderMods(modsToRender) {
     tableBody.innerHTML = '';
     modsToRender.forEach((mod, index) => {
-      const tr = document.createElement('tr');
+const tr = document.createElement('tr');
+
+// ✅ checkbox column
+const checkTd = document.createElement('td');
+
+if (mod.type === "Custom Story") {
+  const checkbox = document.createElement('input');
+  checkbox.type = 'checkbox';
+
+  const modId = mod.title + "_" + mod.author;
+  checkbox.dataset.id = modId;
+
+  // load saved state
+  if (localStorage.getItem(modId) === 'true') {
+    checkbox.checked = true;
+  }
+
+  // save on change
+  checkbox.addEventListener('change', () => {
+    localStorage.setItem(modId, checkbox.checked);
+    updateProgress();
+  });
+
+  checkTd.appendChild(checkbox);
+}
+
+tr.appendChild(checkTd);
 
       const idTd = document.createElement('td');
       idTd.textContent = index + 1;
@@ -543,6 +618,7 @@ th:nth-child(3)                 { width: 20%; }    /* author */
     renderMods(sorted);
 
     renderOrUpdateModsChart(selectedYear);
+    updateProgress();
   }
 
   // --- Timeline ---
@@ -753,6 +829,76 @@ function renderMods2(modsArray) {
   });
 }
 
+function updateProgress() {
+  const all = document.querySelectorAll('#modsTable tbody input[type="checkbox"]');
+  const checked = [...all].filter(cb => cb.checked).length;
+
+  const total = all.length;
+  const percent = total === 0 ? 0 : Math.round((checked / total) * 100);
+
+  document.getElementById('progress-bar').style.width = percent + '%';
+  document.getElementById('progress-text').textContent =
+    `${checked} / ${total} completed (${percent}%)`;
+}
+document.getElementById('exportBtn').addEventListener('click', () => {
+  const data = {};
+
+  document.querySelectorAll('#modsTable input[type="checkbox"]').forEach(cb => {
+    data[cb.dataset.id] = cb.checked;
+  });
+
+  const blob = new Blob([JSON.stringify(data, null, 2)], {
+    type: 'application/json'
+  });
+
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'tms-progress.json';
+  a.click();
+});
+const importBtn = document.getElementById('importBtn');
+const importFile = document.getElementById('importFile');
+
+importBtn.addEventListener('click', () => {
+  importFile.click();
+});
+
+importFile.addEventListener('change', () => {
+  const file = importFile.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+
+  reader.onload = (e) => {
+    try {
+      const data = JSON.parse(e.target.result);
+
+      Object.entries(data).forEach(([id, checked]) => {
+        localStorage.setItem(id, checked);
+      });
+
+      updateMods(); // re-render everything
+    } catch (err) {
+      alert('Invalid file!');
+    }
+  };
+
+  reader.readAsText(file);
+});
+
+let progressMode = false;
+
+document.getElementById('toggleProgress').addEventListener('click', () => {
+  progressMode = !progressMode;
+
+  // show/hide progress UI
+  document.getElementById('progressSection').style.display =
+    progressMode ? 'block' : 'none';
+
+  // re-render table to add/remove checkboxes
+  updateMods();
+});
+
 renderMods2(mods2);
 
 document.getElementById('scrollToBottom').addEventListener('click', function(e) {
@@ -768,7 +914,6 @@ document.getElementById('scrollToBottom').addEventListener('click', function(e) 
 
 </body>
 </html>
-
 
 
 
