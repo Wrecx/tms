@@ -4635,11 +4635,11 @@ const mods = [
   }
   ,
   {
-    title: "The Small Horse Part 1 & Part 2",
+    title: "The Small Horse Series",
     author: "Litronom",
     releaseDate: "2012",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/groups/amnesia-the-dark-descent-addons-ua/downloads/the-small-horse-part-1-part-2"
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-the-small-horse-series-v25022018-mod/z9101b5"
   }
   ,
   {
