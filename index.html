@@ -270,18 +270,19 @@ table th, table td {
 .boldnumber {
   font-weight: bold;
 }
-/* Checkbox column */
-th:nth-child(1), td:nth-child(1) {
+/* Only affect main table */
+#modsTable th:nth-child(1),
+#modsTable td:nth-child(1) {
   width: 30px;
   text-align: center;
 }
 
 /* # column */
-th:nth-child(2), td:nth-child(2) {
+#modsTable th:nth-child(2),
+#modsTable td:nth-child(2) {
   width: 40px;
   text-align: right;
 }
-
 
 
 /* Author */
