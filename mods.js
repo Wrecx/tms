@@ -9246,7 +9246,7 @@ const mods = [
     author: "xX_gorbo_Xx",
     releaseDate: "2025-08-31",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/drive/folders/1PEi1Eb6KHQIU6ivC9gQm3FJD05eoJTjy?usp=drive_link"
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3559291187&searchtext=jorn"
   }
   ,
   {
