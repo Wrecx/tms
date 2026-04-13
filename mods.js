@@ -5389,6 +5389,7 @@ const mods = [
     author: "Bgproductions",
     releaseDate: "2017-08-06",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/north-eclipse/downloads/north-eclipse-v0-2-english"
   }
   ,
@@ -10863,6 +10864,7 @@ const mods = [
     author: "starstormm",
     releaseDate: "2025-12-07",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/glicea-the-vessel/downloads/glicea-the-vessel-v11"
   }
   ,
