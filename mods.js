@@ -10895,7 +10895,7 @@ const mods = [
   ,
   {
     title: "Lost World",
-    author: "Zale",
+    author: "Masqbyte_Media",
     releaseDate: "2026-01-25",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lost-world/downloads/lost-world-version-102"
