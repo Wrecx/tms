@@ -10924,4 +10924,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3679162680"
   }
+  ,
+  {
+    title: "Overtime",
+    author: "Badcat0_0",
+    releaseDate: "2026-04-13",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/overtime/downloads/overtime-demo-10"
+  }
 ];
