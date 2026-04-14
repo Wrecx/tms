@@ -10930,6 +10930,7 @@ const mods = [
     author: "Badcat0_0",
     releaseDate: "2026-04-13",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/overtime/downloads/overtime-demo-10"
   }
 ];
