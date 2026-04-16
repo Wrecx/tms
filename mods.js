@@ -7360,7 +7360,7 @@ const mods = [
   }
   ,
   {
-    title: "Trapped 1-2",
+    title: "Trapped 2",
     author: "TheUnbeholden",
     releaseDate: "2013-03-09",
     type: "Custom Story",
