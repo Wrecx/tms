@@ -5082,7 +5082,7 @@ const mods = [
     author: "emmet1408",
     releaseDate: "2018-10-01",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/project-castle-episode-1/downloads/project-castle-episode-1-v10"
+    downloadLink: "https://www.moddb.com/mods/project-castle-episode-1/downloads/project-castle-ep1-v11-engrus"
   }
   ,
   {
