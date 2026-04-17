@@ -9160,15 +9160,6 @@ const mods = [
   }
   ,
   {
-    title: "The Filth Maker",
-    author: "Benny_R",
-    releaseDate: "2025-10-28",
-    type: "Custom Story",
-    isFullConversion: true,
-    downloadLink: "https://www.moddb.com/mods/the-filth-maker-bonus-campaign/downloads/amnesia-the-filth-maker"
-  }
-  ,
-  {
     title: "Year Zero",
     author: "Shyrtexx",
     releaseDate: "2025-11-07",
