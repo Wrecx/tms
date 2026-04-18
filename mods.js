@@ -1216,6 +1216,7 @@ const mods = [
     author: "DamnNoHtml",
     releaseDate: "2011-09-14",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/insomnia-the-wake-trilogy/downloads/insomnia-v11"
   }
   ,
@@ -10865,7 +10866,7 @@ const mods = [
     releaseDate: "2025-12-09",
     type: "Custom Story",
     isFullConversion: true,
-    downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-release"
+    downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-204"
   }
   ,
   {
