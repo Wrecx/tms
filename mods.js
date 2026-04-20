@@ -10866,7 +10866,7 @@ const mods = [
     releaseDate: "2025-12-09",
     type: "Custom Story",
     isFullConversion: true,
-    downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-204"
+    downloadLink: "https://www.moddb.com/mods/lifeless-descent-into-abandon/downloads/lifeless-descent-into-abandon-release"
   }
   ,
   {
