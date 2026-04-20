@@ -4696,7 +4696,7 @@ const mods = [
     author: "XxSkyFox17xX",
     releaseDate: "2014-04-08",
     type: "Custom Story",
-    downloadLink: ""
+    downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/paranoia-demo-version"
   }
   ,
   {
