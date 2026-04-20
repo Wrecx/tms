@@ -6320,7 +6320,7 @@ const mods = [
     title: "Black Mist",
     author: "Andrew Studios",
     releaseDate: "2014-05-20",
-    type: "Custom Story",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/mods/black-mist-custom-main-menu/downloads/black-mist-for-64-bit-systems-with-steam"
   }
   ,
