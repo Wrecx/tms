@@ -1948,14 +1948,6 @@ const mods = [
   }
   ,
   {
-    title: "An Unexpected Arrival ",
-    author: "LloydIsGolden",
-    releaseDate: "2024-06-03",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/an-unexpected-arrival-full-version/downloads/the-unexpected-arrival-full"
-  }
-  ,
-  {
     title: "Illusions of the Dead",
     author: "TimProzz",
     releaseDate: "2017-08-21",
