@@ -10917,4 +10917,13 @@ const mods = [
     isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/overtime/downloads/overtime-demo-10"
   }
+  ,
+  {
+    title: "Modular Staircase Set (HPL2)",
+    author: "Rostarn",
+    releaseDate: "2026-04-23",
+    type: "Addon",
+    isFullConversion: false,
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/modular-staircase-set-hpl2"
+  }
 ];
