@@ -10926,4 +10926,13 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/modular-staircase-set-hpl2"
   }
+  ,
+  {
+    title: "Tower Descent",
+    author: "Wrecx",
+    releaseDate: "2026-04-25",
+    type: "Custom Story",
+    isFullConversion: true,
+    downloadLink: "https://www.moddb.com/mods/tower-descent-full-version/downloads/tower-descent-v10"
+  }
 ];
