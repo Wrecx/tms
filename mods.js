@@ -4904,6 +4904,14 @@ const mods = [
     author: "umbakarna",
     releaseDate: "2013-08-26",
     type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/red-waters-amnesia-custom-story/downloads/red-waters-amnesia-download"
+  }
+  ,
+  {
+    title: "Red Waters remake",
+    author: "umbakarna",
+    releaseDate: "2018-08-27",
+    type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/red-waters-amnesia-custom-story/downloads/red-waters-remake"
   }
   ,
