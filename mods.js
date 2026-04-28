@@ -10943,4 +10943,13 @@ const mods = [
     isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/tower-descent-full-version/downloads/tower-descent-v10"
   }
+  ,
+  {
+    title: "Orion [DEMO]",
+    author: "Shyrtexx",
+    releaseDate: "2018-03-16",
+    type: "Custom Story",
+    isFullConversion: false,
+    downloadLink: "https://www.moddb.com/mods/amnesia-orion/downloads/orion-demo"
+  }
 ];
