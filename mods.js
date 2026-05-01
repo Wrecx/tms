@@ -10952,4 +10952,13 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://www.moddb.com/mods/amnesia-orion/downloads/orion-demo"
   }
+  ,
+  {
+    title: "The Inquisition - Part One",
+    author: "DaBirb",
+    releaseDate: "2026-04-28",
+    type: "Custom Story",
+    isFullConversion: false,
+    downloadLink: "https://www.moddb.com/mods/na70864/downloads/the-inquisition-part-one"
+  }
 ];
