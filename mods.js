@@ -10961,4 +10961,13 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://www.moddb.com/mods/na70864/downloads/the-inquisition-part-one"
   }
+  ,
+  {
+    title: "scary house",
+    author: "doomguy",
+    releaseDate: "2026-04-29",
+    type: "Custom Story",
+    isFullConversion: false,
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3716365114"
+  }
 ];
