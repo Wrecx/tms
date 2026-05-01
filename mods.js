@@ -8985,7 +8985,7 @@ const mods = [
   ,
   {
     title: "Out Of Time",
-    author: "Custommapper",
+    author: "Rockspirit",
     releaseDate: "2012-08-29",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/out-of-time/addons/out-of-time-english"
