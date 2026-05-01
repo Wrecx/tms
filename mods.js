@@ -5315,7 +5315,7 @@ const mods = [
   {
     title: "Alma Remastered",
     author: "CheesyDeveloper",
-    releaseDate: "2012-10-19",
+    releaseDate: "2017-09-30",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/alma/downloads/alma-remastered-new-version"
   }
