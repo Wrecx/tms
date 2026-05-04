@@ -729,6 +729,7 @@ const mods = [
     author: "Sabatu",
     releaseDate: "2014-10-15",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://www.moddb.com/mods/amnesia-the-escape/downloads/demo-reveal"
   }
   ,
