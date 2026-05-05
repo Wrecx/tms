@@ -420,6 +420,7 @@ td input[type="checkbox"] {
   <div style="text-align:center; margin-bottom: 1rem;">
     <button id="exportBtn" class="toggle-btn">Export Progress</button>
     <button id="importBtn" class="toggle-btn">Import Progress</button>
+    <button id="toggleCompleted" class="toggle-btn">Hide Completed</button>
     <input type="file" id="importFile" style="display:none;" />
   </div>
 </div>
@@ -486,6 +487,9 @@ td input[type="checkbox"] {
   const sortSelect = document.getElementById('sortCriteria');
   const searchInput = document.getElementById('searchInput');
   const typeSelect = document.getElementById('typeFilter');
+
+  let progressMode = false;
+  let hideCompleted = false;
 
 
   const startYear = 2010;
@@ -626,6 +630,11 @@ function filterByType(type, modsArray) {
     );
   }
 
+function isModCompleted(mod) {
+  const modId = (mod.title + "_" + mod.author).toLowerCase().trim();
+  return localStorage.getItem(modId) === 'true';
+}
+
   function updateMods() {
     const selectedSort = sortSelect.value;
     const searchText = searchInput.value.trim();
@@ -634,6 +643,13 @@ function filterByType(type, modsArray) {
     let filtered = filterByYear(selectedYear, mods);
     filtered = filterBySearch(searchText, filtered);
     filtered = filterByType(selectedType, filtered);
+
+    if (progressMode && hideCompleted) {
+      filtered = filtered.filter(mod => {
+        const modId = mod.title + "_" + mod.author;
+        return localStorage.getItem(modId) !== 'true';
+      });
+    }
 
     let sorted = sortMods(selectedSort, filtered);
     renderMods(sorted);
@@ -907,7 +923,6 @@ importFile.addEventListener('change', () => {
   reader.readAsText(file);
 });
 
-let progressMode = false;
 
 document.getElementById('toggleProgress').addEventListener('click', () => {
   progressMode = !progressMode;
@@ -917,6 +932,15 @@ document.getElementById('toggleProgress').addEventListener('click', () => {
     progressMode ? 'block' : 'none';
 
   // re-render table to add/remove checkboxes
+  updateMods();
+});
+
+document.getElementById('toggleCompleted').addEventListener('click', () => {
+  hideCompleted = !hideCompleted;
+
+  document.getElementById('toggleCompleted').textContent =
+    hideCompleted ? "Show Completed" : "Hide Completed";
+
   updateMods();
 });
 
