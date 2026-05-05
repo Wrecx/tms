@@ -2103,11 +2103,35 @@ const mods = [
   }
   ,
   {
-    title: "Troll Story Unofficial Continuation",
+    title: "Troll Story 2",
     author: "Ggohoio",
-    releaseDate: "2024-06-15",
+    releaseDate: "2022-03-18",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-unofficial-continuation-suite"
+    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-2"
+  }
+  ,
+  {
+    title: "Troll Story 3 & 4",
+    author: "Ggohoio",
+    releaseDate: "2022-03-18",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-3"
+  }
+  ,
+  {
+    title: "Troll Story 5",
+    author: "Ggohoio",
+    releaseDate: "2022-03-26",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-5"
+  }
+  ,
+  {
+    title: "Troll Story Interlude",
+    author: "Ggohoio",
+    releaseDate: "2023-07-05",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/troll-stories-unofficial-continuation/downloads/troll-story-interlude"
   }
   ,
   {
@@ -9997,7 +10021,7 @@ const mods = [
   ,
   {
     title: "Jesus Phobias",
-    author: "Willy",
+    author: "Willy Fox",
     releaseDate: "2012-11-16",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1zfxx1H_JkaIn0G3vHTS0lf2iJcgmocOm/view?usp=drive_link"
