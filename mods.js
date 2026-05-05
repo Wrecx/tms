@@ -4092,14 +4092,6 @@ const mods = [
   }
   ,
   {
-    title: "Icarus",
-    author: "Rigi, Kurton",
-    releaseDate: "2011-10-10",
-    type: "Custom Story",
-    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985253922&searchtext=icarus"
-  }
-  ,
-  {
     title: "Father",
     author: "swedishTOASTER",
     releaseDate: "2012-03-07",
