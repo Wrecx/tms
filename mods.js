@@ -6732,7 +6732,7 @@ const mods = [
     author: "CheesyDeveloper",
     releaseDate: "2013-08-10",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/dark-case-scary-story/downloads/dark-case-version-3"
+    downloadLink: "https://www.moddb.com/mods/dark-case/downloads/dark-case-version-3"
   }
   ,
   {
