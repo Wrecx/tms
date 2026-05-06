@@ -3859,7 +3859,7 @@ const mods = [
   }
   ,
   {
-    title: "Horror Day 3)",
+    title: "Horror Day 3",
     author: "KarelKupec475",
     releaseDate: "2019-12-30",
     type: "Custom Story",
