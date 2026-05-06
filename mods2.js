@@ -126,4 +126,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/tranquillity/downloads/tranquillity-version-4"
   }
+  ,
+  {
+    title: "Only Fear 2: From The Past",
+    author: "StasFedoroV",
+    releaseDate: "2013-08-11",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/only-fear-from-the-past/downloads/only-fear-from-the-past"
+  }
 ];
