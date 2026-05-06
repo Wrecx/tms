@@ -118,4 +118,12 @@ const mods2 = [
     type: "Addon",
     downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/downloads/amnesia-the-dark-descent-pewdiepie-background"
   }
+  ,
+  {
+    title: "Tranquillity",
+    author: "PyrrhaYgerna",
+    releaseDate: "2015-08-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/tranquillity/downloads/tranquillity-version-4"
+  }
 ];
