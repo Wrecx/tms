@@ -7722,7 +7722,7 @@ const mods = [
     author: "CheesyDeveloper",
     releaseDate: "2012-11-07",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/brutal-lies/downloads/brutal-lies-complete-version"
+    downloadLink: "https://www.moddb.com/mods/brutal-lies/downloads/brutal-lies1"
   }
   ,
   {
