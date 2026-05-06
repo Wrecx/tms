@@ -134,4 +134,12 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/only-fear-from-the-past/downloads/only-fear-from-the-past"
   }
+  ,
+  {
+    title: "The Last Adventure Demo",
+    author: "megablue104",
+    releaseDate: "2016-08-01",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-last-adventure-demo"
+  }
 ];
