@@ -10987,4 +10987,13 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3716365114"
   }
+  ,
+  {
+    title: "Fruskygames' Lantern",
+    author: "FruskyGames & Kiralmmortal",
+    releaseDate: "2026-05-07",
+    type: "Addon",
+    isFullConversion: false,
+    downloadLink: "https://www.moddb.com/mods/kiraimmortals-amnesia-assets/addons/fruskygames-lantern"
+  }
 ];
