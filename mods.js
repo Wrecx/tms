@@ -8961,14 +8961,6 @@ const mods = [
   }
   ,
   {
-    title: "Asylum: The Darkness",
-    author: "DIGI Byte",
-    releaseDate: "2011-01-05",
-    type: "Custom Story",
-    downloadLink: "https://forum.frictionalgames.com/thread-6058.html"
-  }
-  ,
-  {
     title: "Total Darkness",
     author: "Jimmy Widlund",
     releaseDate: "2011-02-13",
@@ -9492,7 +9484,7 @@ const mods = [
   }
   ,
   {
-    title: "Asylum: The Darkness, menu test",
+    title: "Asylum: The Darkness",
     author: "DIGI Byte",
     releaseDate: "2011-01-05",
     type: "Custom Story",
