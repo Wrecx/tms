@@ -4038,7 +4038,7 @@ const mods = [
   {
     title: "The Cake",
     author: "Hannibal",
-    releaseDate: "0000",
+    releaseDate: "2023-06-03",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984311074&searchtext="
   }
