@@ -4084,14 +4084,6 @@ const mods = [
   }
   ,
   {
-    title: "Amnesia Trailer",
-    author: "Delirium",
-    releaseDate: "0000",
-    type: "Custom Story",
-    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984313611&searchtext=trailer"
-  }
-  ,
-  {
     title: "Father",
     author: "swedishTOASTER",
     releaseDate: "2012-03-07",
