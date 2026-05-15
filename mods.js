@@ -9350,7 +9350,7 @@ const mods = [
   {
     title: "Abandon Castle",
     author: "victorkim890(KimmyChimmy)",
-    releaseDate: "0000",
+    releaseDate: "2014-07-14",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1POS5jAq0vUltm_v7SsEUCa8FVLyVZ1nj/view?usp=drive_link"
   }
