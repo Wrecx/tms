@@ -4639,7 +4639,7 @@ const mods = [
   {
     title: "The Small Horse Series",
     author: "Litronom",
-    releaseDate: "2012",
+    releaseDate: "2012-03-26",
     type: "Custom Story",
     downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-the-small-horse-series-v25022018-mod/z9101b5"
   }
