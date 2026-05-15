@@ -4757,11 +4757,19 @@ const mods = [
   }
   ,
   {
-    title: "The Darkness",
+    title: "The Darkness (2010 version)",
     author: "Jordo76",
     releaseDate: "2010-09-28",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-darkness/addons/the-darkness"
+  }
+  ,
+  {
+    title: "The Darkness Demo",
+    author: "Jordo76",
+    releaseDate: "2011-07-19",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-darkness/downloads/the-darkness-demo"
   }
   ,
   {
