@@ -9164,7 +9164,7 @@ const mods = [
   {
     title: "Diary of a Madman - Prologue",
     author: "Zeravia Firestarter",
-    releaseDate: "2011",
+    releaseDate: "2011-08-15",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1d16e-DzTaaEligbX2YH7ecf91tOKvwYq/view?usp=drive_link"
   }
