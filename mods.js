@@ -4046,7 +4046,7 @@ const mods = [
   {
     title: "Cuddle Cutie's Nightmare",
     author: "John Budrevic a.k.a. Snuggle Bubble",
-    releaseDate: "0000",
+    releaseDate: "2013-02-04",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984303959&searchtext="
   }
