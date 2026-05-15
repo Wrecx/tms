@@ -108,14 +108,6 @@ const mods = [
   }
   ,
   {
-    title: "My Simple Mod",
-    author: "GameWatcher",
-    releaseDate: "2011-01-07",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/my-simple-mod-unnamed"
-  }
-  ,
-  {
     title: "An Unexpected Arrival",
     author: "Nye",
     releaseDate: "2011-02-07",
