@@ -4022,7 +4022,7 @@ const mods = [
   {
     title: "Absurd 2: The Drugged Up Nightmare",
     author: "M3NTALMAN",
-    releaseDate: "0000",
+    releaseDate: "2021-02-20",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984527007&searchtext="
   }
