@@ -9262,7 +9262,7 @@ const mods = [
   {
     title: "Mansion infection",
     author: "Doomtodeath",
-    releaseDate: "0000",
+    releaseDate: "2013",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/drive/folders/1BIPsmhix3B7BzzARIjPnAMJc03_pKbBg?usp=drive_link"
   }
