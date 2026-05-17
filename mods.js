@@ -2348,7 +2348,7 @@ const mods = [
   {
     title: "Madness ch03",
     author: "Marzio99",
-    releaseDate: "2013-02-03",
+    releaseDate: "2011-03-20",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/groups/amnesia-modders/downloads/madness-ch03-demo-ita-eng"
   }
@@ -3988,7 +3988,7 @@ const mods = [
   }
   ,
   {
-    title: "Madness Chapter 1",
+    title: "Madness ch01",
     author: "Marzio99",
     releaseDate: "2013",
     type: "Custom Story",
