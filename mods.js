@@ -9740,14 +9740,6 @@ const mods = [
   }
   ,
   {
-    title: "Escape",
-    author: "2make2",
-    releaseDate: "2013-06-08",
-    type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1hM7C0nAdsKbuO9G4yoR5wHRdsWT2458x/view?usp=drive_link"
-  }
-  ,
-  {
     title: "escape the monsters",
     author: "anan",
     releaseDate: "2021-01-31",
