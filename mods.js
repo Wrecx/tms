@@ -3494,14 +3494,6 @@ const mods = [
   }
   ,
   {
-    title: "The Secret of the Village",
-    author: "ThibixCZ",
-    releaseDate: "2020-11-11",
-    type: "Custom Story",
-    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-the-secret-of-the-village-v7012021-mod/zf12dfb"
-  }
-  ,
-  {
     title: "House of Creep 9 (fan made)",
     author: "512[DXII]",
     releaseDate: "2020-10-07",
