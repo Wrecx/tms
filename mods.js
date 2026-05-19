@@ -3418,7 +3418,7 @@ const mods = [
     author: "nerfedanto",
     releaseDate: "2016-09-25",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/downloads/the-maze-of-lost-memories-v75"
+    downloadLink: "https://www.moddb.com/mods/the-maze-of-lost-memories/downloads/the-maze-of-lost-memories-v8"
   }
   ,
   {
