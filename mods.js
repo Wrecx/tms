@@ -10972,4 +10972,13 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://www.moddb.com/mods/kiraimmortals-amnesia-assets/addons/fruskygames-lantern"
   }
+  ,
+  {
+    title: "Castle Survival",
+    author: "MrPur0",
+    releaseDate: "2011-03-12",
+    type: "Custom Story",
+    isFullConversion: false,
+    downloadLink: "https://drive.google.com/file/d/1ImJyVLNeHH5rV3JzirqZSWeXgC3KcfhP/view?usp=sharing"
+  }
 ];
