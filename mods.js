@@ -3498,7 +3498,7 @@ const mods = [
     author: "ThibixCZ",
     releaseDate: "2020-11-11",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/the-secret-of-the-village/downloads/the-secret-of-the-village"
+    downloadLink: "https://www.gamepressure.com/download/amnesia-the-dark-descent-the-secret-of-the-village-v7012021-mod/zf12dfb"
   }
   ,
   {
