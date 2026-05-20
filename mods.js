@@ -3642,7 +3642,7 @@ const mods = [
   {
     title: "Library Of Alexandria",
     author: "Acies",
-    releaseDate: "2015-09-03",
+    releaseDate: "2011-10-04",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/teamnesia/downloads/library-of-alexandria-reupload"
   }
