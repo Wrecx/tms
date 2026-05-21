@@ -10979,6 +10979,6 @@ const mods = [
     author: "Marcus555",
     releaseDate: "2012-02-24",
     type: "Custom Story",
-    download: "https://drive.google.com/drive/folders/1QohoTs5X-AMUg8NNWxN59axECsHma33P?usp=drive_link"
+    download: "https://drive.google.com/drive/folders/1kGBn8kCP8n8qQJCKQLpf3P-xyeDA9uzl?usp=drive_link"
   }
 ];
