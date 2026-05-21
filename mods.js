@@ -7814,14 +7814,6 @@ const mods = [
   }
   ,
   {
-    title: "Marcell Davis Castle Horror",
-    author: "ultimegastriker",
-    releaseDate: "2012-02-22",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/marcell-davis-castle-horror/downloads/marcell-davis-castle-horror-english"
-  }
-  ,
-  {
     title: "The Sanity Game",
     author: "yourcomputer",
     releaseDate: "2012-09-11",
