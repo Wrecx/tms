@@ -10973,4 +10973,12 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/drive/folders/1kGBn8kCP8n8qQJCKQLpf3P-xyeDA9uzl?usp=drive_link"
   }
+  ,
+  {
+    title: "Dark Mansion(forbidden area)",
+    author: "L00T3R123",
+    releaseDate: "2014-12-20",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1fzylcd_lox29WILIje_X6sWTvGOMMQrY/view?usp=sharing"
+  }
 ];
