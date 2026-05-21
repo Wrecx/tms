@@ -10973,4 +10973,12 @@ const mods = [
     isFullConversion: false,
     downloadLink: "https://drive.google.com/file/d/1ImJyVLNeHH5rV3JzirqZSWeXgC3KcfhP/view?usp=sharing"
   }
+  ,
+  {
+    title: "A House 2",
+    author: "Marcus555",
+    releaseDate: "2012-02-24",
+    type: "Custom Story",
+    download: "https://drive.google.com/drive/folders/1QohoTs5X-AMUg8NNWxN59axECsHma33P?usp=drive_link"
+  }
 ];
