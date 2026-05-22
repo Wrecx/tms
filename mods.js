@@ -8948,7 +8948,7 @@ const mods = [
     title: "ECHO",
     author: "Saq",
     releaseDate: "2011-06-30",
-    type: "Custom Story",
+    type: "Addon",
     downloadLink: "https://www.moddb.com/mods/amnesia-echo/addons/amnesia-echo-v1"
   }
   ,
