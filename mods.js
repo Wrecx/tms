@@ -3319,7 +3319,7 @@ const mods = [
   ,
   {
     title: "The Electric Castle",
-    author: "Where have we gone? trolol",
+    author: "Khyrpa",
     releaseDate: "2011-07-07",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1UfHwHDHpqcPfQB5_kNzRUYHNjOUldS3a/view?usp=drive_link"
