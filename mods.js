@@ -10981,4 +10981,12 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1fzylcd_lox29WILIje_X6sWTvGOMMQrY/view?usp=sharing"
   }
+  ,
+  {
+    title: "Amnesia The Bunker Enemy: Stalker/Beast + Rat",
+    author: "OddStuff",
+    releaseDate: "2026-05-26",
+    type: "Addon",
+    download: "https://www.moddb.com/mods/amnesia-the-bunker-enemy-stalkerbeast-rat/downloads/amnesia-the-bunker-enemy-stalkerbeast-rat"
+  }
 ];
