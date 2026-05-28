@@ -8158,14 +8158,6 @@ const mods = [
   }
   ,
   {
-    title: "Dr.Frank",
-    author: "JorgoS",
-    releaseDate: "2012-07-01",
-    type: "Custom Story",
-    downloadLink: "https://www.moddb.com/downloads/drfrank"
-  }
-  ,
-  {
     title: "Dark Nightmares",
     author: "crazykilla",
     releaseDate: "2012-07-01",
