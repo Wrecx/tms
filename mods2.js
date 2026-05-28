@@ -134,4 +134,20 @@ const mods2 = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-last-adventure-demo"
   }
+  ,
+  {
+    title: "Retextured Entities Pack 1",
+    author: "Badcat0_0",
+    releaseDate: "2021-01-19",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/radicalbatz-assetspack/downloads/retextured-entities-pack-1"
+  }
+  ,
+  {
+    title: "Badcats Carpet",
+    author: "Badcat0_0",
+    releaseDate: "2021-01-19",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/radicalbatz-assetspack/downloads/badcats-carpet"
+  }
 ];
