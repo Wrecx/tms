@@ -3326,22 +3326,6 @@ const mods = [
   }
   ,
   {
-    title: "Retextured Entities Pack 1",
-    author: "Badcat5550",
-    releaseDate: "2021-01-19",
-    type: "Addon",
-    downloadLink: "https://www.moddb.com/mods/radicalbatz-assetspack/downloads/retextured-entities-pack-1"
-  }
-  ,
-  {
-    title: "Badcats Carpet",
-    author: "Badcat5550",
-    releaseDate: "2021-01-19",
-    type: "Addon",
-    downloadLink: "https://www.moddb.com/mods/radicalbatz-assetspack/downloads/badcats-carpet"
-  }
-  ,
-  {
     title: "BETAE3",
     author: "xarox02",
     releaseDate: "2021-01-17",
@@ -6094,7 +6078,7 @@ const mods = [
   ,
   {
     title: "The Barn's Secrets",
-    author: "Badcat5550",
+    author: "Badcat0_0",
     releaseDate: "2015-01-16",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-barns-secrets/downloads/the-barns-secrets-released"
@@ -6207,7 +6191,7 @@ const mods = [
   ,
   {
     title: "Lifeless The Abandon",
-    author: "Badcat5550",
+    author: "Badcat0_0",
     releaseDate: "2014-06-27",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/lifeless-the-abandon/downloads/lifeless-the-abandon"
