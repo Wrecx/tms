@@ -10965,4 +10965,12 @@ const mods = [
     type: "Addon",
     download: "https://www.moddb.com/mods/amnesia-the-bunker-enemy-stalkerbeast-rat/downloads/amnesia-the-bunker-enemy-stalkerbeast-rat"
   }
+  ,
+  {
+    title: "House of Brainless 4",
+    author: "xarox02",
+    releaseDate: "2026-05-29",
+    type: "Custom Story",
+    download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/house-of-brainless-4"
+  }
 ];
