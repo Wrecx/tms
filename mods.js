@@ -5748,7 +5748,7 @@ const mods = [
     author: "flamez3",
     releaseDate: "2012",
     type: "Custom Story",
-    downloadLink: "https://drive.google.com/file/d/1ytQKG0EjJYl7xweWIF3fuOpyq-MJ9xoj/view?usp=drive_link"
+    downloadLink: "https://drive.google.com/file/d/11GiNtkJYbPjt9zL7nDSNeqyUPy0N5lXi/view?usp=sharing"
   }
   ,
   {
