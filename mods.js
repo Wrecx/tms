@@ -10973,4 +10973,12 @@ const mods = [
     type: "Custom Story",
     download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/house-of-brainless-4"
   }
+  ,
+  {
+    title: "Furniture pack 1",
+    author: "Rostarn",
+    releaseDate: "2026-06-01",
+    type: "Addon",
+    download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/furniture-pack-1hpl2"
+  }
 ];
