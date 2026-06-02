@@ -10983,7 +10983,7 @@ const mods = [
   }
   ,
   {
-    title: "The Brute escpae",
+    title: "The Brute escape",
     author: "xancex",
     releaseDate: "2016-09-05",
     type: "Custom Story",
