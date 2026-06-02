@@ -10989,4 +10989,12 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1h66KTTWWACfYPWBWDjhEa81Ru9ejSZtd/view?usp=sharing"
   }
+  ,
+  {
+    title: "The Caretaker",
+    author: "xancex",
+    releaseDate: "2019-10-08",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1k2BtW1gPfvizcc9VfftDZ0vfBh8GZYoo/view?usp=sharing"
+  }
 ];
