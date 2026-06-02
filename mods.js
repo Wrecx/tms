@@ -3966,7 +3966,7 @@ const mods = [
   {
     title: "Madness ch01",
     author: "Marzio99",
-    releaseDate: "2013",
+    releaseDate: "2011-05-19",
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2984543681&searchtext="
   }
