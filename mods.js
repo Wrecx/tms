@@ -10981,4 +10981,12 @@ const mods = [
     type: "Addon",
     download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/furniture-pack-1hpl2"
   }
+  ,
+  {
+    title: "The Brute escpae",
+    author: "xancex",
+    releaseDate: "2016-09-05",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1h66KTTWWACfYPWBWDjhEa81Ru9ejSZtd/view?usp=sharing"
+  }
 ];
