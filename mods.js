@@ -10997,4 +10997,20 @@ const mods = [
     type: "Custom Story",
     download: "https://drive.google.com/file/d/1k2BtW1gPfvizcc9VfftDZ0vfBh8GZYoo/view?usp=sharing"
   }
+  ,
+  {
+    title: "The Strange House",
+    author: "xancex",
+    releaseDate: "2015-10-07",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1IthtLyZcGzqVnfYszqfMILKc7NK5xCEM/view?usp=sharing"
+  }
+  ,
+  {
+    title: "Investigate the House",
+    author: "xancex",
+    releaseDate: "2016-06-28",
+    type: "Custom Story",
+    download: "https://drive.google.com/file/d/1VkiPOdYQ1aqJ6HRDlvDtVbSoYwroeglp/view?usp=sharing"
+  }
 ];
