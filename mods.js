@@ -10947,7 +10947,7 @@ const mods = [
     author: "Marcus555",
     releaseDate: "2012-02-24",
     type: "Custom Story",
-    download: "https://drive.google.com/drive/folders/1kGBn8kCP8n8qQJCKQLpf3P-xyeDA9uzl?usp=drive_link"
+    downloadLink: "https://drive.google.com/drive/folders/1kGBn8kCP8n8qQJCKQLpf3P-xyeDA9uzl?usp=drive_link"
   }
   ,
   {
@@ -10955,7 +10955,7 @@ const mods = [
     author: "L00T3R123",
     releaseDate: "2014-12-20",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1fzylcd_lox29WILIje_X6sWTvGOMMQrY/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1fzylcd_lox29WILIje_X6sWTvGOMMQrY/view?usp=sharing"
   }
   ,
   {
@@ -10963,7 +10963,7 @@ const mods = [
     author: "OddStuff",
     releaseDate: "2026-05-26",
     type: "Addon",
-    download: "https://www.moddb.com/mods/amnesia-the-bunker-enemy-stalkerbeast-rat/downloads/amnesia-the-bunker-enemy-stalkerbeast-rat"
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-bunker-enemy-stalkerbeast-rat/downloads/amnesia-the-bunker-enemy-stalkerbeast-rat"
   }
   ,
   {
@@ -10971,7 +10971,7 @@ const mods = [
     author: "xarox02",
     releaseDate: "2026-05-29",
     type: "Custom Story",
-    download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/house-of-brainless-4"
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/house-of-brainless-4"
   }
   ,
   {
@@ -10979,7 +10979,7 @@ const mods = [
     author: "Rostarn",
     releaseDate: "2026-06-01",
     type: "Addon",
-    download: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/furniture-pack-1hpl2"
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/furniture-pack-1hpl2"
   }
   ,
   {
@@ -10987,7 +10987,7 @@ const mods = [
     author: "xancex",
     releaseDate: "2016-09-05",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1h66KTTWWACfYPWBWDjhEa81Ru9ejSZtd/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1h66KTTWWACfYPWBWDjhEa81Ru9ejSZtd/view?usp=sharing"
   }
   ,
   {
@@ -10995,7 +10995,7 @@ const mods = [
     author: "xancex",
     releaseDate: "2019-10-08",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1k2BtW1gPfvizcc9VfftDZ0vfBh8GZYoo/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1k2BtW1gPfvizcc9VfftDZ0vfBh8GZYoo/view?usp=sharing"
   }
   ,
   {
@@ -11003,7 +11003,7 @@ const mods = [
     author: "xancex",
     releaseDate: "2015-10-07",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1IthtLyZcGzqVnfYszqfMILKc7NK5xCEM/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1IthtLyZcGzqVnfYszqfMILKc7NK5xCEM/view?usp=sharing"
   }
   ,
   {
@@ -11011,6 +11011,6 @@ const mods = [
     author: "xancex",
     releaseDate: "2016-06-28",
     type: "Custom Story",
-    download: "https://drive.google.com/file/d/1VkiPOdYQ1aqJ6HRDlvDtVbSoYwroeglp/view?usp=sharing"
+    downloadLink: "https://drive.google.com/file/d/1VkiPOdYQ1aqJ6HRDlvDtVbSoYwroeglp/view?usp=sharing"
   }
 ];
