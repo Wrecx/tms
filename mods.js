@@ -797,7 +797,7 @@ const mods = [
     author: "Sabatu",
     releaseDate: "2021-11-04",
     type: "Custom Story",
-    isFullConversion: true,
+    isFullConversion: false,
     downloadLink: "https://www.moddb.com/mods/baxter-black-mirror/downloads/baxters-memoirs-act-1-black-mirror-definitive-edition"
   }
   ,
