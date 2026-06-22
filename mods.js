@@ -9901,7 +9901,7 @@ const mods = [
   ,
   {
     title: "Insanity: Nocturnal Confusion",
-    author: "dnalange",
+    author: "DnALANGE",
     releaseDate: "2012-04-23",
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1oe7EyN4RkC-W3x1IMzCg-xh9EWBO_AAt/view?usp=drive_link"
