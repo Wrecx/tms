@@ -11013,4 +11013,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://drive.google.com/file/d/1VkiPOdYQ1aqJ6HRDlvDtVbSoYwroeglp/view?usp=sharing"
   }
+  ,
+  {
+    title: "Kitchen pack (HPL2)",
+    author: "Rostarn",
+    releaseDate: "2026-06-23",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/downloads/kitchen-pack-hpl2"
+  }
 ];
