@@ -11021,4 +11021,20 @@ const mods = [
     type: "Addon",
     downloadLink: "https://www.moddb.com/downloads/kitchen-pack-hpl2"
   }
+  ,
+  {
+    title: "King's Sorrow - Act 1",
+    author: "CobraTEM",
+    releaseDate: "2026-06-24",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3750917681"
+  }
+  ,
+  {
+    title: "Those Days Are Gone",
+    author: "Masqbyte Media",
+    releaseDate: "2026-06-27",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3752373202"
+  }
 ];
