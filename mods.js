@@ -11037,4 +11037,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3752373202"
   }
+  ,
+  {
+    title: "The Only Way Is Thru",
+    author: "Martin22_",
+    releaseDate: "2026-06-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/the-only-way-is-thru/downloads/the-only-way-is-thru-demo"
+  }
 ];
