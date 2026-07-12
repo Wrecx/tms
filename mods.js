@@ -3170,7 +3170,7 @@ const mods = [
     author: "TrollingAntMan",
     releaseDate: "2021-03-03",
     type: "Custom Story",
-    downloadLink: "https://www.moddb.com/mods/silent-hill-respite/downloads/silent-hill-respite-waiting-for-you"
+    downloadLink: "https://drive.google.com/file/d/1-0yvlDQfKCmQY9pS9WYlkF2TpWeQJh1s/view?usp=sharing"
   }
   ,
   {
