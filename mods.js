@@ -11045,4 +11045,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/the-only-way-is-thru/downloads/the-only-way-is-thru-demo"
   }
+  ,
+  {
+    title: "Fibonacci Resolve",
+    author: "Albino Software",
+    releaseDate: "2026-07-12",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/fibonacci-resolve/downloads/fibonacci-resolve"
+  }
 ];
