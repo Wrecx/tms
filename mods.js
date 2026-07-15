@@ -11053,4 +11053,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/fibonacci-resolve/downloads/fibonacci-resolve"
   }
+  ,
+  {
+    title: "Escape the mansion",
+    author: "Cheeseburga125",
+    releaseDate: "2026-07-15",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-the-mansion/downloads/etm"
+  }
 ];
