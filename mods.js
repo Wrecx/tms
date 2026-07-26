@@ -11061,4 +11061,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/escape-the-mansion/downloads/etm"
   }
+  ,
+  {
+    title: "Escape the mansion II",
+    author: "Cheeseburga125",
+    releaseDate: "2026-07-24",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/escape-the-mansion-ii/downloads/escape-the-mansion-2"
+  }
 ];
