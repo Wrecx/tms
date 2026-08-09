@@ -11027,6 +11027,7 @@ const mods = [
     author: "CobraTEM",
     releaseDate: "2026-06-24",
     type: "Custom Story",
+    isFullConversion: true,
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3750917681"
   }
   ,
@@ -11068,5 +11069,21 @@ const mods = [
     releaseDate: "2026-07-24",
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/escape-the-mansion-ii/downloads/escape-the-mansion-2"
+  }
+  ,
+  {
+    title: "Local Co-Op Mod",
+    author: "The Born",
+    releaseDate: "2026-08-06",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/mods/amnesia-the-dark-descent-local-co-op-mod/downloads/lux1"
+  }
+  ,
+  {
+    title: "Profaned Capital XL",
+    author: "Rednie",
+    releaseDate: "2026-08-08",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/profaned-capital-xl/downloads/profaned-capital-xl"
   }
 ];
