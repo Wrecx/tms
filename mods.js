@@ -11086,4 +11086,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/profaned-capital-xl/downloads/profaned-capital-xl"
   }
+  ,
+  {
+    title: "ECHOES OF VÖLKHEIM",
+    author: "Sabatu",
+    releaseDate: "2026-09-03",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3795056713"
+  }
 ];
