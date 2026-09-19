@@ -11094,4 +11094,21 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3795056713"
   }
+  ,
+  {
+    title: "Nocturne - Hollow Reflections",
+    author: "Anathema Syndicate",
+    releaseDate: "2026-09-08",
+    type: "Custom Story",
+    isFullConversion: true,
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3793980428"
+  }
+  ,
+  {
+    title: "Liganti: The First Configuration",
+    author: "DroneQuadcopter",
+    releaseDate: "2026-09-03",
+    type: "Custom Story",
+    downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3795065442"
+  }
 ];
