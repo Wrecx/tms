@@ -11111,4 +11111,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3795065442"
   }
+  ,
+  {
+    title: "Hectic Hostel",
+    author: "collinchickenboy",
+    releaseDate: "2026-09-22",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/hectic-hostel/downloads/full-release7"
+  }
 ];
