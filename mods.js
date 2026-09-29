@@ -11119,4 +11119,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/hectic-hostel/downloads/full-release7"
   }
+  ,
+  {
+    title: "Sacrificium",
+    author: "Badcat0_0",
+    releaseDate: "2026-09-29",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/sacrificium/downloads/sacrificium"
+  }
 ];
