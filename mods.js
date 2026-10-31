@@ -11127,4 +11127,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/sacrificium/downloads/sacrificium"
   }
+  ,
+  {
+    title: "Not Your Average Halloween",
+    author: "RED CHEESE STUDIO",
+    releaseDate: "2026-10-31",
+    type: "Custom Story",
+    downloadLink: "https://www.moddb.com/mods/not-your-average-halloween/downloads/not-your-average-halloween"
+  }
 ];
