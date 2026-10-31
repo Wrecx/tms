@@ -11135,4 +11135,12 @@ const mods = [
     type: "Custom Story",
     downloadLink: "https://www.moddb.com/mods/not-your-average-halloween/downloads/not-your-average-halloween"
   }
+  ,
+  {
+    title: "Linux-native enhanced executable",
+    author: "headlesscyborg",
+    releaseDate: "2026-10-19",
+    type: "Addon",
+    downloadLink: "https://www.moddb.com/games/amnesia-the-dark-descent/addons/linux-native-enhanced-executable"
+  }
 ];
